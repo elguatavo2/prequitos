@@ -253,3 +253,35 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [21:57:07] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Enchanter]
 [21:58:03] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Sweet Dreams]
 [21:58:15] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
+[22:04:03] [localSession-7-4/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client timed out
+[22:04:03] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
+[22:04:03] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
+[22:04:03] [Server thread/INFO]: .TeenCupid429295 left the game
+[22:04:18] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
+[22:04:18] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
+[22:04:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
+[22:04:19] [Server thread/INFO]: .TeenCupid429295 joined the game
+[22:04:19] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 5865 at ([world]248.81537, 1.0, 88.88573)
+[22:04:53] [Server thread/INFO]: .TeenCupid429295 has made the advancement [Acquire Hardware]
+[22:05:23] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username BatsPizza189850
+[22:05:23] [localSession-7-2/INFO]: [Geyser-Spigot] BatsPizza189850 (logged in as: BatsPizza189850) has connected to the Java server
+[22:05:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 joined (UUID: 00000000-0000-0000-0009-01f10bef56dc)
+[22:05:24] [Server thread/INFO]: .BatsPizza189850 joined the game
+[22:05:24] [Server thread/INFO]: .BatsPizza189850[/127.0.0.1:0] logged in with entity id 6202 at ([world]473.92795, 68.0, -181.04105)
+[22:05:55] [Server thread/INFO]: .TeenCupid429295 has made the advancement [Suit Up]
+[22:06:06] [Async Chat Thread - #6/INFO]: [Not Secure] <.Torrico183> identifíquese
+[22:06:16] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> .BatsPizza189850 QUIEN SOS
+[22:07:21] [Async Chat Thread - #8/INFO]: [Not Secure] <.BatsPizza189850> rivas
+[22:07:27] [Async Chat Thread - #9/INFO]: [Not Secure] <elguatavo7u7159> haaaaaaaaaa lla
+[22:07:33] [Async Chat Thread - #9/INFO]: [Not Secure] <elguatavo7u7159> entro al dicord choco
+[22:08:19] [Async Chat Thread - #9/INFO]: [Not Secure] <mechajuan3> onde etan?
+[22:08:26] [Async Chat Thread - #9/INFO]: [Not Secure] <elguatavo7u7159> en la mina
+[22:08:34] [Async Chat Thread - #8/INFO]: [Not Secure] <mechajuan3> donde¿
+[22:09:46] [Async Chat Thread - #10/INFO]: [Not Secure] <mechajuan3> cord pe
+[22:09:49] [Server thread/INFO]: elguatavo7u7159 issued server command: /time S D
+[22:09:55] [Async Chat Thread - #10/INFO]: [Not Secure] <.Torrico183> duerman
+[22:09:58] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
+[22:12:23] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client disconnected
+[22:12:23] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
+[22:12:23] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
+[22:12:23] [Server thread/INFO]: .TeenCupid429295 left the game
