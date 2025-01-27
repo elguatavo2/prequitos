@@ -492,3 +492,23 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [01:25:33] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
 [01:25:33] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
 [01:25:33] [Server thread/INFO]: .Torrico183 left the game
+[01:26:17] [Async Chat Thread - #16/INFO]: [Not Secure] <elguatavo7u7159> .TeenCupid429295 ENTRA AL DICORD CANAL DE AUDIO 2
+[01:28:21] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[01:28:32] [Server thread/INFO]: _TaeV_ has made the advancement [Acquire Hardware]
+[01:28:39] [Server thread/INFO]: _TaeV_ has made the advancement [Isn't It Iron Pick]
+[01:29:01] [Async Chat Thread - #18/INFO]: [Not Secure] <elguatavo7u7159> hola
+[01:29:11] [Async Chat Thread - #18/INFO]: [Not Secure] <mechajuan3> tu nariz contra mis bolas
+[01:30:49] [localSession-7-4/INFO]: [Geyser-Spigot] Adriawn has disconnected from the Java server because of Bedrock client disconnected
+[01:30:49] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Adriawn disconnected
+[01:30:49] [Server thread/INFO]: .Adriawn lost connection: Disconnected
+[01:30:49] [Server thread/INFO]: .Adriawn left the game
+[01:31:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Adriawn
+[01:31:51] [localSession-7-2/INFO]: [Geyser-Spigot] Adriawn (logged in as: Adriawn) has connected to the Java server
+[01:31:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Adriawn joined (UUID: 00000000-0000-0000-0009-01f14a7ac053)
+[01:31:52] [Server thread/INFO]: .Adriawn joined the game
+[01:31:52] [Server thread/INFO]: .Adriawn[/127.0.0.1:0] logged in with entity id 18398 at ([world]539.43915, 55.13613317254246, -146.13315)
+[01:32:30] [Server thread/INFO]: .Adriawn was slain by Spider
+[01:33:30] [Server thread/INFO]: _TaeV_ has made the advancement [Suit Up]
+[01:41:29] [Server thread/INFO]: .Adriawn was slain by mechajuan3
+[01:41:46] [Async Chat Thread - #20/INFO]: [Not Secure] <mechajuan3> era inocente sorry
+[01:45:11] [Server thread/INFO]: _TaeV_ issued server command: /skin set _TaeV_
