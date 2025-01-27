@@ -235,3 +235,21 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [21:52:23] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
 [21:52:23] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
 [21:52:23] [Server thread/INFO]: .Torrico183 left the game
+[21:52:47] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[21:52:47] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[21:52:47] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[21:52:47] [Server thread/INFO]: .Torrico183 joined the game
+[21:52:47] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 2585 at ([world]520.6513, 64.0, -141.36568)
+[21:54:05] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> ala mina
+[21:55:27] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client timed out
+[21:55:27] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
+[21:55:27] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
+[21:55:27] [Server thread/INFO]: .TeenCupid429295 left the game
+[21:55:46] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
+[21:55:46] [localSession-7-4/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
+[21:55:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
+[21:55:46] [Server thread/INFO]: .TeenCupid429295 joined the game
+[21:55:46] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 3210 at ([world]468.40723, 67.0, -140.00404)
+[21:57:07] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Enchanter]
+[21:58:03] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Sweet Dreams]
+[21:58:15] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
