@@ -301,3 +301,12 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [22:21:20] [Server thread/INFO]: .TeenCupid429295 was slain by Enderman
 [22:21:53] [Server thread/WARN]: .BatsPizza189850 moved wrongly!
 [22:22:15] [Server thread/INFO]: .BatsPizza189850 has made the advancement [Sweet Dreams]
+[22:26:08] [Async Chat Thread - #16/INFO]: [Not Secure] <.Torrico183> duerman
+[22:31:00] [Server thread/INFO]: Villager Villager['Villager'/14438, uuid='75d53d86-3c7a-4ff5-8ae2-a5e33a0c6df5', l='ServerLevel[world]', x=1065.42, y=67.00, z=-937.56, cpos=[66, -59], tl=8714, v=true] died, message: 'Villager was slain by .Torrico183'
+[22:31:52] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[22:32:40] [Server thread/INFO]: Villager Villager['Villager'/14098, uuid='d75323d4-3ab9-4deb-9709-d32a25063229', l='ServerLevel[world]', x=1108.70, y=66.94, z=-939.34, cpos=[69, -59], tl=10729, v=true] died, message: 'Villager was slain by .Torrico183'
+[22:32:48] [Server thread/INFO]: Villager Villager['Villager'/14360, uuid='add0bf27-02f0-4afc-a898-1d2816b914a0', l='ServerLevel[world]', x=1106.47, y=69.00, z=-964.50, cpos=[69, -61], tl=10880, v=true] died, message: 'Villager was slain by .Torrico183'
+[22:32:53] [Async Chat Thread - #18/INFO]: [Not Secure] <.BatsPizza189850> alguien que me convide uno de hierro
+[22:33:01] [Async Chat Thread - #18/INFO]: [Not Secure] <.Torrico183> no
+[22:33:07] [Async Chat Thread - #18/INFO]: [Not Secure] <elguatavo7u7159> SI ME LO MAMAS
+[22:33:16] [Server thread/INFO]: Villager Villager['Villager'/14276, uuid='89b19d8b-2a3b-44f3-aae0-efc2b068d44c', l='ServerLevel[world]', x=1088.47, y=67.04, z=-928.53, cpos=[68, -59], tl=11434, v=true] died, message: 'Villager was slain by .Torrico183'
