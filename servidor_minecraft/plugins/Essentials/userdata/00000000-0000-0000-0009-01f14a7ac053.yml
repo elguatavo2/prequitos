@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1737941449678
+  logout: 1737943621527
   login: 1737941512205
 money: '0'
 last-account-name: .Adriawn
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 539.43915
-  y: 55.44045
-  z: -146.13315
-  yaw: 3.8203125
-  pitch: 77.91845703125
+  x: 550.3999
+  y: 62.0
+  z: -94.420715
+  yaw: -149.840576171875
+  pitch: -0.2417755126953125

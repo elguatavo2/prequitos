@@ -547,3 +547,7 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [02:06:38] [Server thread/WARN]: .Adriawn moved wrongly!
 [02:06:38] [Async Chat Thread - #29/INFO]: [Not Secure] <mechajuan3> XD
 [02:06:39] [Server thread/WARN]: .Adriawn moved wrongly!
+[02:07:01] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Adriawn disconnected
+[02:07:01] [localSession-7-2/INFO]: [Geyser-Spigot] Adriawn has disconnected from the Java server because of Bedrock client disconnected
+[02:07:01] [Server thread/INFO]: .Adriawn lost connection: Disconnected
+[02:07:01] [Server thread/INFO]: .Adriawn left the game
