@@ -212,3 +212,60 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [00:54:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
 [00:54:44] [Server thread/INFO]: .TeenCupid429295 joined the game
 [00:54:44] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 5983 at ([world]590.0483, 67.0, -227.75067)
+[00:55:57] [Server thread/INFO]: .TeenCupid429295 was shot by Skeleton
+[00:56:03] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> jaijjaijaijaij
+[00:56:41] [Server thread/INFO]: .TeenCupid429295 was slain by Zombie
+[00:57:08] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> .TeenCupid429295 quien sos
+[00:58:31] [Server thread/INFO]: mechajuan3 has made the advancement [Take Aim]
+[00:58:42] [Server thread/INFO]: .TeenCupid429295 was slain by Spider
+[00:58:55] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Please log into Xbox to join this server.
+[01:01:01] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> .TeenCupid429295 quie mrd sos
+[01:01:28] [Async Chat Thread - #8/INFO]: [Not Secure] <.TeenCupid429295> soy el Martinez
+[01:01:40] [Server thread/INFO]: mechajuan3 walked into the danger zone due to Magma Cube
+[01:01:43] [Server thread/INFO]: elguatavo7u7159 discovered the floor was lava
+[01:02:34] [Server thread/INFO]: elguatavo7u7159 tried to swim in lava
+[01:03:00] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[01:03:02] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[01:03:17] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[01:03:25] [Server thread/INFO]: elguatavo7u7159 discovered the floor was lava
+[01:03:30] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Adriawn
+[01:03:30] [localSession-7-3/INFO]: [Geyser-Spigot] Adriawn (logged in as: Adriawn) has connected to the Java server
+[01:03:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Adriawn joined (UUID: 00000000-0000-0000-0009-01f14a7ac053)
+[01:03:30] [Server thread/INFO]: .Adriawn joined the game
+[01:03:30] [Server thread/INFO]: .Adriawn[/127.0.0.1:0] logged in with entity id 9181 at ([world]68.5, 65.0, -46.5)
+[01:03:43] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> OwU
+[01:04:44] [Server thread/INFO]: _TaeV_ was slain by Magma Cube
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.9665899999999965,1.252200000000002,9.101456999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
+[01:05:42] [Server thread/INFO]: _TaeV_ has made the advancement [A Seedy Place]
+[01:05:46] [Server thread/INFO]: .Adriawn was slain by elguatavo7u7159
+[01:05:51] [Server thread/INFO]: mechajuan3 burned to death
