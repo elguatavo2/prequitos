@@ -194,3 +194,21 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [00:38:24] [Server thread/INFO]: elguatavo7u7159 issued server command: /skin set vejata777
 [00:39:04] [Server thread/INFO]: elguatavo7u7159 was slain by mechajuan3
 [00:39:13] [Server thread/INFO]: _TaeV_ was slain by mechajuan3
+[00:48:23] [Server thread/INFO]: _TaeV_ has made the advancement [Getting an Upgrade]
+[00:48:26] [Server thread/INFO]: _TaeV_ has made the advancement [Stone Age]
+[00:49:53] [Server thread/INFO]: _TaeV_ has made the advancement [We Need to Go Deeper]
+[00:50:02] [Server thread/INFO]: mechajuan3 issued server command: /
+[00:50:25] [Server thread/INFO]: mechajuan3 issued server command: /56/99/-39
+[00:50:32] [Async Chat Thread - #2/INFO]: [Not Secure] <mechajuan3> 56/99/-39
+[00:52:55] [Server thread/INFO]: _TaeV_ has made the advancement [Monster Hunter]
+[00:53:13] [Server thread/INFO]: _TaeV_ was burned to a crisp while fighting Magma Cube
+[00:53:43] [Server thread/INFO]: _TaeV_ lost connection: Timed out
+[00:53:44] [Server thread/INFO]: _TaeV_ left the game
+[00:53:55] [User Authenticator #3/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[00:53:56] [Server thread/INFO]: _TaeV_ joined the game
+[00:53:56] [Server thread/INFO]: _TaeV_[/127.23.126.35:49059] logged in with entity id 5603 at ([world]472.26425901297114, 68.0, -187.3091332007746)
+[00:54:42] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
+[00:54:42] [localSession-7-2/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
+[00:54:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
+[00:54:44] [Server thread/INFO]: .TeenCupid429295 joined the game
+[00:54:44] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 5983 at ([world]590.0483, 67.0, -227.75067)
