@@ -1,33 +1,33 @@
-[00:25:33] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[00:25:33] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[00:25:33] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:25:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
-[00:25:34] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+[21:43:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[21:43:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[21:43:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:43:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[21:43:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
  - Essentials (2.21.0-dev+160-e2295c1), Geyser-Spigot (2.6.0-SNAPSHOT), LuckPerms (5.4.131), SkinsRestorer (15.5.2), ViaBackwards (5.2.2-SNAPSHOT), ViaRewind (4.0.4), ViaVersion (5.2.1), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[00:25:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:25:43] [ServerMain/INFO]: Loaded 1337 recipes
-[00:25:43] [ServerMain/INFO]: Loaded 1448 advancements
-[00:25:43] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:25:43] [Server thread/INFO]: Loading properties
-[00:25:43] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[00:25:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:25:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:25:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:25:46] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:25:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:25:46] [Server thread/INFO]: Default game type: SURVIVAL
-[00:25:46] [Server thread/INFO]: Generating keypair
-[00:25:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:25:46] [Server thread/INFO]: Using epoll channel type
-[00:25:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:25:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:25:48] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[00:25:48] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[00:25:49] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:25:49] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:25:49] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[00:25:49] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[00:25:49] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.2.1.jar' in folder 'plugins' (Is it up to date?)
+[21:43:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:43:25] [ServerMain/INFO]: Loaded 1337 recipes
+[21:43:25] [ServerMain/INFO]: Loaded 1448 advancements
+[21:43:25] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[21:43:25] [Server thread/INFO]: Loading properties
+[21:43:25] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[21:43:27] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:43:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:43:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:43:29] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:43:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:43:30] [Server thread/INFO]: Default game type: SURVIVAL
+[21:43:30] [Server thread/INFO]: Generating keypair
+[21:43:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:43:30] [Server thread/INFO]: Using epoll channel type
+[21:43:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:43:31] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:43:33] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[21:43:33] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[21:43:34] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:43:34] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:43:35] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[21:43:35] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[21:43:35] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.2.1.jar' in folder 'plugins' (Is it up to date?)
 java.lang.NoClassDefFoundError: com/viaversion/viaversion/rewriter/text/JsonNBTComponentRewriter
 	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
 	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?]
@@ -59,501 +59,179 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
 	... 25 more
-[00:25:49] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[00:25:50] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[00:25:51] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[00:25:51] [Server thread/INFO]: [floodgate] Took 1,070ms to boot Floodgate
-[00:25:51] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.2-SNAPSHOT
-[00:25:51] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
-[00:25:51] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[00:25:52] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[00:25:52] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[00:25:52] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
-[00:25:52] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[00:25:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:25:52] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[00:25:52] [Server thread/INFO]:         __    
-[00:25:52] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[00:25:52] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[00:25:52] [Server thread/INFO]: 
-[00:25:52] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[00:25:53] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[00:25:53] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[00:25:54] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[00:25:54] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2295ms)
-[00:25:54] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
-[00:25:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[00:25:55] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[00:25:55] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[00:25:56] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[00:25:56] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:25:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:25:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:25:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:25:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:25:56] [Server thread/INFO]: Preparing level "world"
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:25:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:25:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:25:58] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[00:25:58] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 785.3ms
-[00:25:59] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:59] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:59] [Server thread/INFO]: Preparing spawn area: 0%
-[00:25:59] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Time elapsed: 2598 ms
-[00:26:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:00] [Server thread/INFO]: Preparing spawn area: 14%
-[00:26:00] [Server thread/INFO]: Time elapsed: 520 ms
-[00:26:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:26:01] [Server thread/INFO]: Preparing spawn area: 0%
-[00:26:01] [Server thread/INFO]: Time elapsed: 225 ms
-[00:26:01] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[00:26:01] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
-[00:26:01] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[00:26:02] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.2-SNAPSHOT
-[00:26:02] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
-[00:26:02] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[00:26:03] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[00:26:03] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[00:26:03] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[00:26:03] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[00:26:04] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[00:26:04] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[00:26:04] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[00:26:04] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[00:26:04] [Server thread/INFO]: [Essentials] Using locale en
-[00:26:04] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[00:26:05] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[00:26:05] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[00:26:05] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[00:26:05] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[00:26:05] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[00:26:05] [Server thread/INFO]: [spark] Starting background profiler...
-[00:26:06] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:26:06] [Server thread/INFO]: [Geyser-Spigot] 
-[00:26:06] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
-[00:26:06] [Server thread/INFO]: [Geyser-Spigot] 
-[00:26:06] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:26:13] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2337
-[00:26:13] [Server thread/INFO]: [Geyser-Spigot] Done (7.389s)! Run /geyser help for help!
-[00:26:14] [Server thread/INFO]: Done preparing level "world" (17.176s)
-[00:26:14] [Server thread/INFO]: Running delayed init tasks
-[00:26:14] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:26:14] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
-[00:26:14] [Server thread/INFO]: Done (42.834s)! For help, type "help"
-[00:26:14] [User Authenticator #0/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
-[00:26:20] [Server thread/INFO]: mechajuan3 joined the game
-[00:26:20] [Server thread/INFO]: mechajuan3[/127.241.198.181:60831] logged in with entity id 55 at ([world]453.69999998807907, 66.0, -187.5139905720754)
-[00:27:52] [User Authenticator #1/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[00:27:53] [Server thread/INFO]: elguatavo7u7159 joined the game
-[00:27:54] [Server thread/INFO]: elguatavo7u7159[/127.177.210.46:56557] logged in with entity id 493 at ([world]473.1829415412303, 68.0, -185.3019537421594)
-[00:30:34] [Server thread/INFO]: elguatavo7u7159 was slain by mechajuan3
-[00:32:03] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Not Today, Thank You]
-[00:32:52] [Server thread/INFO]: mechajuan3 was slain by elguatavo7u7159
-[00:33:01] [Server thread/INFO]: elguatavo7u7159 was slain by mechajuan3
-[00:33:53] [Server thread/INFO]: elguatavo7u7159 was slain by mechajuan3
-[00:34:33] [User Authenticator #2/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[00:34:34] [Server thread/INFO]: _TaeV_ joined the game
-[00:34:34] [Server thread/INFO]: _TaeV_[/127.23.126.35:54971] logged in with entity id 1430 at ([world]63.5, 67.0, -55.5)
-[00:35:03] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> 480 -180
-[00:35:05] [Async Chat Thread - #0/INFO]: [Not Secure] <_TaeV_> 480 menos 180
-[00:36:43] [Server thread/INFO]: _TaeV_ has made the advancement [Sweet Dreams]
-[00:37:24] [Server thread/INFO]: mechajuan3 was shot by Skeleton
-[00:37:27] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Suit Up]
-[00:38:24] [Server thread/INFO]: elguatavo7u7159 issued server command: /skin set vejata777
-[00:39:04] [Server thread/INFO]: elguatavo7u7159 was slain by mechajuan3
-[00:39:13] [Server thread/INFO]: _TaeV_ was slain by mechajuan3
-[00:48:23] [Server thread/INFO]: _TaeV_ has made the advancement [Getting an Upgrade]
-[00:48:26] [Server thread/INFO]: _TaeV_ has made the advancement [Stone Age]
-[00:49:53] [Server thread/INFO]: _TaeV_ has made the advancement [We Need to Go Deeper]
-[00:50:02] [Server thread/INFO]: mechajuan3 issued server command: /
-[00:50:25] [Server thread/INFO]: mechajuan3 issued server command: /56/99/-39
-[00:50:32] [Async Chat Thread - #2/INFO]: [Not Secure] <mechajuan3> 56/99/-39
-[00:52:55] [Server thread/INFO]: _TaeV_ has made the advancement [Monster Hunter]
-[00:53:13] [Server thread/INFO]: _TaeV_ was burned to a crisp while fighting Magma Cube
-[00:53:43] [Server thread/INFO]: _TaeV_ lost connection: Timed out
-[00:53:44] [Server thread/INFO]: _TaeV_ left the game
-[00:53:55] [User Authenticator #3/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[00:53:56] [Server thread/INFO]: _TaeV_ joined the game
-[00:53:56] [Server thread/INFO]: _TaeV_[/127.23.126.35:49059] logged in with entity id 5603 at ([world]472.26425901297114, 68.0, -187.3091332007746)
-[00:54:42] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
-[00:54:42] [localSession-7-2/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
-[00:54:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
-[00:54:44] [Server thread/INFO]: .TeenCupid429295 joined the game
-[00:54:44] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 5983 at ([world]590.0483, 67.0, -227.75067)
-[00:55:57] [Server thread/INFO]: .TeenCupid429295 was shot by Skeleton
-[00:56:03] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> jaijjaijaijaij
-[00:56:41] [Server thread/INFO]: .TeenCupid429295 was slain by Zombie
-[00:57:08] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> .TeenCupid429295 quien sos
-[00:58:31] [Server thread/INFO]: mechajuan3 has made the advancement [Take Aim]
-[00:58:42] [Server thread/INFO]: .TeenCupid429295 was slain by Spider
-[00:58:55] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Please log into Xbox to join this server.
-[01:01:01] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> .TeenCupid429295 quie mrd sos
-[01:01:28] [Async Chat Thread - #8/INFO]: [Not Secure] <.TeenCupid429295> soy el Martinez
-[01:01:40] [Server thread/INFO]: mechajuan3 walked into the danger zone due to Magma Cube
-[01:01:43] [Server thread/INFO]: elguatavo7u7159 discovered the floor was lava
-[01:02:34] [Server thread/INFO]: elguatavo7u7159 tried to swim in lava
-[01:03:00] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[01:03:02] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[01:03:17] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[01:03:25] [Server thread/INFO]: elguatavo7u7159 discovered the floor was lava
-[01:03:30] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Adriawn
-[01:03:30] [localSession-7-3/INFO]: [Geyser-Spigot] Adriawn (logged in as: Adriawn) has connected to the Java server
-[01:03:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Adriawn joined (UUID: 00000000-0000-0000-0009-01f14a7ac053)
-[01:03:30] [Server thread/INFO]: .Adriawn joined the game
-[01:03:30] [Server thread/INFO]: .Adriawn[/127.0.0.1:0] logged in with entity id 9181 at ([world]68.5, 65.0, -46.5)
-[01:03:43] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> OwU
-[01:04:44] [Server thread/INFO]: _TaeV_ was slain by Magma Cube
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.9665899999999965,1.252200000000002,9.101456999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:39] [Server thread/WARN]: .Adriawn moved too quickly! 5.970730000000003,1.2491799999999955,8.827158999999998
-[01:05:42] [Server thread/INFO]: _TaeV_ has made the advancement [A Seedy Place]
-[01:05:46] [Server thread/INFO]: .Adriawn was slain by elguatavo7u7159
-[01:05:51] [Server thread/INFO]: mechajuan3 burned to death
-[01:06:35] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[01:07:25] [Server thread/WARN]: .Adriawn moved too quickly! 5.633399999999995,-1.0,-8.461939999999998
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.624779999999987,0.666799999999995,-9.32396
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:07:33] [Server thread/WARN]: .Adriawn moved too quickly! 10.292050000000017,0.24679999999999325,-8.90258
-[01:08:13] [Server thread/INFO]: mechajuan3 was slain by Magma Cube
-[01:08:34] [Server thread/WARN]: .Adriawn moved wrongly!
-[01:08:35] [Server thread/WARN]: .Adriawn moved wrongly!
-[01:09:09] [Server thread/INFO]: elguatavo7u7159 was slain by mechajuan3
-[01:09:20] [Server thread/INFO]: .Adriawn has made the advancement [Stone Age]
-[01:10:20] [Server thread/INFO]: elguatavo7u7159 issued server command: /skin set marco
-[01:10:33] [Server thread/INFO]: elguatavo7u7159 was slain by .Adriawn
-[01:10:42] [Server thread/INFO]: .Adriawn was slain by elguatavo7u7159
-[01:10:57] [Server thread/INFO]: mechajuan3 issued server command: /skin search fernanflo
-[01:11:04] [Server thread/WARN]: .Adriawn moved wrongly!
-[01:11:22] [Server thread/INFO]: mechajuan3 issued server command: /skin sww
-[01:11:27] [Server thread/INFO]: .Adriawn has made the advancement [Sweet Dreams]
-[01:11:37] [Server thread/INFO]: mechajuan3 issued server command: /skin fernanflo
-[01:11:40] [Server thread/INFO]: elguatavo7u7159 issued server command: /skin set goku
-[01:11:43] [Async Chat Thread - #12/INFO]: [Not Secure] <.Adriawn> 🍥
-[01:11:49] [Server thread/INFO]: mechajuan3 issued server command: /skin fernanflo
-[01:11:56] [Server thread/INFO]: mechajuan3 issued server command: /skin fernanflo
-[01:12:08] [Server thread/INFO]: elguatavo7u7159 issued server command: /skin set OwU
-[01:12:09] [Server thread/INFO]: mechajuan3 issued server command: /skin fernanflo
-[01:12:15] [Server thread/INFO]: .Adriawn has made the advancement [Monster Hunter]
-[01:12:31] [Server thread/INFO]: Made elguatavo7u7159 a server operator
-[01:12:35] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
-[01:12:40] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp .TeenCupid429295
-[01:12:44] [Server thread/INFO]: mechajuan3 issued server command: /skin vegetta777
-[01:12:52] [Server thread/INFO]: .Adriawn has made the advancement [Getting an Upgrade]
-[01:12:53] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
-[01:13:03] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[01:13:23] [Server thread/INFO]: mechajuan3 was slain by elguatavo7u7159
-[01:13:35] [Server thread/INFO]: .TeenCupid429295 was shot by Skeleton
-[01:13:36] [Server thread/INFO]: elguatavo7u7159 was slain by mechajuan3
-[01:14:04] [Server thread/INFO]: elguatavo7u7159 was slain by mechajuan3
-[01:15:08] [Server thread/INFO]: .Adriawn has made the advancement [Acquire Hardware]
-[01:15:52] [Server thread/INFO]: .Adriawn has made the advancement [Isn't It Iron Pick]
-[01:18:20] [Server thread/WARN]: .Adriawn moved too quickly! 0.48384999999996126,16.17012,2.5000000002251E-4
-[01:18:20] [Server thread/WARN]: .Adriawn moved too quickly! 0.48384999999996126,16.17012,2.5000000002251E-4
-[01:18:20] [Server thread/WARN]: .Adriawn moved too quickly! 0.48384999999996126,16.17012,2.5000000002251E-4
-[01:18:20] [Server thread/WARN]: .Adriawn moved too quickly! 0.48384999999996126,16.17012,2.5000000002251E-4
-[01:18:20] [Server thread/WARN]: .Adriawn moved too quickly! 0.48384999999996126,16.17012,2.5000000002251E-4
-[01:18:20] [Server thread/WARN]: .Adriawn moved too quickly! 0.48384999999996126,16.17012,2.5000000002251E-4
-[01:18:20] [Server thread/WARN]: .Adriawn moved too quickly! 0.48384999999996126,16.17012,2.5000000002251E-4
-[01:18:20] [Server thread/WARN]: .Adriawn moved too quickly! 0.48384999999996126,16.17012,2.5000000002251E-4
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.22127999999997883,7.5,-7.9542100000000175
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved too quickly! -0.19331999999997151,7.0,-7.5139700000000005
-[01:18:30] [Server thread/WARN]: .Adriawn moved wrongly!
-[01:20:11] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[01:20:13] [localSession-7-3/INFO]: [Geyser-Spigot] Adriawn has disconnected from the Java server because of Bedrock client timed out
-[01:20:13] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Adriawn disconnected
-[01:20:14] [Server thread/INFO]: .Adriawn lost connection: Disconnected
-[01:20:14] [Server thread/INFO]: .Adriawn left the game
-[01:21:00] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Adriawn
-[01:21:00] [localSession-7-4/INFO]: [Geyser-Spigot] Adriawn (logged in as: Adriawn) has connected to the Java server
-[01:21:01] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Adriawn joined (UUID: 00000000-0000-0000-0009-01f14a7ac053)
-[01:21:01] [Server thread/INFO]: .Adriawn joined the game
-[01:21:01] [Server thread/INFO]: .Adriawn[/127.0.0.1:0] logged in with entity id 15438 at ([world]553.71686, 69.0, -180.91397)
-[01:24:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Torrico183
-[01:24:31] [localSession-7-1/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
-[01:24:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
-[01:24:31] [Server thread/INFO]: .Torrico183 joined the game
-[01:24:31] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 16352 at ([world]492.50342, 64.0, -154.81389)
-[01:24:49] [Async Chat Thread - #14/INFO]: [Not Secure] <elguatavo7u7159> sexo
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.78237999999999,1.2392499999999984,-2.9335299999999904
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:01] [Server thread/WARN]: .Torrico183 moved too quickly! -9.533689999999979,1.314700000000002,-2.7317199999999957
-[01:25:33] [localSession-7-1/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client timed out
-[01:25:33] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
-[01:25:33] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
-[01:25:33] [Server thread/INFO]: .Torrico183 left the game
-[01:26:17] [Async Chat Thread - #16/INFO]: [Not Secure] <elguatavo7u7159> .TeenCupid429295 ENTRA AL DICORD CANAL DE AUDIO 2
-[01:28:21] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[01:28:32] [Server thread/INFO]: _TaeV_ has made the advancement [Acquire Hardware]
-[01:28:39] [Server thread/INFO]: _TaeV_ has made the advancement [Isn't It Iron Pick]
-[01:29:01] [Async Chat Thread - #18/INFO]: [Not Secure] <elguatavo7u7159> hola
-[01:29:11] [Async Chat Thread - #18/INFO]: [Not Secure] <mechajuan3> tu nariz contra mis bolas
-[01:30:49] [localSession-7-4/INFO]: [Geyser-Spigot] Adriawn has disconnected from the Java server because of Bedrock client disconnected
-[01:30:49] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Adriawn disconnected
-[01:30:49] [Server thread/INFO]: .Adriawn lost connection: Disconnected
-[01:30:49] [Server thread/INFO]: .Adriawn left the game
-[01:31:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Adriawn
-[01:31:51] [localSession-7-2/INFO]: [Geyser-Spigot] Adriawn (logged in as: Adriawn) has connected to the Java server
-[01:31:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Adriawn joined (UUID: 00000000-0000-0000-0009-01f14a7ac053)
-[01:31:52] [Server thread/INFO]: .Adriawn joined the game
-[01:31:52] [Server thread/INFO]: .Adriawn[/127.0.0.1:0] logged in with entity id 18398 at ([world]539.43915, 55.13613317254246, -146.13315)
-[01:32:30] [Server thread/INFO]: .Adriawn was slain by Spider
-[01:33:30] [Server thread/INFO]: _TaeV_ has made the advancement [Suit Up]
-[01:41:29] [Server thread/INFO]: .Adriawn was slain by mechajuan3
-[01:41:46] [Async Chat Thread - #20/INFO]: [Not Secure] <mechajuan3> era inocente sorry
-[01:45:11] [Server thread/INFO]: _TaeV_ issued server command: /skin set _TaeV_
-[01:51:13] [Server thread/INFO]: mechajuan3 issued server command: /skin spreen
-[01:53:09] [Server thread/INFO]: .Adriawn has made the advancement [We Need to Go Deeper]
-[01:53:52] [Server thread/INFO]: _TaeV_ has made the advancement [Not Today, Thank You]
-[01:55:21] [Async Chat Thread - #22/INFO]: [Not Secure] <elguatavo7u7159> 230 130
-[01:55:38] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
-[01:55:38] [localSession-7-2/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client timed out
-[01:55:38] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
-[01:55:38] [Server thread/INFO]: .TeenCupid429295 left the game
-[01:55:56] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
-[01:55:56] [localSession-7-3/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
-[01:55:56] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
-[01:55:56] [Server thread/INFO]: .TeenCupid429295 joined the game
-[01:55:56] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 26988 at ([world]579.6496, 68.0, -229.36427)
-[01:57:37] [Async Chat Thread - #24/INFO]: [Not Secure] <elguatavo7u7159> 230 130
-[01:58:25] [Server thread/INFO]: .Adriawn was doomed to fall by Skeleton
-[02:00:01] [Async Chat Thread - #27/INFO]: [Not Secure] <.TeenCupid429295> bueno chicos vayan a dormir buenas noches
-[02:00:06] [localSession-7-3/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client disconnected
-[02:00:06] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
-[02:00:06] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
-[02:00:06] [Server thread/INFO]: .TeenCupid429295 left the game
-[02:00:12] [Async Chat Thread - #27/INFO]: [Not Secure] <.Adriawn> chao p
-[02:00:12] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[02:00:12] [Server thread/INFO]: elguatavo7u7159 left the game
-[02:00:20] [Async Chat Thread - #27/INFO]: [Not Secure] <mechajuan3> chao
-[02:00:27] [Server thread/INFO]: .Adriawn was slain by Zombie Villager
-[02:01:21] [Server thread/INFO]: .Adriawn was slain by Zombie Villager
-[02:05:07] [Server thread/WARN]: .Adriawn moved wrongly!
-[02:05:15] [Server thread/WARN]: .Adriawn moved wrongly!
-[02:06:12] [Async Chat Thread - #28/INFO]: [Not Secure] <.Adriawn> chao p, ya voy a dormir p
-[02:06:18] [Async Chat Thread - #28/INFO]: [Not Secure] <mechajuan3> ok
-[02:06:25] [Async Chat Thread - #29/INFO]: [Not Secure] <mechajuan3> bye bye
-[02:06:33] [Async Chat Thread - #29/INFO]: [Not Secure] <.Adriawn> no puedo ni abrir mi inventario Akskdkdkdkkd
-[02:06:38] [Server thread/WARN]: .Adriawn moved wrongly!
-[02:06:38] [Async Chat Thread - #29/INFO]: [Not Secure] <mechajuan3> XD
-[02:06:39] [Server thread/WARN]: .Adriawn moved wrongly!
-[02:07:01] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Adriawn disconnected
-[02:07:01] [localSession-7-2/INFO]: [Geyser-Spigot] Adriawn has disconnected from the Java server because of Bedrock client disconnected
-[02:07:01] [Server thread/INFO]: .Adriawn lost connection: Disconnected
-[02:07:01] [Server thread/INFO]: .Adriawn left the game
-[02:19:13] [Server thread/INFO]: _TaeV_ has made the advancement [Enchanter]
-[02:22:28] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Torrico183
-[02:22:28] [localSession-7-4/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
-[02:22:29] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
-[02:22:29] [Server thread/INFO]: .Torrico183 joined the game
-[02:22:29] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 33876 at ([world]470.88797, 68.0, -187.83688)
+[21:43:35] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[21:43:37] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:43:39] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:43:39] [Server thread/INFO]: [floodgate] Took 2,208ms to boot Floodgate
+[21:43:39] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.2-SNAPSHOT
+[21:43:39] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
+[21:43:39] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[21:43:42] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:43:42] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:43:42] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
+[21:43:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[21:43:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:43:42] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[21:43:42] [Server thread/INFO]:         __    
+[21:43:42] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[21:43:42] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[21:43:42] [Server thread/INFO]: 
+[21:43:42] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:43:43] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[21:43:45] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:43:45] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:43:45] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3780ms)
+[21:43:45] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
+[21:43:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[21:43:47] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:43:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[21:43:49] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[21:43:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:43:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:43:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:43:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:43:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:43:50] [Server thread/INFO]: Preparing level "world"
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:43:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:43:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:43:52] [Server thread/INFO]: Preparing spawn area: 0%
+[21:43:52] [Server thread/INFO]: Preparing spawn area: 0%
+[21:43:53] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[21:43:54] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 1,212.5ms
+[21:43:54] [Server thread/INFO]: Preparing spawn area: 2%
+[21:43:54] [Server thread/INFO]: Preparing spawn area: 2%
+[21:43:54] [Server thread/INFO]: Preparing spawn area: 2%
+[21:43:54] [Server thread/INFO]: Preparing spawn area: 2%
+[21:43:56] [Server thread/INFO]: Preparing spawn area: 2%
+[21:43:56] [Server thread/INFO]: Preparing spawn area: 2%
+[21:43:56] [Server thread/INFO]: Preparing spawn area: 2%
+[21:43:56] [Server thread/INFO]: Time elapsed: 4075 ms
+[21:43:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:43:56] [Server thread/INFO]: Preparing spawn area: 0%
+[21:43:56] [Server thread/INFO]: Preparing spawn area: 10%
+[21:43:57] [Server thread/INFO]: Preparing spawn area: 16%
+[21:43:57] [Server thread/INFO]: Time elapsed: 1447 ms
+[21:43:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:43:57] [Server thread/INFO]: Preparing spawn area: 0%
+[21:43:58] [Server thread/INFO]: Preparing spawn area: 42%
+[21:43:58] [Server thread/INFO]: Time elapsed: 527 ms
+[21:43:58] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[21:43:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[21:43:58] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:43:59] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.2-SNAPSHOT
+[21:43:59] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
+[21:44:00] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[21:44:01] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[21:44:01] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[21:44:02] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[21:44:03] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[21:44:03] [Server thread/INFO]: [Essentials] Using locale en
+[21:44:03] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:44:04] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[21:44:04] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[21:44:04] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[21:44:04] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[21:44:04] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[21:44:05] [Server thread/INFO]: [spark] Starting background profiler...
+[21:44:06] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:44:06] [Server thread/INFO]: [Geyser-Spigot] 
+[21:44:06] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
+[21:44:06] [Server thread/INFO]: [Geyser-Spigot] 
+[21:44:06] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:44:14] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2337
+[21:44:14] [Server thread/INFO]: [Geyser-Spigot] Done (7.678s)! Run /geyser help for help!
+[21:44:14] [Server thread/INFO]: Done preparing level "world" (24.309s)
+[21:44:14] [Server thread/INFO]: Running delayed init tasks
+[21:44:15] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[21:44:15] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[21:44:15] [Server thread/INFO]: Done (74.127s)! For help, type "help"
+[21:44:57] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[21:44:59] [Server thread/INFO]: elguatavo7u7159 joined the game
+[21:44:59] [Server thread/INFO]: elguatavo7u7159[/127.243.179.217:45203] logged in with entity id 47 at ([world]241.17782914244546, 1.0, 91.30000001192093)
+[21:45:24] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[21:45:24] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[21:45:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[21:45:24] [Server thread/INFO]: .Torrico183 joined the game
+[21:45:24] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 296 at ([world]519.6655, 64.0, -141.71597)
+[21:45:27] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5c53f972-5dc0-4354-b84c-690ebe6e1f1f, mapped to Chicken['Chicken'/417, uuid='5c53f972-5dc0-4354-b84c-690ebe6e1f1f', l='ServerLevel[world]', x=453.47, y=64.00, z=-223.98, cpos=[28, -14], tl=169642, v=true], can't add Chicken['Chicken'/492, uuid='5c53f972-5dc0-4354-b84c-690ebe6e1f1f', l='ServerLevel[world]', x=453.64, y=64.00, z=-224.49, cpos=[28, -15], tl=169635, v=false]
+[21:45:30] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 129bba95-f2bc-4cf5-9624-c20b0f62596d, mapped to Chicken['Chicken'/577, uuid='129bba95-f2bc-4cf5-9624-c20b0f62596d', l='ServerLevel[world]', x=368.79, y=67.00, z=-301.49, cpos=[23, -19], tl=225251, v=true], can't add Chicken['Chicken'/578, uuid='129bba95-f2bc-4cf5-9624-c20b0f62596d', l='ServerLevel[world]', x=360.40, y=65.00, z=-292.08, cpos=[22, -19], tl=227302, v=false]
+[21:46:29] [Server thread/INFO]: .Torrico183 has made the advancement [Sweet Dreams]
+[21:47:30] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
+[21:47:30] [localSession-7-3/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
+[21:47:30] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
+[21:47:30] [Server thread/INFO]: .TeenCupid429295 joined the game
+[21:47:30] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 1066 at ([world]585.5444, 64.0, -236.40369)
+[21:47:36] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f4ae6b80-e163-48c9-91c3-ade5dabb4a61, mapped to Skeleton['Skeleton'/1173, uuid='f4ae6b80-e163-48c9-91c3-ade5dabb4a61', l='ServerLevel[world]', x=426.53, y=6.00, z=-394.79, cpos=[26, -25], tl=242, v=true], can't add Skeleton['Skeleton'/1188, uuid='f4ae6b80-e163-48c9-91c3-ade5dabb4a61', l='ServerLevel[world]', x=423.36, y=5.00, z=-401.43, cpos=[26, -26], tl=572, v=false]
+[21:47:44] [Async Chat Thread - #0/INFO]: [Not Secure] <.Torrico183> casa
+[21:47:47] [User Authenticator #1/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[21:47:52] [Async Chat Thread - #0/INFO]: [Not Secure] <.Torrico183> no
+[21:47:55] [Server thread/INFO]: mechajuan3 joined the game
+[21:47:55] [Server thread/INFO]: mechajuan3[/127.241.198.181:42511] logged in with entity id 1248 at ([world]450.8752281178851, 64.0, -221.69900459467038)
+[21:48:09] [Async Chat Thread - #0/INFO]: [Not Secure] <.Torrico183> espera luego
+[21:48:38] [Async Chat Thread - #0/INFO]: [Not Secure] <mechajuan3> tamo
+[21:48:46] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[21:48:46] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[21:48:46] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[21:48:46] [Server thread/INFO]: .Torrico183 left the game
+[21:49:53] [Async Chat Thread - #2/INFO]: [Not Secure] <elguatavo7u7159> mas comida
+[21:50:21] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[21:50:21] [localSession-7-4/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[21:50:22] [User Authenticator #2/INFO]: UUID of player Torrico183 is 84a703b9-0580-3c92-97fe-0c1dd91f94ed
+[21:50:22] [Server thread/INFO]: Torrico183 joined the game
+[21:50:22] [Server thread/INFO]: Torrico183[/127.0.0.1:0] logged in with entity id 2136 at ([world]61.5, 65.0, -40.5)
+[21:50:35] [localSession-7-4/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[21:50:35] [Server thread/INFO]: Torrico183 lost connection: Disconnected
+[21:50:35] [Server thread/INFO]: Torrico183 left the game
+[21:50:37] [Async Chat Thread - #2/INFO]: [Not Secure] <mechajuan3> ya vuelvoç
+[21:51:03] [localSession-7-3/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client disconnected
+[21:51:03] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
+[21:51:03] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
+[21:51:03] [Server thread/INFO]: .TeenCupid429295 left the game
+[21:51:20] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
+[21:51:20] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
+[21:51:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
+[21:51:20] [Server thread/INFO]: .TeenCupid429295 joined the game
+[21:51:20] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 2411 at ([world]580.23883, 64.0, -239.91135)
+[21:51:23] [Async Chat Thread - #3/INFO]: [Not Secure] <elguatavo7u7159> epico
+[21:51:35] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client disconnected
+[21:52:22] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[21:52:22] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[21:52:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[21:52:22] [Server thread/INFO]: .Torrico183 joined the game
+[21:52:22] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 2517 at ([world]520.6513, 64.0, -141.36568)
+[21:52:23] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[21:52:23] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[21:52:23] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[21:52:23] [Server thread/INFO]: .Torrico183 left the game

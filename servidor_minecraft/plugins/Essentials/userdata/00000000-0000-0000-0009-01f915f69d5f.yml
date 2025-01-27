@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1737941133035
-  login: 1737944549296
+  logout: 1738014743177
+  login: 1738014742497
 money: '0'
 last-account-name: .Torrico183
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 470.88797
-  y: 68.0
-  z: -187.83688
-  yaw: 32.90095520019531
-  pitch: 16.025222778320312
+  x: 520.6513
+  y: 64.0
+  z: -141.36568
+  yaw: 170.55560302734375
+  pitch: 89.89999389648438
