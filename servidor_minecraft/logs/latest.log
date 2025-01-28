@@ -235,3 +235,31 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [01:38:28] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
 [01:38:28] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
 [01:38:28] [Server thread/INFO]: .Torrico183 left the game
+[01:41:32] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[01:41:32] [localSession-7-4/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[01:41:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[01:41:33] [Server thread/INFO]: .Torrico183 joined the game
+[01:41:33] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 9130 at ([world]745.59906, 63.0, 1156.6189)
+[01:49:02] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:49:05] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:50:10] [localSession-7-4/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client timed out
+[01:50:10] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[01:50:10] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[01:50:10] [Server thread/INFO]: .Torrico183 left the game
+[01:50:39] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[01:50:39] [localSession-7-1/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[01:50:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[01:50:39] [Server thread/INFO]: .Torrico183 joined the game
+[01:50:39] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 14738 at ([world]973.9541, 65.16948689463663, 2228.0615)
+[01:51:04] [Server thread/INFO]: .Torrico183 has made the advancement [Ice Bucket Challenge]
+[01:53:01] [Server thread/INFO]: .Torrico183 was blown up by Creeper
+[01:54:21] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:57:46] [localSession-7-1/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client timed out
+[01:57:46] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[01:57:46] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[01:57:46] [Server thread/INFO]: .Torrico183 left the game
+[01:58:21] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[01:58:21] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[01:58:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[01:58:22] [Server thread/INFO]: .Torrico183 joined the game
+[01:58:22] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 18807 at ([world]585.9306, 72.0, 958.1528)
