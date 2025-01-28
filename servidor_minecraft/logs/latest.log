@@ -270,3 +270,14 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [02:07:48] [Server thread/INFO]: .Torrico183 lost connection: Flying is not enabled on this server
 [02:07:48] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of End of stream
 [02:07:48] [Server thread/INFO]: .Torrico183 left the game
+[02:11:19] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[02:11:19] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[02:11:19] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[02:11:19] [Server thread/INFO]: .Torrico183 joined the game
+[02:11:19] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 24531 at ([world]962.37805, 68.52267263108705, 2244.1885)
+[02:12:51] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[02:12:51] [Server thread/INFO]: _TaeV_ left the game
+[02:13:08] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[02:13:08] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[02:13:08] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[02:13:08] [Server thread/INFO]: .Torrico183 left the game
