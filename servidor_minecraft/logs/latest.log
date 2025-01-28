@@ -202,3 +202,36 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [01:24:03] [Server thread/INFO]: mechajuan3 joined the game
 [01:24:03] [Server thread/INFO]: mechajuan3[/127.241.198.181:58229] logged in with entity id 1404 at ([world_nether]87.33325024918086, 78.0, -144.21546562640302)
 [01:27:28] [Async Chat Thread - #1/INFO]: [Not Secure] <.Torrico183> ya?
+[01:29:40] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:29:41] [Server thread/INFO]: _TaeV_ left the game
+[01:30:00] [User Authenticator #2/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:30:01] [Server thread/INFO]: _TaeV_ joined the game
+[01:30:01] [Server thread/INFO]: _TaeV_[/127.23.126.35:36307] logged in with entity id 3562 at ([world]446.71237285437667, 66.5, -194.87483574208383)
+[01:30:14] [Async Chat Thread - #2/INFO]: [Not Secure] <mechajuan3> bye bye
+[01:30:15] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[01:30:15] [Server thread/INFO]: mechajuan3 left the game
+[01:30:42] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:30:42] [Server thread/INFO]: _TaeV_ left the game
+[01:31:13] [User Authenticator #3/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:31:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@43aeca9d[id=895f9bd5-5573-3693-a081-493db59ea955,name=_TaeV_,properties={}] lost connection: Disconnected
+[01:31:30] [User Authenticator #3/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:31:31] [Server thread/INFO]: _TaeV_ joined the game
+[01:31:31] [Server thread/INFO]: _TaeV_[/127.23.126.35:54945] logged in with entity id 3779 at ([world]469.06037143891797, 69.0, -180.55005936327237)
+[01:31:57] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:31:57] [Server thread/INFO]: _TaeV_ left the game
+[01:32:15] [User Authenticator #3/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:32:16] [Server thread/INFO]: _TaeV_ joined the game
+[01:32:16] [Server thread/INFO]: _TaeV_[/127.23.126.35:39693] logged in with entity id 4032 at ([world]469.87653621396277, 69.0, -181.07839918324746)
+[01:32:44] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:32:44] [Server thread/INFO]: _TaeV_ left the game
+[01:32:48] [User Authenticator #3/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:32:48] [Server thread/INFO]: _TaeV_ joined the game
+[01:32:48] [Server thread/INFO]: _TaeV_[/127.23.126.35:55609] logged in with entity id 4343 at ([world]453.5438340740997, 64.0, -220.21861106400908)
+[01:33:33] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:33:33] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:33:34] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:33:37] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:38:28] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[01:38:28] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[01:38:28] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[01:38:28] [Server thread/INFO]: .Torrico183 left the game
