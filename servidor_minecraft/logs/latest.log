@@ -36,3 +36,11 @@
 [00:44:32] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
 [00:44:33] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
 [00:44:48] [Server thread/INFO]: _TaeV_ has made the advancement [Diamonds!]
+[00:46:08] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:46:08] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:49:44] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[00:49:44] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[00:49:44] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[00:49:44] [Server thread/INFO]: .Torrico183 joined the game
+[00:49:44] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 65003 at ([world]1097.4369, 66.9375, -938.94366)
+[00:50:35] [Server thread/INFO]: mechajuan3 fell from a high place
