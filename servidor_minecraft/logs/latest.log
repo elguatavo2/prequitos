@@ -263,3 +263,10 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 [01:58:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
 [01:58:22] [Server thread/INFO]: .Torrico183 joined the game
 [01:58:22] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 18807 at ([world]585.9306, 72.0, 958.1528)
+[02:07:11] [Server thread/WARN]: .Torrico183 moved wrongly!
+[02:07:17] [Server thread/WARN]: .Torrico183 moved wrongly!
+[02:07:48] [Server thread/WARN]: .Torrico183 was kicked for floating too long!
+[02:07:48] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[02:07:48] [Server thread/INFO]: .Torrico183 lost connection: Flying is not enabled on this server
+[02:07:48] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of End of stream
+[02:07:48] [Server thread/INFO]: .Torrico183 left the game
