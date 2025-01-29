@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1738022721832
+  logout: 1738109916897
   login: 1738107964576
 money: '0'
 last-account-name: .BatsPizza189850
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 507.3489
-  y: 64.0
-  z: -160.37532
-  yaw: 4.40594482421875
-  pitch: 6.3724365234375
+  x: 504.5215
+  y: 65.0
+  z: -145.07721
+  yaw: 175.450439453125
+  pitch: -13.646957397460938
