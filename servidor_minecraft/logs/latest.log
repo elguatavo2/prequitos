@@ -18,3 +18,13 @@
 [00:18:36] [Server thread/INFO]: .BatsPizza189850 lost connection: Disconnected
 [00:18:36] [Server thread/INFO]: .BatsPizza189850 left the game
 [00:19:11] [Async Chat Thread - #5/INFO]: [Not Secure] <elguatavo7u7159> 300 360
+[00:47:54] [Server thread/WARN]: .Torrico183 moved wrongly!
+[00:48:24] [localSession-7-4/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[00:48:24] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[00:48:24] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[00:48:24] [Server thread/INFO]: .Torrico183 left the game
+[00:49:04] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[00:49:04] [localSession-7-1/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[00:49:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[00:49:04] [Server thread/INFO]: .Torrico183 joined the game
+[00:49:04] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 49873 at ([world]2508.5, 89.0, 3000.5)
