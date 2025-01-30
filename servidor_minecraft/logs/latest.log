@@ -301,3 +301,8 @@ java.lang.IllegalStateException: zip file closed
 [01:28:31] [Server thread/INFO]: .Jhonny7xd has made the advancement [Sneak 100]
 [01:33:11] [Server thread/WARN]: .Torrico183 moved wrongly!
 [01:35:15] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:39:51] [localSession-7-4/INFO]: [Geyser-Spigot] Jhonny7xd has disconnected from the Java server because of Bedrock client disconnected
+[01:39:51] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Jhonny7xd disconnected
+[01:39:51] [Server thread/INFO]: .Jhonny7xd lost connection: Disconnected
+[01:39:51] [Server thread/INFO]: .Jhonny7xd left the game
+[01:39:57] [Server thread/WARN]: .Torrico183 moved wrongly!
