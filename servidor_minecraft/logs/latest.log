@@ -307,3 +307,7 @@ java.lang.IllegalStateException: zip file closed
 [01:39:51] [Server thread/INFO]: .Jhonny7xd left the game
 [01:39:57] [Server thread/WARN]: .Torrico183 moved wrongly!
 [01:46:50] [Server thread/INFO]: .Torrico183 has made the advancement [Cover Me with Diamonds]
+[02:05:27] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client timed out
+[02:05:27] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[02:05:27] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[02:05:27] [Server thread/INFO]: .Torrico183 left the game
