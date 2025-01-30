@@ -231,3 +231,29 @@ java.lang.IllegalStateException: zip file closed
 [00:24:34] [Server thread/INFO]: Done (82.171s)! For help, type "help"
 [00:24:34] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] You're 2 EssentialsX dev build(s) out of date!
 [00:24:34] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[00:33:19] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[00:33:19] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[00:33:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[00:33:22] [Server thread/INFO]: .Torrico183 joined the game
+[00:33:23] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 61 at ([world]2502.69999, 89.0, 2993.30001)
+[00:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
+[00:35:20] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Jhonny7xd
+[00:35:20] [localSession-7-3/INFO]: [Geyser-Spigot] Jhonny7xd (logged in as: Jhonny7xd) has connected to the Java server
+[00:35:20] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Jhonny7xd joined (UUID: 00000000-0000-0000-0009-01f5a478009f)
+[00:35:20] [Server thread/INFO]: .Jhonny7xd joined the game
+[00:35:20] [Server thread/INFO]: .Jhonny7xd[/127.0.0.1:0] logged in with entity id 464 at ([world]58.5, 66.0, -50.5)
+[00:36:39] [Server thread/INFO]: .Jhonny7xd was slain by Husk
+[00:37:08] [localSession-7-3/INFO]: [Geyser-Spigot] Jhonny7xd has disconnected from the Java server because of Bedrock client disconnected
+[00:37:08] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Jhonny7xd disconnected
+[00:37:08] [Server thread/INFO]: .Jhonny7xd lost connection: Disconnected
+[00:37:08] [Server thread/INFO]: .Jhonny7xd left the game
+[00:38:15] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Jhonny7xd
+[00:38:15] [localSession-7-4/INFO]: [Geyser-Spigot] Jhonny7xd (logged in as: Jhonny7xd) has connected to the Java server
+[00:38:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Jhonny7xd joined (UUID: 00000000-0000-0000-0009-01f5a478009f)
+[00:38:15] [Server thread/INFO]: .Jhonny7xd joined the game
+[00:38:15] [Server thread/INFO]: .Jhonny7xd[/127.0.0.1:0] logged in with entity id 2481 at ([world]125.50049, 65.0, -16.733257)
+[00:38:20] [Server thread/INFO]: .Torrico183 has made the advancement [What a Deal!]
+[00:40:01] [Server thread/WARN]: .Jhonny7xd moved wrongly!
+[00:41:08] [Server thread/INFO]: .Jhonny7xd has made the advancement [Stone Age]
+[00:41:24] [Server thread/INFO]: .Jhonny7xd has made the advancement [Getting an Upgrade]
+[00:44:01] [Server thread/WARN]: .Torrico183 moved wrongly!
