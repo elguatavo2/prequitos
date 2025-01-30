@@ -279,3 +279,18 @@ java.lang.IllegalStateException: zip file closed
 [01:05:43] [Server thread/INFO]: .Jhonny7xd has made the advancement [Acquire Hardware]
 [01:06:39] [Server thread/INFO]: .Jhonny7xd was slain by Zombie
 [01:09:48] [Server thread/WARN]: .Jhonny7xd moved wrongly!
+[01:20:54] [Server thread/INFO]: .Jhonny7xd was shot by Skeleton
+[01:22:04] [Server thread/INFO]: .Jhonny7xd has made the advancement [Monster Hunter]
+[01:23:44] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:23:44] [Server thread/INFO]: _TaeV_ left the game
+[01:24:02] [Server thread/INFO]: .Jhonny7xd has made the advancement [Isn't It Iron Pick]
+[01:24:45] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Michu123x
+[01:24:45] [localSession-7-1/INFO]: [Geyser-Spigot] Michu123x (logged in as: Michu123x) has connected to the Java server
+[01:24:45] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Michu123x joined (UUID: 00000000-0000-0000-0009-01fc571885b1)
+[01:24:46] [Server thread/INFO]: .Michu123x joined the game
+[01:24:46] [Server thread/INFO]: .Michu123x[/127.0.0.1:0] logged in with entity id 30549 at ([world]63.5, 65.0, -44.5)
+[01:24:52] [Async Chat Thread - #6/INFO]: [Not Secure] <mechajuan3> hi
+[01:25:00] [localSession-7-1/INFO]: [Geyser-Spigot] Michu123x has disconnected from the Java server because of Bedrock client disconnected
+[01:25:00] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Michu123x disconnected
+[01:25:00] [Server thread/INFO]: .Michu123x lost connection: Disconnected
+[01:25:00] [Server thread/INFO]: .Michu123x left the game
