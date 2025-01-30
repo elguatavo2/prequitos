@@ -7,6 +7,12 @@ AntiXRay:
   ExemptCreativeModePlayers: true
   NotifyOnMiningLimitReached: false
   DefaultMaxHeight: 63
+  Worlds:
+    world: ''
+    world_nether:
+      DefaultMaxHeight: 256
+    world_the_end:
+      DefaultMaxHeight: 256
   ProtectedBlockValues:
     DIAMOND_ORE:
       Value: 100
@@ -14,9 +20,3 @@ AntiXRay:
     EMERALD_ORE:
       Value: 50
       MaxHeight: 35
-  Worlds:
-    world: ''
-    world_nether:
-      DefaultMaxHeight: 256
-    world_the_end:
-      DefaultMaxHeight: 256

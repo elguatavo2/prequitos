@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.36.229.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738115509232
+  login: 1738115606546
+money: '0'
+last-account-name: ThiaguitoOwO2021
+logoutlocation:
+  world: 51bde1e6-62c9-46b3-a258-322723ff969b
+  world-name: world
+  x: 111.33825373751935
+  y: 64.0
+  z: -3.9763681995671942
+  yaw: -170.69993591308594
+  pitch: 7.950249195098877
