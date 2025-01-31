@@ -235,3 +235,4 @@ java.lang.IllegalStateException: zip file closed
 [23:08:17] [User Authenticator #0/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
 [23:08:18] [Server thread/INFO]: _TaeV_ joined the game
 [23:08:18] [Server thread/INFO]: _TaeV_[/127.23.126.35:46527] logged in with entity id 469 at ([world]2490.3098029130038, 89.0, 3004.1761045388075)
+[23:30:32] [Server thread/INFO]: _TaeV_ has made the advancement [What a Deal!]
