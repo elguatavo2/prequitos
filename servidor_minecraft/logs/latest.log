@@ -143,3 +143,20 @@
 [02:27:13] [Async Chat Thread - #27/INFO]: [Not Secure] <elguatavo7u7159> 360 -160
 [02:27:39] [Server thread/INFO]: elguatavo7u7159 burned to death
 [02:29:08] [Server thread/INFO]: elguatavo7u7159 was doomed to fall by Skeleton
+[02:29:49] [Server thread/INFO]: elguatavo7u7159 tried to swim in lava
+[02:30:12] [Server thread/INFO]: elguatavo7u7159 was slain by .Torrico183
+[02:32:21] [Server thread/INFO]: elguatavo7u7159 discovered the floor was lava
+[02:33:46] [Server thread/WARN]: .BatsPizza189850 moved too quickly! -9.23869999999988,-2.773219999999995,-3.3468000000002576
+[02:34:01] [Server thread/INFO]: .TeenCupid429295 was slain by Zombie
+[02:34:09] [localSession-7-4/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client timed out
+[02:34:09] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
+[02:34:09] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
+[02:34:09] [Server thread/INFO]: .TeenCupid429295 left the game
+[02:34:24] [Server thread/INFO]: elguatavo7u7159 tried to swim in lava
+[02:34:26] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
+[02:34:26] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
+[02:34:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
+[02:34:26] [Server thread/INFO]: .TeenCupid429295 joined the game
+[02:34:26] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 64223 at ([world]279.8331, 52.0, -239.30001)
+[02:34:50] [Server thread/INFO]: elguatavo7u7159 was slain by Piglin
+[02:35:19] [Server thread/INFO]: elguatavo7u7159 tried to swim in lava
