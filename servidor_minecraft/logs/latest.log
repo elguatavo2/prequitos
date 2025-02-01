@@ -250,3 +250,10 @@ java.lang.IllegalStateException: zip file closed
 [16:54:52] [Server thread/INFO]: .Torrico183 joined the game
 [16:54:52] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 731 at ([world]2503.3933, 89.0, 3003.317)
 [16:55:57] [Server thread/INFO]: Villager Villager['Villager'/765, uuid='128266b5-9d5c-404d-9efd-ead513519c7c', l='ServerLevel[world]', x=2512.59, y=89.00, z=3007.30, cpos=[157, 187], tl=33063, v=true] died, message: 'Villager was squished too much'
+[17:03:43] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Michu123x
+[17:03:43] [localSession-7-4/INFO]: [Geyser-Spigot] Michu123x (logged in as: Michu123x) has connected to the Java server
+[17:03:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Michu123x joined (UUID: 00000000-0000-0000-0009-01fc571885b1)
+[17:03:43] [Server thread/INFO]: .Michu123x joined the game
+[17:03:44] [Server thread/INFO]: .Michu123x[/127.0.0.1:0] logged in with entity id 2478 at ([world]2502.1555, 89.0, 2993.377)
+[17:07:11] [Server thread/WARN]: .Torrico183 moved wrongly!
+[17:07:39] [Server thread/INFO]: Villager Villager['Villager'/755, uuid='eb8eb797-0384-44f4-98ff-748c2543e8f9', l='ServerLevel[world]', x=2512.62, y=89.00, z=3007.30, cpos=[157, 187], tl=71303, v=true] died, message: 'Villager was squished too much'
