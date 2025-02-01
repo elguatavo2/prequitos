@@ -286,3 +286,10 @@ java.lang.IllegalStateException: zip file closed
 [14:34:51] [Server thread/INFO]: .Michu123x has made the advancement [We Need to Go Deeper]
 [14:36:27] [Async Chat Thread - #9/INFO]: [Not Secure] <elguatavo7u7159> 300 360
 [14:41:24] [Server thread/INFO]: .Michu123x has made the advancement [Diamonds!]
+[14:42:19] [Server thread/WARN]: .Michu123x moved wrongly!
+[14:42:20] [Server thread/WARN]: .Michu123x moved wrongly!
+[14:48:09] [Server thread/INFO]: .Michu123x has made the advancement [What a Deal!]
+[14:48:44] [localSession-7-1/INFO]: [Geyser-Spigot] Michu123x has disconnected from the Java server because of Bedrock client disconnected
+[14:48:44] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Michu123x disconnected
+[14:48:44] [Server thread/INFO]: .Michu123x lost connection: Disconnected
+[14:48:44] [Server thread/INFO]: .Michu123x left the game
