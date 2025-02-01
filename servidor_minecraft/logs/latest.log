@@ -26,3 +26,8 @@
 [00:29:30] [Server thread/INFO]: Villager Villager['Villager'/14657, uuid='e1887af5-497e-4c1b-afba-a53fc719964c', l='ServerLevel[world]', x=2512.23, y=89.00, z=3007.22, cpos=[157, 187], tl=24196, v=true] died, message: 'Villager suffocated in a wall'
 [00:36:26] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
 [00:36:26] [Server thread/INFO]: _TaeV_ left the game
+[00:39:21] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username BatsPizza189850
+[00:39:21] [localSession-7-4/INFO]: [Geyser-Spigot] BatsPizza189850 (logged in as: BatsPizza189850) has connected to the Java server
+[00:39:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 joined (UUID: 00000000-0000-0000-0009-01f10bef56dc)
+[00:39:22] [Server thread/INFO]: .BatsPizza189850 joined the game
+[00:39:22] [Server thread/INFO]: .BatsPizza189850[/127.0.0.1:0] logged in with entity id 22682 at ([world]504.5215, 65.0, -145.07721)
