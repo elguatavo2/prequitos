@@ -132,3 +132,14 @@
 [02:06:14] [Server thread/INFO]: .TeenCupid429295 left the game
 [02:07:45] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
 [02:12:26] [Server thread/INFO]: mechajuan3 has made the advancement [Cover Me with Diamonds]
+[02:20:29] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
+[02:22:31] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
+[02:22:31] [localSession-7-4/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
+[02:22:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
+[02:22:31] [Server thread/INFO]: .TeenCupid429295 joined the game
+[02:22:31] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 56811 at ([world]17.734043, 60.53472999850989, -38.545753)
+[02:26:05] [Async Chat Thread - #25/INFO]: [Not Secure] <elguatavo7u7159> 360 -360
+[02:26:11] [Server thread/INFO]: .TeenCupid429295 tried to swim in lava
+[02:27:13] [Async Chat Thread - #27/INFO]: [Not Secure] <elguatavo7u7159> 360 -160
+[02:27:39] [Server thread/INFO]: elguatavo7u7159 burned to death
+[02:29:08] [Server thread/INFO]: elguatavo7u7159 was doomed to fall by Skeleton
