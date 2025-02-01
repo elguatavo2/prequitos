@@ -301,3 +301,6 @@ java.lang.IllegalStateException: zip file closed
 [14:54:43] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 disconnected
 [14:54:43] [Server thread/INFO]: .BatsPizza189850 lost connection: Disconnected
 [14:54:43] [Server thread/INFO]: .BatsPizza189850 left the game
+[15:14:51] [Server thread/INFO]: Villager Villager['Villager'/912, uuid='913a03e7-2b02-4c40-ba1b-042291cc099b', l='ServerLevel[world]', x=2512.58, y=89.00, z=3007.32, cpos=[157, 187], tl=96066, v=true] died, message: 'Villager was squished too much'
+[15:14:52] [Server thread/INFO]: Villager Villager['Villager'/910, uuid='932c7dbc-1a9a-4865-95ef-c44ed7ed86f7', l='ServerLevel[world]', x=2512.58, y=89.00, z=3007.30, cpos=[157, 187], tl=115716, v=true] died, message: 'Villager was squished too much'
+[15:20:07] [Server thread/INFO]: Villager Villager['Villager'/911, uuid='9942903f-4252-4ef9-a805-1f02fbe89e11', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.30, cpos=[157, 187], tl=114870, v=true] died, message: 'Villager was squished too much'
