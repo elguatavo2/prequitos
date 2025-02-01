@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1738017581185
+  logout: 1738375574501
   login: 1738374554039
 money: '0'
 last-account-name: .TeenCupid429295
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 155.9066
-  y: -27.0
-  z: 81.28193
-  yaw: 176.7000732421875
-  pitch: 56.088897705078125
+  x: 17.734043
+  y: 60.55973
+  z: -38.545753
+  yaw: 117.09356689453125
+  pitch: 6.5348968505859375

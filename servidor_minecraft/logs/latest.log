@@ -110,3 +110,24 @@
 [01:55:02] [Server thread/INFO]: .BatsPizza189850 left the game
 [01:57:11] [Server thread/WARN]: .Torrico183 moved wrongly!
 [01:57:11] [Server thread/WARN]: .Torrico183 moved wrongly!
+[02:01:07] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username BatsPizza189850
+[02:01:07] [localSession-7-3/INFO]: [Geyser-Spigot] BatsPizza189850 (logged in as: BatsPizza189850) has connected to the Java server
+[02:01:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 joined (UUID: 00000000-0000-0000-0009-01f10bef56dc)
+[02:01:07] [Server thread/INFO]: .BatsPizza189850 joined the game
+[02:01:07] [Server thread/INFO]: .BatsPizza189850[/127.0.0.1:0] logged in with entity id 50660 at ([world]2485.9592, 103.0, 2999.5022)
+[02:02:00] [Server thread/INFO]: .Torrico183 was shot by elguatavo7u7159
+[02:02:16] [Server thread/INFO]: .Torrico183 was slain by elguatavo7u7159
+[02:02:28] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[02:02:33] [Server thread/INFO]: .Torrico183 was shot by elguatavo7u7159
+[02:02:51] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[02:02:52] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[02:02:53] [Server thread/INFO]: Villager Villager['Villager'/44243, uuid='b1c3368f-2923-4553-a0b8-a114d1379e64', l='ServerLevel[world]', x=2511.83, y=89.00, z=3007.23, cpos=[156, 187], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
+[02:02:53] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[02:04:38] [Server thread/INFO]: .TeenCupid429295 fell from a high place
+[02:04:42] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[02:04:42] [Server thread/INFO]: _TaeV_ left the game
+[02:06:14] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
+[02:06:14] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client disconnected
+[02:06:14] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
+[02:06:14] [Server thread/INFO]: .TeenCupid429295 left the game
+[02:07:45] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
