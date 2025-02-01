@@ -184,3 +184,21 @@
 [03:09:21] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Best Friends Forever]
 [03:13:15] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
 [03:14:12] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
+[03:24:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[03:24:31] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[03:24:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[03:24:32] [Server thread/INFO]: .Torrico183 joined the game
+[03:24:32] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 80053 at ([world]2497.0642, 89.0, 3004.5088)
+[03:25:48] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[03:25:48] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[03:25:48] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[03:25:48] [Server thread/INFO]: .Torrico183 left the game
+[03:26:44] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[03:26:44] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[03:26:44] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[03:26:45] [Server thread/INFO]: .Torrico183 joined the game
+[03:26:45] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 80372 at ([world]2491.7983, 89.0, 3000.7024)
+[03:30:23] [localSession-7-3/INFO]: [Geyser-Spigot] BatsPizza189850 has disconnected from the Java server because of Bedrock client disconnected
+[03:30:23] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 disconnected
+[03:30:23] [Server thread/INFO]: .BatsPizza189850 lost connection: Disconnected
+[03:30:23] [Server thread/INFO]: .BatsPizza189850 left the game
