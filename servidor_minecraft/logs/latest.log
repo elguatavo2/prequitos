@@ -293,3 +293,11 @@ java.lang.IllegalStateException: zip file closed
 [14:48:44] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Michu123x disconnected
 [14:48:44] [Server thread/INFO]: .Michu123x lost connection: Disconnected
 [14:48:44] [Server thread/INFO]: .Michu123x left the game
+[14:52:01] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[14:52:01] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[14:52:01] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[14:52:01] [Server thread/INFO]: .Torrico183 left the game
+[14:54:43] [localSession-7-4/INFO]: [Geyser-Spigot] BatsPizza189850 has disconnected from the Java server because of Bedrock client disconnected
+[14:54:43] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 disconnected
+[14:54:43] [Server thread/INFO]: .BatsPizza189850 lost connection: Disconnected
+[14:54:43] [Server thread/INFO]: .BatsPizza189850 left the game
