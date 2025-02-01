@@ -1,271 +1,243 @@
-[00:08:28] [Server thread/INFO]: .Jhojan_26A has made the advancement [Sweet Dreams]
-[00:08:44] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> amimir
-[00:08:58] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
-[00:13:21] [Server thread/INFO]: .Jhojan_26A has made the advancement [A Seedy Place]
-[00:15:11] [Server thread/INFO]: .Jhojan_26A has made the advancement [The Parrots and the Bats]
-[00:18:04] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> argote si podes entra discord pe
-[00:18:17] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Torrico183
-[00:18:17] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
-[00:18:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
-[00:18:18] [Server thread/INFO]: .Torrico183 joined the game
-[00:18:18] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 18312 at ([world]2463.9797, 89.0, 2943.3984)
-[00:19:38] [Async Chat Thread - #10/INFO]: [Not Secure] <.Jhojan_26A> me da paja
-[00:20:37] [Server thread/WARN]: .Jhojan_26A moved wrongly!
-[00:22:07] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> argote
-[00:22:27] [Async Chat Thread - #12/INFO]: [Not Secure] <.Jhojan_26A> q
-[00:22:35] [Async Chat Thread - #12/INFO]: [Not Secure] <.Torrico183> argote entra al discor
-[00:22:38] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> entra al discord animal
-[00:23:21] [Server thread/WARN]: .Torrico183 moved wrongly!
-[00:24:15] [Async Chat Thread - #15/INFO]: [Not Secure] <elguatavo7u7159> por q te sales grna puta
-[00:24:30] [Async Chat Thread - #15/INFO]: [Not Secure] <.Jhojan_26A> mas rato entro de nuevo
-[00:24:33] [localSession-7-2/INFO]: [Geyser-Spigot] Jhojan 26A has disconnected from the Java server because of Bedrock client disconnected
-[00:24:33] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Jhojan_26A disconnected
-[00:24:33] [Server thread/INFO]: .Jhojan_26A lost connection: Disconnected
-[00:24:33] [Server thread/INFO]: .Jhojan_26A left the game
-[00:24:35] [Async Chat Thread - #15/INFO]: [Not Secure] <elguatavo7u7159> oki
-[00:29:30] [Server thread/INFO]: Villager Villager['Villager'/14657, uuid='e1887af5-497e-4c1b-afba-a53fc719964c', l='ServerLevel[world]', x=2512.23, y=89.00, z=3007.22, cpos=[157, 187], tl=24196, v=true] died, message: 'Villager suffocated in a wall'
-[00:36:26] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
-[00:36:26] [Server thread/INFO]: _TaeV_ left the game
-[00:39:21] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username BatsPizza189850
-[00:39:21] [localSession-7-4/INFO]: [Geyser-Spigot] BatsPizza189850 (logged in as: BatsPizza189850) has connected to the Java server
-[00:39:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 joined (UUID: 00000000-0000-0000-0009-01f10bef56dc)
-[00:39:22] [Server thread/INFO]: .BatsPizza189850 joined the game
-[00:39:22] [Server thread/INFO]: .BatsPizza189850[/127.0.0.1:0] logged in with entity id 22682 at ([world]504.5215, 65.0, -145.07721)
-[00:51:53] [Async Chat Thread - #17/INFO]: [Not Secure] <.Torrico183> 302 364
-[00:57:00] [Server thread/INFO]: .Torrico183 was doomed to fall
-[00:57:36] [User Authenticator #1/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[00:57:37] [Server thread/INFO]: _TaeV_ joined the game
-[00:57:37] [Server thread/INFO]: _TaeV_[/127.23.126.35:60795] logged in with entity id 28710 at ([world]2476.5736874918266, 89.0, 2968.3271253235216)
-[00:58:17] [Server thread/WARN]: .BatsPizza189850 moved wrongly!
-[01:02:59] [Server thread/INFO]: .BatsPizza189850 has made the advancement [What a Deal!]
-[01:03:44] [Server thread/WARN]: .Torrico183 moved wrongly!
-[01:06:28] [Async Chat Thread - #18/INFO]: [Not Secure] <.Torrico183> 56
-[01:06:40] [Async Chat Thread - #18/INFO]: [Not Secure] <.Torrico183> -36
-[01:07:46] [Server thread/WARN]: .Torrico183 moved wrongly!
-[01:07:47] [Server thread/WARN]: .Torrico183 moved wrongly!
-[01:10:59] [Server thread/INFO]: .Torrico183 fell from a high place
-[01:13:33] [Server thread/WARN]: .Torrico183 moved wrongly!
-[01:23:01] [Server thread/INFO]: _TaeV_ has made the advancement [Hot Stuff]
-[01:23:12] [Server thread/INFO]: .Torrico183 burned to death
-[01:29:10] [Server thread/INFO]: .BatsPizza189850 has made the advancement [Cover Me with Diamonds]
-[01:33:22] [Server thread/WARN]: .Torrico183 moved wrongly!
-[01:35:32] [User Authenticator #2/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
-[01:35:37] [Server thread/INFO]: mechajuan3 joined the game
-[01:35:37] [Server thread/INFO]: mechajuan3[/127.241.198.181:59101] logged in with entity id 42277 at ([world]2507.3387087043784, 89.0, 3009.5845261844515)
-[01:36:09] [Server thread/INFO]: Villager Villager['Fletcher'/66, uuid='02cca7af-196b-4091-a3bd-b9b6a0a38da5', l='ServerLevel[world]', x=2491.70, y=89.00, z=2976.59, cpos=[155, 186], tl=319484, v=true] died, message: 'Fletcher was slain by _TaeV_'
-[01:41:30] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
-[01:41:30] [Server thread/INFO]: mechajuan3 left the game
-[01:41:34] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
-[01:41:34] [Server thread/INFO]: _TaeV_ left the game
-[01:41:40] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
-[01:41:43] [User Authenticator #3/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
-[01:41:45] [Server thread/INFO]: mechajuan3 joined the game
-[01:41:45] [Server thread/INFO]: mechajuan3[/127.241.198.181:57699] logged in with entity id 43905 at ([world]2507.2842458173027, 89.0, 3000.993814827375)
-[01:41:46] [User Authenticator #3/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[01:41:47] [Server thread/INFO]: _TaeV_ joined the game
-[01:41:47] [Server thread/INFO]: _TaeV_[/127.23.126.35:57345] logged in with entity id 43915 at ([world]2442.300000011921, 47.0, 2966.300000011921)
-[01:42:34] [Server thread/INFO]: mechajuan3 has made the advancement [What a Deal!]
-[01:48:44] [Server thread/WARN]: .Torrico183 moved wrongly!
-[01:49:13] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
-[01:49:13] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
-[01:49:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
-[01:49:14] [Server thread/INFO]: .TeenCupid429295 joined the game
-[01:49:14] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 46210 at ([world]155.9066, -27.0, 81.28193)
-[01:49:23] [Async Chat Thread - #20/INFO]: [Not Secure] <elguatavo7u7159> .TeenCupid429295 quien sos
-[01:49:38] [Async Chat Thread - #20/INFO]: [Not Secure] <elguatavo7u7159> martine dicord pe
-[01:49:54] [Async Chat Thread - #20/INFO]: [Not Secure] <.TeenCupid429295> que paso causa
-[01:50:02] [Async Chat Thread - #20/INFO]: [Not Secure] <.TeenCupid429295> el torrico
-[01:50:02] [Async Chat Thread - #21/INFO]: [Not Secure] <elguatavo7u7159> dicord pe
-[01:50:20] [Async Chat Thread - #21/INFO]: [Not Secure] <.TeenCupid429295> estoy llegando a mí casa perate
-[01:50:42] [Async Chat Thread - #21/INFO]: [Not Secure] <.TeenCupid429295> hasta el amanecer jugamos brothers se animan
-[01:50:59] [Async Chat Thread - #21/INFO]: [Not Secure] <elguatavo7u7159> lla lla la pero discord pe
-[01:51:22] [Server thread/WARN]: .Torrico183 moved wrongly!
-[01:51:53] [Async Chat Thread - #21/INFO]: [Not Secure] <.BatsPizza189850> nivel maximo armadura
-[01:53:08] [Async Chat Thread - #23/INFO]: [Not Secure] <.TeenCupid429295> oe espera sigo en la mina
-[01:53:25] [Async Chat Thread - #23/INFO]: [Not Secure] <.TeenCupid429295> osea estoy abajo súper abajo
-[01:53:25] [Async Chat Thread - #23/INFO]: [Not Secure] <elguatavo7u7159> MARTINES
-[01:53:29] [Async Chat Thread - #23/INFO]: [Not Secure] <elguatavo7u7159> discord
-[01:53:44] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
-[01:53:44] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
-[01:53:44] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
-[01:53:44] [Server thread/INFO]: .Torrico183 left the game
-[01:53:52] [Async Chat Thread - #23/INFO]: [Not Secure] <.TeenCupid429295> estoy en la calle para que el discord
-[01:53:56] [Async Chat Thread - #23/INFO]: [Not Secure] <.TeenCupid429295> ???
-[01:53:59] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
-[01:53:59] [Server thread/INFO]: mechajuan3 left the game
-[01:54:08] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
-[01:54:13] [User Authenticator #4/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
-[01:54:16] [Server thread/INFO]: mechajuan3 joined the game
-[01:54:16] [Server thread/INFO]: mechajuan3[/127.241.198.181:39255] logged in with entity id 48227 at ([world]2507.0147178969905, 89.0, 2998.673762819227)
-[01:54:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Torrico183
-[01:54:31] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
-[01:54:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
-[01:54:32] [Server thread/INFO]: .Torrico183 joined the game
-[01:54:32] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 48318 at ([world]2669.725, 59.0, 2739.0764)
-[01:54:39] [Async Chat Thread - #23/INFO]: [Not Secure] <elguatavo7u7159> MATINES
-[01:54:42] [Async Chat Thread - #23/INFO]: [Not Secure] <elguatavo7u7159> DICORD
-[01:55:02] [localSession-7-4/INFO]: [Geyser-Spigot] BatsPizza189850 has disconnected from the Java server because of Bedrock client disconnected
-[01:55:02] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 disconnected
-[01:55:02] [Server thread/INFO]: .BatsPizza189850 lost connection: Disconnected
-[01:55:02] [Server thread/INFO]: .BatsPizza189850 left the game
-[01:57:11] [Server thread/WARN]: .Torrico183 moved wrongly!
-[01:57:11] [Server thread/WARN]: .Torrico183 moved wrongly!
-[02:01:07] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username BatsPizza189850
-[02:01:07] [localSession-7-3/INFO]: [Geyser-Spigot] BatsPizza189850 (logged in as: BatsPizza189850) has connected to the Java server
-[02:01:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 joined (UUID: 00000000-0000-0000-0009-01f10bef56dc)
-[02:01:07] [Server thread/INFO]: .BatsPizza189850 joined the game
-[02:01:07] [Server thread/INFO]: .BatsPizza189850[/127.0.0.1:0] logged in with entity id 50660 at ([world]2485.9592, 103.0, 2999.5022)
-[02:02:00] [Server thread/INFO]: .Torrico183 was shot by elguatavo7u7159
-[02:02:16] [Server thread/INFO]: .Torrico183 was slain by elguatavo7u7159
-[02:02:28] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[02:02:33] [Server thread/INFO]: .Torrico183 was shot by elguatavo7u7159
-[02:02:51] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[02:02:52] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[02:02:53] [Server thread/INFO]: Villager Villager['Villager'/44243, uuid='b1c3368f-2923-4553-a0b8-a114d1379e64', l='ServerLevel[world]', x=2511.83, y=89.00, z=3007.23, cpos=[156, 187], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
-[02:02:53] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[02:04:38] [Server thread/INFO]: .TeenCupid429295 fell from a high place
-[02:04:42] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
-[02:04:42] [Server thread/INFO]: _TaeV_ left the game
-[02:06:14] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
-[02:06:14] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client disconnected
-[02:06:14] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
-[02:06:14] [Server thread/INFO]: .TeenCupid429295 left the game
-[02:07:45] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
-[02:12:26] [Server thread/INFO]: mechajuan3 has made the advancement [Cover Me with Diamonds]
-[02:20:29] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
-[02:22:31] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
-[02:22:31] [localSession-7-4/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
-[02:22:31] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
-[02:22:31] [Server thread/INFO]: .TeenCupid429295 joined the game
-[02:22:31] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 56811 at ([world]17.734043, 60.53472999850989, -38.545753)
-[02:26:05] [Async Chat Thread - #25/INFO]: [Not Secure] <elguatavo7u7159> 360 -360
-[02:26:11] [Server thread/INFO]: .TeenCupid429295 tried to swim in lava
-[02:27:13] [Async Chat Thread - #27/INFO]: [Not Secure] <elguatavo7u7159> 360 -160
-[02:27:39] [Server thread/INFO]: elguatavo7u7159 burned to death
-[02:29:08] [Server thread/INFO]: elguatavo7u7159 was doomed to fall by Skeleton
-[02:29:49] [Server thread/INFO]: elguatavo7u7159 tried to swim in lava
-[02:30:12] [Server thread/INFO]: elguatavo7u7159 was slain by .Torrico183
-[02:32:21] [Server thread/INFO]: elguatavo7u7159 discovered the floor was lava
-[02:33:46] [Server thread/WARN]: .BatsPizza189850 moved too quickly! -9.23869999999988,-2.773219999999995,-3.3468000000002576
-[02:34:01] [Server thread/INFO]: .TeenCupid429295 was slain by Zombie
-[02:34:09] [localSession-7-4/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client timed out
-[02:34:09] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
-[02:34:09] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
-[02:34:09] [Server thread/INFO]: .TeenCupid429295 left the game
-[02:34:24] [Server thread/INFO]: elguatavo7u7159 tried to swim in lava
-[02:34:26] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
-[02:34:26] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
-[02:34:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
-[02:34:26] [Server thread/INFO]: .TeenCupid429295 joined the game
-[02:34:26] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 64223 at ([world]279.8331, 52.0, -239.30001)
-[02:34:50] [Server thread/INFO]: elguatavo7u7159 was slain by Piglin
-[02:35:19] [Server thread/INFO]: elguatavo7u7159 tried to swim in lava
-[02:40:27] [Server thread/WARN]: .BatsPizza189850 moved wrongly!
-[02:40:28] [Server thread/WARN]: .BatsPizza189850 moved wrongly!
-[02:40:29] [Server thread/WARN]: .BatsPizza189850 moved wrongly!
-[02:40:32] [Server thread/INFO]: .TeenCupid429295 has made the advancement [We Need to Go Deeper]
-[02:44:16] [Server thread/WARN]: .Torrico183 moved wrongly!
-[02:44:17] [Server thread/WARN]: .Torrico183 moved wrongly!
-[02:48:05] [Server thread/INFO]: .TeenCupid429295 has made the advancement [Cover Me with Diamonds]
-[02:49:01] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
-[02:50:40] [Server thread/WARN]: .BatsPizza189850 moved wrongly!
-[02:50:50] [Server thread/WARN]: .BatsPizza189850 moved wrongly!
-[02:53:23] [Server thread/WARN]: .Torrico183 moved wrongly!
-[02:53:24] [Server thread/WARN]: .Torrico183 moved wrongly!
-[02:54:15] [Server thread/WARN]: .BatsPizza189850 moved wrongly!
-[02:54:25] [Server thread/WARN]: .Torrico183 moved wrongly!
-[03:01:37] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
-[03:01:37] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
-[03:01:37] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
-[03:01:37] [Server thread/INFO]: .Torrico183 left the game
-[03:06:31] [Server thread/INFO]: .TeenCupid429295 has made the advancement [What a Deal!]
-[03:06:44] [Server thread/INFO]: .BatsPizza189850 has made the advancement [Take Aim]
-[03:08:54] [Server thread/INFO]: mechajuan3 has made the advancement [Best Friends Forever]
-[03:09:21] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Best Friends Forever]
-[03:13:15] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[03:14:12] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[03:24:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Torrico183
-[03:24:31] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
-[03:24:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
-[03:24:32] [Server thread/INFO]: .Torrico183 joined the game
-[03:24:32] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 80053 at ([world]2497.0642, 89.0, 3004.5088)
-[03:25:48] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
-[03:25:48] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
-[03:25:48] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
-[03:25:48] [Server thread/INFO]: .Torrico183 left the game
-[03:26:44] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Torrico183
-[03:26:44] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
-[03:26:44] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
-[03:26:45] [Server thread/INFO]: .Torrico183 joined the game
-[03:26:45] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 80372 at ([world]2491.7983, 89.0, 3000.7024)
-[03:30:23] [localSession-7-3/INFO]: [Geyser-Spigot] BatsPizza189850 has disconnected from the Java server because of Bedrock client disconnected
-[03:30:23] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 disconnected
-[03:30:23] [Server thread/INFO]: .BatsPizza189850 lost connection: Disconnected
-[03:30:23] [Server thread/INFO]: .BatsPizza189850 left the game
-[03:33:59] [Async Chat Thread - #29/INFO]: [Not Secure] <mechajuan3> HIJO DE ÙTA
-[03:34:09] [Async Chat Thread - #29/INFO]: [Not Secure] <mechajuan3> ME PEGO ESTANDO AFK
-[03:34:19] [Async Chat Thread - #30/INFO]: [Not Secure] <mechajuan3> LE VOY A ROPER LA CABEZA
-[03:34:41] [Server thread/INFO]: .Torrico183 was slain by mechajuan3
-[03:34:50] [Async Chat Thread - #30/INFO]: [Not Secure] <mechajuan3> ACASA
-[03:34:51] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
-[03:34:51] [Server thread/INFO]: mechajuan3 left the game
-[03:37:16] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[03:37:16] [Server thread/INFO]: elguatavo7u7159 left the game
-[03:37:20] [Server thread/WARN]: .TeenCupid429295 moved wrongly!
-[03:40:39] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
-[03:40:39] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
-[03:40:39] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
-[03:40:39] [Server thread/INFO]: .Torrico183 left the game
-[03:57:33] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 disconnected
-[03:57:33] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 has disconnected from the Java server because of Bedrock client disconnected
-[03:57:33] [Server thread/INFO]: .TeenCupid429295 lost connection: Disconnected
-[03:57:33] [Server thread/INFO]: .TeenCupid429295 left the game
-[04:04:38] [Server thread/INFO]: Stopping the server
-[04:04:38] [Server thread/INFO]: Stopping server
-[04:04:38] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
-[04:04:38] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
-[04:04:38] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
-[04:04:38] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[04:04:38] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[04:04:38] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+160-e2295c1
-[04:04:38] [Server thread/INFO]: [AntiXRay] Disabling AntiXRay v1.9.0
-[04:04:38] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.2-SNAPSHOT
-[04:04:38] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[04:04:38] [WebSocketConnectReadThread-113/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[04:04:38] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[04:04:38] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[04:04:38] [Server thread/INFO]: [LuckPerms] Closing storage...
-[04:04:38] [Server thread/INFO]: [LuckPerms] Goodbye!
-[04:04:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
-[04:04:38] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[04:04:38] [Server thread/INFO]: Saving players
-[04:04:38] [Server thread/INFO]: Saving worlds
-[04:04:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:04:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:04:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:04:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:04:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 87 entity chunks, 0 poi chunks in world 'world' in 0.08s
-[04:04:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[04:04:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[04:04:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Saved 13 block chunks, 31 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[04:04:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[04:04:39] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[04:04:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:04:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:04:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:04:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:04:39] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[04:04:39] [Server thread/INFO]: All I/O tasks to complete
-[04:04:39] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[04:04:39] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[13:50:54] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[13:50:54] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[13:50:54] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[13:50:55] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[13:50:55] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+ - AntiXRay (1.9.0), Essentials (2.21.0-dev+160-e2295c1), Geyser-Spigot (2.6.0-SNAPSHOT), LuckPerms (5.4.131), SkinsRestorer (15.5.2), StaffPlus (3.3.14.2), ViaBackwards (5.2.2-SNAPSHOT), ViaRewind (4.0.4), ViaVersion (5.2.1), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[13:51:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:51:04] [ServerMain/INFO]: Loaded 1337 recipes
+[13:51:04] [ServerMain/INFO]: Loaded 1448 advancements
+[13:51:04] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[13:51:04] [Server thread/INFO]: Loading properties
+[13:51:04] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[13:51:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[13:51:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:51:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:51:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[13:51:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[13:51:07] [Server thread/INFO]: Default game type: SURVIVAL
+[13:51:07] [Server thread/INFO]: Generating keypair
+[13:51:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:51:07] [Server thread/INFO]: Using epoll channel type
+[13:51:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:51:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:51:09] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[13:51:09] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[13:51:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:51:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:51:10] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[13:51:10] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[13:51:10] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.2.1.jar' in folder 'plugins' (Is it up to date?)
+java.lang.NoClassDefFoundError: com/viaversion/viaversion/rewriter/text/JsonNBTComponentRewriter
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?]
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:243) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:169) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at ViaBackwards-5.2.2-SNAPSHOT.jar/com.viaversion.viabackwards.protocol.v1_9_1to1_9.Protocol1_9_1To1_9.registerPackets(Protocol1_9_1To1_9.java:66) ~[ViaBackwards-5.2.2-SNAPSHOT.jar:?]
+	at ViaVersion-5.2.1.jar/com.viaversion.viaversion.api.protocol.AbstractProtocol.initialize(AbstractProtocol.java:106) ~[ViaVersion-5.2.1.jar:?]
+	at ViaVersion-5.2.1.jar/com.viaversion.viaversion.protocol.ProtocolManagerImpl.registerProtocol(ProtocolManagerImpl.java:209) ~[ViaVersion-5.2.1.jar:?]
+	at ViaVersion-5.2.1.jar/com.viaversion.viaversion.protocol.ProtocolManagerImpl.registerProtocol(ProtocolManagerImpl.java:203) ~[ViaVersion-5.2.1.jar:?]
+	at ViaBackwards-5.2.2-SNAPSHOT.jar/com.viaversion.viabackwards.api.ViaBackwardsPlatform.init(ViaBackwardsPlatform.java:99) ~[ViaBackwards-5.2.2-SNAPSHOT.jar:?]
+	at ViaBackwards-5.2.2-SNAPSHOT.jar/com.viaversion.viabackwards.BukkitPlugin.lambda$new$0(BukkitPlugin.java:38) ~[ViaBackwards-5.2.2-SNAPSHOT.jar:?]
+	at ViaVersion-5.2.1.jar/com.viaversion.viaversion.ViaManagerImpl.init(ViaManagerImpl.java:115) ~[ViaVersion-5.2.1.jar:?]
+	at ViaVersion-5.2.1.jar/com.viaversion.viaversion.ViaVersionPlugin.onLoad(ViaVersionPlugin.java:88) ~[ViaVersion-5.2.1.jar:?]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:561) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:289) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.text.JsonNBTComponentRewriter
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 25 more
+[13:51:10] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[13:51:11] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[13:51:12] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[13:51:12] [Server thread/INFO]: [floodgate] Took 1,131ms to boot Floodgate
+[13:51:12] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.2-SNAPSHOT
+[13:51:12] [Server thread/INFO]: [AntiXRay] Loading server plugin AntiXRay v1.9.0
+[13:51:12] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
+[13:51:12] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[13:51:13] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[13:51:13] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[13:51:13] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
+[13:51:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[13:51:13] [Server thread/INFO]: [StaffPlus] Loading server plugin StaffPlus v3.3.14.2
+[13:51:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:51:13] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[13:51:13] [Server thread/INFO]:         __    
+[13:51:13] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[13:51:13] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[13:51:13] [Server thread/INFO]: 
+[13:51:13] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:51:14] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:51:14] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:51:15] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:51:15] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2048ms)
+[13:51:15] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
+[13:51:15] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[13:51:16] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[13:51:16] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[13:51:16] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[13:51:17] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[13:51:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:51:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:51:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:51:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:51:17] [Server thread/INFO]: Preparing level "world"
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[13:51:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[13:51:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:51:18] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[13:51:19] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 972.1ms
+[13:51:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:51:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:51:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:51:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:51:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:51:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:51:20] [Server thread/INFO]: Time elapsed: 2620 ms
+[13:51:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:51:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:51:21] [Server thread/INFO]: Time elapsed: 434 ms
+[13:51:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:51:21] [Server thread/INFO]: Preparing spawn area: 0%
+[13:51:21] [Server thread/INFO]: Time elapsed: 238 ms
+[13:51:21] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[13:51:21] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[13:51:21] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[13:51:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.2-SNAPSHOT
+[13:51:22] [Server thread/INFO]: [AntiXRay] Enabling AntiXRay v1.9.0
+[13:51:22] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
+[13:51:23] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[13:51:24] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[13:51:24] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[13:51:24] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[13:51:24] [Server thread/INFO]: [Essentials] Using locale en
+[13:51:25] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:51:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:51:25] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[13:51:25] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[13:51:25] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[13:51:25] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[13:51:25] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.14.2
+[13:51:26] [Server thread/INFO]: [Staff+] This version of Minecraft is not supported! If you have just updated to a brand new server version, check the Spigot plugin page.
+[13:51:26] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.3.14.2
+[13:51:26] [Server thread/INFO]: [Staff+] Staff+ is now disabling!
+[13:51:26] [Server thread/ERROR]: Error occurred while disabling StaffPlus v3.3.14.2
+java.lang.NullPointerException: Cannot invoke "net.shortninja.staffplus.server.hook.HookHandler.disableAll()" because "this.hookHandler" is null
+	at Staff+.jar/net.shortninja.staffplus.StaffPlus.stop(StaffPlus.java:410) ~[Staff+.jar:?]
+	at Staff+.jar/net.shortninja.staffplus.StaffPlus.onDisable(StaffPlus.java:171) ~[Staff+.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at Staff+.jar/net.shortninja.staffplus.StaffPlus.start(StaffPlus.java:190) ~[Staff+.jar:?]
+	at Staff+.jar/net.shortninja.staffplus.StaffPlus.onEnable(StaffPlus.java:141) ~[Staff+.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:768) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:530) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13:51:26] [Server thread/ERROR]: Error occurred while enabling StaffPlus v3.3.14.2 (Is it up to date?)
+java.lang.IllegalStateException: zip file closed
+	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:846) ~[?:?]
+	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:338) ~[?:?]
+	at java.base/java.util.jar.JarFile.getEntry(JarFile.java:516) ~[?:?]
+	at java.base/java.util.jar.JarFile.getJarEntry(JarFile.java:471) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:209) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:169) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at Staff+.jar/net.shortninja.staffplus.StaffPlus.onEnable(StaffPlus.java:145) ~[Staff+.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:768) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:530) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13:51:26] [Server thread/INFO]: [spark] Starting background profiler...
+[13:51:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:51:27] [Server thread/INFO]: [Geyser-Spigot] 
+[13:51:27] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
+[13:51:27] [Server thread/INFO]: [Geyser-Spigot] 
+[13:51:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[13:51:34] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2337
+[13:51:34] [Server thread/INFO]: [Geyser-Spigot] Done (6.938s)! Run /geyser help for help!
+[13:51:34] [Server thread/INFO]: Done preparing level "world" (17.250s)
+[13:51:34] [Server thread/INFO]: Running delayed init tasks
+[13:51:34] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[13:51:34] [Craft Scheduler Thread - 7 - Essentials/INFO]: [Essentials] Fetching version information...
+[13:51:34] [Server thread/INFO]: Done (42.383s)! For help, type "help"
+[13:51:35] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] You're 2 EssentialsX dev build(s) out of date!
+[13:51:35] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[13:52:00] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[13:52:00] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[13:52:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[13:52:01] [Server thread/INFO]: .Torrico183 joined the game
+[13:52:01] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 19 at ([world]2502.0044, 89.0, 3012.414)
+[13:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
+[13:54:49] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[13:54:49] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[13:54:49] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[13:54:49] [Server thread/INFO]: .Torrico183 left the game
+[13:55:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[13:55:51] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[13:55:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[13:55:52] [Server thread/INFO]: .Torrico183 joined the game
+[13:55:52] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 830 at ([world]2477.585, 103.0, 3010.5862)
