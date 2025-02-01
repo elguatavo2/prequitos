@@ -47,3 +47,9 @@
 [01:13:33] [Server thread/WARN]: .Torrico183 moved wrongly!
 [01:23:01] [Server thread/INFO]: _TaeV_ has made the advancement [Hot Stuff]
 [01:23:12] [Server thread/INFO]: .Torrico183 burned to death
+[01:29:10] [Server thread/INFO]: .BatsPizza189850 has made the advancement [Cover Me with Diamonds]
+[01:33:22] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:35:32] [User Authenticator #2/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[01:35:37] [Server thread/INFO]: mechajuan3 joined the game
+[01:35:37] [Server thread/INFO]: mechajuan3[/127.241.198.181:59101] logged in with entity id 42277 at ([world]2507.3387087043784, 89.0, 3009.5845261844515)
+[01:36:09] [Server thread/INFO]: Villager Villager['Fletcher'/66, uuid='02cca7af-196b-4091-a3bd-b9b6a0a38da5', l='ServerLevel[world]', x=2491.70, y=89.00, z=2976.59, cpos=[155, 186], tl=319484, v=true] died, message: 'Fletcher was slain by _TaeV_'
