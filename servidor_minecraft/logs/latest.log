@@ -53,3 +53,60 @@
 [01:35:37] [Server thread/INFO]: mechajuan3 joined the game
 [01:35:37] [Server thread/INFO]: mechajuan3[/127.241.198.181:59101] logged in with entity id 42277 at ([world]2507.3387087043784, 89.0, 3009.5845261844515)
 [01:36:09] [Server thread/INFO]: Villager Villager['Fletcher'/66, uuid='02cca7af-196b-4091-a3bd-b9b6a0a38da5', l='ServerLevel[world]', x=2491.70, y=89.00, z=2976.59, cpos=[155, 186], tl=319484, v=true] died, message: 'Fletcher was slain by _TaeV_'
+[01:41:30] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[01:41:30] [Server thread/INFO]: mechajuan3 left the game
+[01:41:34] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:41:34] [Server thread/INFO]: _TaeV_ left the game
+[01:41:40] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
+[01:41:43] [User Authenticator #3/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[01:41:45] [Server thread/INFO]: mechajuan3 joined the game
+[01:41:45] [Server thread/INFO]: mechajuan3[/127.241.198.181:57699] logged in with entity id 43905 at ([world]2507.2842458173027, 89.0, 3000.993814827375)
+[01:41:46] [User Authenticator #3/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:41:47] [Server thread/INFO]: _TaeV_ joined the game
+[01:41:47] [Server thread/INFO]: _TaeV_[/127.23.126.35:57345] logged in with entity id 43915 at ([world]2442.300000011921, 47.0, 2966.300000011921)
+[01:42:34] [Server thread/INFO]: mechajuan3 has made the advancement [What a Deal!]
+[01:48:44] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:49:13] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username TeenCupid429295
+[01:49:13] [localSession-7-1/INFO]: [Geyser-Spigot] TeenCupid429295 (logged in as: TeenCupid429295) has connected to the Java server
+[01:49:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as .TeenCupid429295 joined (UUID: 00000000-0000-0000-0009-01f624554f61)
+[01:49:14] [Server thread/INFO]: .TeenCupid429295 joined the game
+[01:49:14] [Server thread/INFO]: .TeenCupid429295[/127.0.0.1:0] logged in with entity id 46210 at ([world]155.9066, -27.0, 81.28193)
+[01:49:23] [Async Chat Thread - #20/INFO]: [Not Secure] <elguatavo7u7159> .TeenCupid429295 quien sos
+[01:49:38] [Async Chat Thread - #20/INFO]: [Not Secure] <elguatavo7u7159> martine dicord pe
+[01:49:54] [Async Chat Thread - #20/INFO]: [Not Secure] <.TeenCupid429295> que paso causa
+[01:50:02] [Async Chat Thread - #20/INFO]: [Not Secure] <.TeenCupid429295> el torrico
+[01:50:02] [Async Chat Thread - #21/INFO]: [Not Secure] <elguatavo7u7159> dicord pe
+[01:50:20] [Async Chat Thread - #21/INFO]: [Not Secure] <.TeenCupid429295> estoy llegando a mí casa perate
+[01:50:42] [Async Chat Thread - #21/INFO]: [Not Secure] <.TeenCupid429295> hasta el amanecer jugamos brothers se animan
+[01:50:59] [Async Chat Thread - #21/INFO]: [Not Secure] <elguatavo7u7159> lla lla la pero discord pe
+[01:51:22] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:51:53] [Async Chat Thread - #21/INFO]: [Not Secure] <.BatsPizza189850> nivel maximo armadura
+[01:53:08] [Async Chat Thread - #23/INFO]: [Not Secure] <.TeenCupid429295> oe espera sigo en la mina
+[01:53:25] [Async Chat Thread - #23/INFO]: [Not Secure] <.TeenCupid429295> osea estoy abajo súper abajo
+[01:53:25] [Async Chat Thread - #23/INFO]: [Not Secure] <elguatavo7u7159> MARTINES
+[01:53:29] [Async Chat Thread - #23/INFO]: [Not Secure] <elguatavo7u7159> discord
+[01:53:44] [localSession-7-3/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[01:53:44] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[01:53:44] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[01:53:44] [Server thread/INFO]: .Torrico183 left the game
+[01:53:52] [Async Chat Thread - #23/INFO]: [Not Secure] <.TeenCupid429295> estoy en la calle para que el discord
+[01:53:56] [Async Chat Thread - #23/INFO]: [Not Secure] <.TeenCupid429295> ???
+[01:53:59] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[01:53:59] [Server thread/INFO]: mechajuan3 left the game
+[01:54:08] [Server thread/INFO]: elguatavo7u7159 issued server command: /time set day
+[01:54:13] [User Authenticator #4/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[01:54:16] [Server thread/INFO]: mechajuan3 joined the game
+[01:54:16] [Server thread/INFO]: mechajuan3[/127.241.198.181:39255] logged in with entity id 48227 at ([world]2507.0147178969905, 89.0, 2998.673762819227)
+[01:54:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Torrico183
+[01:54:31] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 (logged in as: Torrico183) has connected to the Java server
+[01:54:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
+[01:54:32] [Server thread/INFO]: .Torrico183 joined the game
+[01:54:32] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 48318 at ([world]2669.725, 59.0, 2739.0764)
+[01:54:39] [Async Chat Thread - #23/INFO]: [Not Secure] <elguatavo7u7159> MATINES
+[01:54:42] [Async Chat Thread - #23/INFO]: [Not Secure] <elguatavo7u7159> DICORD
+[01:55:02] [localSession-7-4/INFO]: [Geyser-Spigot] BatsPizza189850 has disconnected from the Java server because of Bedrock client disconnected
+[01:55:02] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 disconnected
+[01:55:02] [Server thread/INFO]: .BatsPizza189850 lost connection: Disconnected
+[01:55:02] [Server thread/INFO]: .BatsPizza189850 left the game
+[01:57:11] [Server thread/WARN]: .Torrico183 moved wrongly!
+[01:57:11] [Server thread/WARN]: .Torrico183 moved wrongly!
