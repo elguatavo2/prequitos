@@ -241,3 +241,8 @@ java.lang.IllegalStateException: zip file closed
 [13:55:52] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Torrico183 joined (UUID: 00000000-0000-0000-0009-01f915f69d5f)
 [13:55:52] [Server thread/INFO]: .Torrico183 joined the game
 [13:55:52] [Server thread/INFO]: .Torrico183[/127.0.0.1:0] logged in with entity id 830 at ([world]2477.585, 103.0, 3010.5862)
+[14:02:59] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username BatsPizza189850
+[14:02:59] [localSession-7-4/INFO]: [Geyser-Spigot] BatsPizza189850 (logged in as: BatsPizza189850) has connected to the Java server
+[14:03:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .BatsPizza189850 joined (UUID: 00000000-0000-0000-0009-01f10bef56dc)
+[14:03:00] [Server thread/INFO]: .BatsPizza189850 joined the game
+[14:03:00] [Server thread/INFO]: .BatsPizza189850[/127.0.0.1:0] logged in with entity id 2627 at ([world]2493.7424, 89.0, 2997.8074)
