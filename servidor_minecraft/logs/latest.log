@@ -308,3 +308,9 @@ java.lang.IllegalStateException: zip file closed
 [22:45:53] [Server thread/INFO]: elguatavo7u7159 left the game
 [22:45:56] [Server thread/INFO]: elguatavo7u7159 joined the game
 [22:45:56] [Server thread/INFO]: elguatavo7u7159[/127.193.247.220:41999] logged in with entity id 33585 at ([world]2492.3365990487264, 89.0, 2996.9280240240523)
+[22:46:21] [Server thread/INFO]: .Torrico183 fell from a high place
+[22:46:27] [localSession-7-2/INFO]: [Geyser-Spigot] Torrico183 has disconnected from the Java server because of Bedrock client disconnected
+[22:46:27] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Torrico183 disconnected
+[22:46:27] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
+[22:46:27] [Server thread/INFO]: .Torrico183 left the game
+[22:49:33] [Server thread/INFO]: Villager Villager['Villager'/4349, uuid='5a8aaa1b-5326-45e5-9877-85f5373b2154', l='ServerLevel[world]', x=2512.56, y=89.00, z=3007.70, cpos=[157, 187], tl=255346, v=true] died, message: 'Villager was squished too much'
