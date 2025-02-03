@@ -314,3 +314,4 @@ java.lang.IllegalStateException: zip file closed
 [22:46:27] [Server thread/INFO]: .Torrico183 lost connection: Disconnected
 [22:46:27] [Server thread/INFO]: .Torrico183 left the game
 [22:49:33] [Server thread/INFO]: Villager Villager['Villager'/4349, uuid='5a8aaa1b-5326-45e5-9877-85f5373b2154', l='ServerLevel[world]', x=2512.56, y=89.00, z=3007.70, cpos=[157, 187], tl=255346, v=true] died, message: 'Villager was squished too much'
+[22:56:50] [Server thread/INFO]: elguatavo7u7159 burned to death
