@@ -279,3 +279,8 @@ java.lang.IllegalStateException: zip file closed
 [21:32:32] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [What a Deal!]
 [21:37:42] [Server thread/INFO]: Villager Villager['Villager'/4341, uuid='c0061c55-9c9b-4135-b440-d44b6e4135b4', l='ServerLevel[world]', x=2512.17, y=89.00, z=3007.58, cpos=[157, 187], tl=235221, v=true] died, message: 'Villager was squished too much'
 [21:37:43] [Server thread/INFO]: Villager Villager['Villager'/4344, uuid='0f92915f-06a7-4944-91ac-03ec3f535269', l='ServerLevel[world]', x=2512.17, y=89.00, z=3007.58, cpos=[157, 187], tl=214329, v=true] died, message: 'Villager was squished too much'
+[21:49:29] [Async Chat Thread - #6/INFO]: [Not Secure] <.Torrico183> duerman
+[21:50:55] [Server thread/INFO]: Villager Villager['Villager'/4333, uuid='6ddc2b01-63a2-47c1-9992-ddaddfed18e0', l='ServerLevel[world]', x=2512.63, y=89.00, z=3007.30, cpos=[157, 187], tl=334497, v=true] died, message: 'Villager was squished too much'
+[21:50:57] [Server thread/INFO]: Villager Villager['Villager'/4334, uuid='baec34e1-faf4-47ae-aa39-e55e83975fbe', l='ServerLevel[world]', x=2512.62, y=89.00, z=3007.30, cpos=[157, 187], tl=317004, v=true] died, message: 'Villager was squished too much'
+[21:56:36] [Server thread/INFO]: Villager Villager['Villager'/4342, uuid='e0348dcb-2874-4b55-9a82-e170ed99d66a', l='ServerLevel[world]', x=2512.60, y=89.00, z=3007.70, cpos=[157, 187], tl=250452, v=true] died, message: 'Villager was squished too much'
+[22:02:48] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Hot Stuff]
