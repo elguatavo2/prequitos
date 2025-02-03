@@ -277,3 +277,5 @@ java.lang.IllegalStateException: zip file closed
 [21:21:17] [Async Chat Thread - #5/INFO]: [Not Secure] <elguatavo7u7159> 16
 [21:29:59] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [Sweet Dreams]
 [21:32:32] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [What a Deal!]
+[21:37:42] [Server thread/INFO]: Villager Villager['Villager'/4341, uuid='c0061c55-9c9b-4135-b440-d44b6e4135b4', l='ServerLevel[world]', x=2512.17, y=89.00, z=3007.58, cpos=[157, 187], tl=235221, v=true] died, message: 'Villager was squished too much'
+[21:37:43] [Server thread/INFO]: Villager Villager['Villager'/4344, uuid='0f92915f-06a7-4944-91ac-03ec3f535269', l='ServerLevel[world]', x=2512.17, y=89.00, z=3007.58, cpos=[157, 187], tl=214329, v=true] died, message: 'Villager was squished too much'
