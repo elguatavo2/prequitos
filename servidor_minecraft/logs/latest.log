@@ -286,3 +286,25 @@ java.lang.IllegalStateException: zip file closed
 [22:02:48] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Hot Stuff]
 [22:09:52] [Server thread/INFO]: Villager Villager['Villager'/4346, uuid='1dfe07de-84b0-46c0-b969-c325424ba122', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.70, cpos=[157, 187], tl=239469, v=true] died, message: 'Villager was squished too much'
 [22:15:21] [Server thread/INFO]: Villager Villager['Villager'/4347, uuid='24e59060-db88-47a3-abc8-1ec46530bf7d', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.64, cpos=[157, 187], tl=238321, v=true] died, message: 'Villager was squished too much'
+[22:29:58] [Server thread/INFO]: Villager Villager['Villager'/4335, uuid='1b1ea7a8-9059-4c36-929f-e1472fa5bddd', l='ServerLevel[world]', x=2512.59, y=89.00, z=3007.70, cpos=[157, 187], tl=357181, v=true] died, message: 'Villager was squished too much'
+[22:30:59] [Server thread/WARN]: .Torrico183 moved wrongly!
+[22:34:30] [Server thread/INFO]: .Torrico183 burned to death
+[22:36:36] [Server thread/INFO]: .Torrico183 was slain by Hoglin
+[22:36:51] [Server thread/INFO]: Villager Villager['Villager'/4345, uuid='b0b35a98-18f8-45fb-ba95-da1f12f617c0', l='ServerLevel[world]', x=2512.58, y=89.00, z=3007.70, cpos=[157, 187], tl=278617, v=true] died, message: 'Villager was squished too much'
+[22:38:06] [Server thread/INFO]: .Torrico183 hit the ground too hard while trying to escape Hoglin
+[22:40:01] [Server thread/WARN]: .Torrico183 moved wrongly!
+[22:40:14] [Server thread/INFO]: .Torrico183 tried to swim in lava
+[22:41:51] [Server thread/INFO]: .Torrico183 was slain by Piglin
+[22:43:05] [Server thread/INFO]: .Torrico183 was slain by Piglin
+[22:44:02] [User Authenticator #1/INFO]: UUID of player karachupa777 is 2b4b8313-b74b-3dd3-a06d-4df52fa2aa0c
+[22:44:02] [Server thread/INFO]: .Torrico183 was slain by Hoglin
+[22:44:05] [Server thread/INFO]: karachupa777 joined the game
+[22:44:05] [Server thread/INFO]: karachupa777[/127.193.247.220:51785] logged in with entity id 32619 at ([world]56.5, 66.0, -53.5)
+[22:44:12] [Server thread/INFO]: karachupa777 lost connection: Disconnected
+[22:44:12] [Server thread/INFO]: karachupa777 left the game
+[22:44:24] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [The Parrots and the Bats]
+[22:45:53] [User Authenticator #2/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[22:45:53] [Server thread/INFO]: elguatavo7u7159 lost connection: You logged in from another location
+[22:45:53] [Server thread/INFO]: elguatavo7u7159 left the game
+[22:45:56] [Server thread/INFO]: elguatavo7u7159 joined the game
+[22:45:56] [Server thread/INFO]: elguatavo7u7159[/127.193.247.220:41999] logged in with entity id 33585 at ([world]2492.3365990487264, 89.0, 2996.9280240240523)
