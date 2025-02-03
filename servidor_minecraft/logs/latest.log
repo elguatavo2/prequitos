@@ -284,3 +284,5 @@ java.lang.IllegalStateException: zip file closed
 [21:50:57] [Server thread/INFO]: Villager Villager['Villager'/4334, uuid='baec34e1-faf4-47ae-aa39-e55e83975fbe', l='ServerLevel[world]', x=2512.62, y=89.00, z=3007.30, cpos=[157, 187], tl=317004, v=true] died, message: 'Villager was squished too much'
 [21:56:36] [Server thread/INFO]: Villager Villager['Villager'/4342, uuid='e0348dcb-2874-4b55-9a82-e170ed99d66a', l='ServerLevel[world]', x=2512.60, y=89.00, z=3007.70, cpos=[157, 187], tl=250452, v=true] died, message: 'Villager was squished too much'
 [22:02:48] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Hot Stuff]
+[22:09:52] [Server thread/INFO]: Villager Villager['Villager'/4346, uuid='1dfe07de-84b0-46c0-b969-c325424ba122', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.70, cpos=[157, 187], tl=239469, v=true] died, message: 'Villager was squished too much'
+[22:15:21] [Server thread/INFO]: Villager Villager['Villager'/4347, uuid='24e59060-db88-47a3-abc8-1ec46530bf7d', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.64, cpos=[157, 187], tl=238321, v=true] died, message: 'Villager was squished too much'
