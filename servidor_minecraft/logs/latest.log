@@ -281,3 +281,8 @@ java.lang.IllegalStateException: zip file closed
 [00:36:11] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
 [00:36:12] [Server thread/INFO]: elguatavo7u7159 joined the game
 [00:36:12] [Server thread/INFO]: elguatavo7u7159[/127.76.90.202:41357] logged in with entity id 7152 at ([world]2503.565479548266, 106.0, 3012.362047824602)
+[00:37:16] [Server thread/INFO]: JHOSEP123 has made the advancement [Monster Hunter]
+[00:39:33] [Async Chat Thread - #11/INFO]: [Not Secure] <JHOSEP123> va
+[00:41:27] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[00:41:31] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp _TaeV_
+[00:43:27] [Server thread/INFO]: Villager Villager['Villager'/3720, uuid='8981b2c2-e21d-40d8-bada-bbfd8b4badc1', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.70, cpos=[157, 187], tl=192856, v=true] died, message: 'Villager was squished too much'
