@@ -375,3 +375,42 @@ java.lang.IllegalStateException: zip file closed
 [01:26:26] [Server thread/INFO]: MrCreeper[/127.71.79.128:51089] logged in with entity id 23722 at ([world]2475.300000011921, 102.0, 2979.629191087911)
 [01:27:42] [Server thread/INFO]: MrCreeper lost connection: Timed out
 [01:27:42] [Server thread/INFO]: MrCreeper left the game
+[01:28:41] [User Authenticator #18/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[01:28:42] [User Authenticator #18/INFO]: UUID of player JHOSEP123 is f9a21f4a-a1a0-317b-8562-98057ce1f747
+[01:28:43] [Server thread/INFO]: MrCreeper joined the game
+[01:28:43] [Server thread/INFO]: MrCreeper[/127.71.79.128:56913] logged in with entity id 24173 at ([world]2487.921891101818, 89.0, 2986.6062282252224)
+[01:28:43] [Server thread/INFO]: JHOSEP123 joined the game
+[01:28:43] [Server thread/INFO]: JHOSEP123[/127.203.144.232:56141] logged in with entity id 24174 at ([world]2488.122447381261, 89.0, 2989.198091080934)
+[01:28:48] [Async Chat Thread - #17/INFO]: [Not Secure] <JHOSEP123> buenas
+[01:29:14] [Server thread/INFO]: MrCreeper lost connection: Disconnected
+[01:29:14] [Server thread/INFO]: MrCreeper left the game
+[01:29:20] [User Authenticator #18/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[01:29:22] [Server thread/INFO]: MrCreeper joined the game
+[01:29:22] [Server thread/INFO]: MrCreeper[/127.71.79.128:42255] logged in with entity id 24311 at ([world]2486.337251087513, 90.0, 2994.9759665419206)
+[01:30:34] [Server thread/INFO]: MrCreeper has made the advancement [What a Deal!]
+[01:31:30] [Server thread/INFO]: MrCreeper has made the advancement [Cover Me with Diamonds]
+[01:32:48] [Server thread/INFO]: MrCreeper lost connection: Disconnected
+[01:32:48] [Server thread/INFO]: MrCreeper left the game
+[01:32:55] [User Authenticator #19/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[01:32:56] [Server thread/INFO]: MrCreeper joined the game
+[01:32:56] [Server thread/INFO]: MrCreeper[/127.71.79.128:53027] logged in with entity id 25310 at ([world]2490.4582049874857, 89.0, 2997.4178333190684)
+[01:33:44] [Async Chat Thread - #19/INFO]: [Not Secure] <MrCreeper> zzz
+[01:33:48] [Async Chat Thread - #19/INFO]: [Not Secure] <JHOSEP123> zzz
+[01:33:49] [Async Chat Thread - #19/INFO]: [Not Secure] <JHOSEP123> zz
+[01:33:50] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:33:50] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:33:52] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:33:52] [Server thread/INFO]: _TaeV_ left the game
+[01:34:08] [User Authenticator #20/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[01:34:09] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:34:09] [Server thread/INFO]: elguatavo7u7159[/127.76.90.202:53163] logged in with entity id 25718 at ([world]2624.1535794062193, 119.0, 2929.4189578636583)
+[01:34:10] [User Authenticator #20/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:34:11] [Server thread/INFO]: _TaeV_ joined the game
+[01:34:11] [Server thread/INFO]: _TaeV_[/127.157.235.122:47159] logged in with entity id 25731 at ([world]2625.509724870253, 120.0, 2924.2259754336396)
+[01:34:29] [Server thread/INFO]: MrCreeper lost connection: Timed out
+[01:34:29] [Server thread/INFO]: MrCreeper left the game
+[01:35:06] [User Authenticator #20/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[01:35:08] [Server thread/INFO]: MrCreeper joined the game
+[01:35:08] [Server thread/INFO]: MrCreeper[/127.71.79.128:52105] logged in with entity id 25998 at ([world]2471.1978518360725, 89.56904711312373, 2977.350073936894)
+[01:35:32] [Server thread/INFO]: MrCreeper lost connection: Disconnected
+[01:35:32] [Server thread/INFO]: MrCreeper left the game
