@@ -256,3 +256,28 @@ java.lang.IllegalStateException: zip file closed
 [00:24:41] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> es el camino
 [00:24:55] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> Xd
 [00:24:58] [Async Chat Thread - #4/INFO]: [Not Secure] <JHOSEP123> jajajajaa
+[00:26:14] [Async Chat Thread - #5/INFO]: [Not Secure] <elguatavo7u7159> por aca
+[00:26:32] [User Authenticator #2/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[00:26:33] [Server thread/INFO]: _TaeV_ joined the game
+[00:26:33] [Server thread/INFO]: _TaeV_[/127.157.235.122:48299] logged in with entity id 3657 at ([world]2491.5110463698315, 89.0, 2997.9130803937696)
+[00:26:41] [Async Chat Thread - #5/INFO]: [Not Secure] <_TaeV_> oe
+[00:26:57] [Server thread/INFO]: Villager Villager['Villager'/3724, uuid='9c1325f6-0b58-45d5-bac5-10b5fb4ed0b4', l='ServerLevel[world]', x=2512.62, y=89.00, z=3007.70, cpos=[157, 187], tl=134537, v=true] died, message: 'Villager was squished too much'
+[00:28:01] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> aca
+[00:28:14] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> tven
+[00:28:28] [Async Chat Thread - #7/INFO]: [Not Secure] <_TaeV_> gus las varas
+[00:28:31] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> toma
+[00:28:47] [Async Chat Thread - #7/INFO]: [Not Secure] <JHOSEP123> gracias gracias
+[00:28:48] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> mira
+[00:30:21] [Async Chat Thread - #9/INFO]: [Not Secure] <JHOSEP123> va
+[00:30:25] [Server thread/INFO]: JHOSEP123 has made the advancement [What a Deal!]
+[00:31:04] [Async Chat Thread - #9/INFO]: [Not Secure] <elguatavo7u7159> hose sigame
+[00:31:19] [Async Chat Thread - #9/INFO]: [Not Secure] <JHOSEP123> ya ya {
+[00:31:35] [Async Chat Thread - #9/INFO]: [Not Secure] <JHOSEP123> va va
+[00:32:32] [Server thread/INFO]: Villager Villager['Villager'/3726, uuid='d9ef3ed1-18fe-44a1-88ab-dd2a71b84fe3', l='ServerLevel[world]', x=2512.62, y=89.00, z=3007.70, cpos=[157, 187], tl=117402, v=true] died, message: 'Villager was squished too much'
+[00:33:23] [Server thread/INFO]: JHOSEP123 has made the advancement [Acquire Hardware]
+[00:35:22] [Server thread/INFO]: JHOSEP123 has made the advancement [Cover Me with Diamonds]
+[00:36:06] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:36:06] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:36:11] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:36:12] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:36:12] [Server thread/INFO]: elguatavo7u7159[/127.76.90.202:41357] logged in with entity id 7152 at ([world]2503.565479548266, 106.0, 3012.362047824602)
