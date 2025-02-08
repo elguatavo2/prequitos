@@ -286,3 +286,22 @@ java.lang.IllegalStateException: zip file closed
 [00:41:27] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
 [00:41:31] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp _TaeV_
 [00:43:27] [Server thread/INFO]: Villager Villager['Villager'/3720, uuid='8981b2c2-e21d-40d8-bada-bbfd8b4badc1', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.70, cpos=[157, 187], tl=192856, v=true] died, message: 'Villager was squished too much'
+[00:46:50] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[00:50:10] [User Authenticator #4/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[00:51:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@365beaf5[id=1b571d94-4aef-3987-a0f4-fd4610a9627f,name=MrCreeper,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczODk3NTgxMDIwMCwKICAicHJvZmlsZUlkIiA6ICI1ZjBiODQxYzJmOGI0MTZjYTFlMGU4ZDMyNTcxMTMxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcmNyZWVwZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQ2M2M1OWI2OTE2ZWFmMDcwOGFmYWM2NjI1NzI2NmE4YTJiNTg5ZjU1OWYwMmIzYjVjYWRjZDY2ZGQzMjA2ZSIKICAgIH0KICB9Cn0=, signature=Au0Sfu6L9UcpoNIl302hPq5pQNfEzlC5AvWADVpa4UfD87MK7wTiOpPs37LRuyE++cAeBb695T3NSV0fkEN3DcmA6IGzgNmAlcRHTlgWejBn1mA0MS+tTRx52++lpVRTGqEc2sRTHR6S3M/HCDXpEqiM5HofLL1+h8rGOfcOtzPcWIN3o0YJ+0luWocPNFSHs1wvwSOjEKQICWPuqyU1rXLT1Fb/5sRULOPq5+oCppDTQ9aLivnaghCedCljYKSEdkOVhFOZT49A1gNY1ZOGyQwqEGtDB0+PyxoNxnkKpyG7KCBM3fU/aEF1B92o8LXkEKA5fjmg1znN4vnm/QpiJV9GB1m9Ph/noK7tvileft4SGrLb6uEddf+MuMHFyakDOssXHnStvDQ+LG9gk09u5/7CmF4zpBAGyPq3tCQ25u1j15HHO5kE4CIe2jGxN0zCnL/95t7MJI6lmUJGR/CkKtmFY6dfgCc40FCPrmjEY5JNEbSZXKg2zKB4AawVXtLhLRTeBWYiC86azVzvLIQvbGjuS8iboZMxW0XRE0gCejx7oFKZdItMS5698CxJ87IvyVM4r1Uet87LJZeihZHqrTd+QY0zpnqBRNSwIjeFVPyjAWZoNs2kbx1aIvmiuPJ5SEoQuJiffsq/JXSApy8ztSl45BBeNr6clz++MntiyII=]]}] lost connection: Timed out
+[00:51:59] [User Authenticator #5/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[00:52:00] [Server thread/INFO]: MrCreeper joined the game
+[00:52:00] [Server thread/INFO]: MrCreeper[/127.71.79.128:41545] logged in with entity id 13176 at ([world]59.5, 65.0, -40.5)
+[00:52:33] [Server thread/INFO]: Villager Villager['Villager'/3715, uuid='20518d2c-cc64-48cf-adc4-35e9d3c8a7a5', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.50, cpos=[157, 187], tl=221340, v=true] died, message: 'Villager was squished too much'
+[00:54:07] [Server thread/INFO]: MrCreeper lost connection: Disconnected
+[00:54:07] [Server thread/INFO]: MrCreeper left the game
+[00:54:31] [User Authenticator #6/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[00:54:32] [Server thread/INFO]: MrCreeper joined the game
+[00:54:32] [Server thread/INFO]: MrCreeper[/127.71.79.128:54203] logged in with entity id 14389 at ([world]64.5410349835201, 65.0, -43.518923794201875)
+[00:55:23] [Server thread/INFO]: JHOSEP123 has made the advancement [Sweet Dreams]
+[00:55:39] [Server thread/INFO]: MrCreeper lost connection: Disconnected
+[00:55:39] [Server thread/INFO]: MrCreeper left the game
+[00:55:48] [User Authenticator #7/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[00:55:49] [Server thread/INFO]: MrCreeper joined the game
+[00:55:49] [Server thread/INFO]: MrCreeper[/127.71.79.128:42169] logged in with entity id 15393 at ([world]88.63060680258188, 65.0, -66.98297341479574)
+[00:56:30] [Server thread/INFO]: MrCreeper was slain by elguatavo7u7159
