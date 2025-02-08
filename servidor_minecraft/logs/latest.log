@@ -337,3 +337,24 @@ java.lang.IllegalStateException: zip file closed
 [01:07:01] [User Authenticator #11/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
 [01:07:03] [Server thread/INFO]: MrCreeper joined the game
 [01:07:03] [Server thread/INFO]: MrCreeper[/127.71.79.128:41325] logged in with entity id 20125 at ([world]2492.9418628089084, 103.0, 3004.8115797374935)
+[01:08:36] [Server thread/INFO]: MrCreeper lost connection: Disconnected
+[01:08:36] [Server thread/INFO]: MrCreeper left the game
+[01:08:42] [User Authenticator #12/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[01:08:43] [Server thread/INFO]: MrCreeper joined the game
+[01:08:43] [Server thread/INFO]: MrCreeper[/127.71.79.128:38123] logged in with entity id 20601 at ([world]2495.7557679966562, 103.0, 3010.3601669992026)
+[01:09:29] [Server thread/INFO]: MrCreeper lost connection: Timed out
+[01:09:29] [Server thread/INFO]: MrCreeper left the game
+[01:09:39] [User Authenticator #12/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[01:09:40] [Server thread/INFO]: MrCreeper joined the game
+[01:09:40] [Server thread/INFO]: MrCreeper[/127.71.79.128:36867] logged in with entity id 20833 at ([world]2487.6557907654797, 103.0, 3008.461408667515)
+[01:10:18] [Async Chat Thread - #15/INFO]: [Not Secure] <MrCreeper> XD
+[01:10:44] [Async Chat Thread - #15/INFO]: [Not Secure] <MrCreeper> .
+[01:10:51] [Async Chat Thread - #15/INFO]: [Not Secure] <MrCreeper> .
+[01:10:57] [Async Chat Thread - #15/INFO]: [Not Secure] <MrCreeper> yhykfuiyu
+[01:11:46] [Server thread/INFO]: MrCreeper lost connection: Disconnected
+[01:11:46] [Server thread/INFO]: MrCreeper left the game
+[01:11:52] [User Authenticator #13/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[01:11:54] [Server thread/INFO]: MrCreeper joined the game
+[01:11:55] [Server thread/INFO]: MrCreeper[/127.71.79.128:50279] logged in with entity id 21326 at ([world]2475.5936546882876, 103.0, 3010.6442195734203)
+[01:13:04] [Server thread/INFO]: MrCreeper lost connection: Disconnected
+[01:13:04] [Server thread/INFO]: MrCreeper left the game
