@@ -241,3 +241,11 @@ java.lang.IllegalStateException: zip file closed
 [22:52:25] [Server thread/INFO]: elguatavo7u7159[/127.61.35.24:58847] logged in with entity id 36 at ([world]2643.6843871131573, 122.0, 2904.7571532637967)
 [22:52:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
 [22:52:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4809ms or 96 ticks behind
+[23:11:40] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[23:11:40] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:12:04] [User Authenticator #2/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:12:05] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:12:05] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:51577] logged in with entity id 6462 at ([world_nether]302.49582201212826, 115.0, 366.9232849187197)
+[23:20:12] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> bro me tengo k ir
+[23:20:14] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:20:14] [Server thread/INFO]: ThiaguitoOwO2021 left the game
