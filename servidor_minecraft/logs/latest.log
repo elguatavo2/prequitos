@@ -1,33 +1,33 @@
-[00:16:01] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[00:16:01] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[00:16:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:16:04] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[00:16:04] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+[22:51:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[22:51:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[22:51:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:51:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[22:51:13] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
  - AntiXRay (1.9.0), Essentials (2.21.0-dev+160-e2295c1), Geyser-Spigot (2.6.0-SNAPSHOT), LuckPerms (5.4.131), SkinsRestorer (15.5.2), StaffPlus (3.3.14.2), ViaBackwards (5.2.2-SNAPSHOT), ViaRewind (4.0.4), ViaVersion (5.2.1), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[00:16:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:16:18] [ServerMain/INFO]: Loaded 1337 recipes
-[00:16:18] [ServerMain/INFO]: Loaded 1448 advancements
-[00:16:18] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:16:18] [Server thread/INFO]: Loading properties
-[00:16:19] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[00:16:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:16:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:16:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:16:22] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:16:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:16:23] [Server thread/INFO]: Default game type: SURVIVAL
-[00:16:23] [Server thread/INFO]: Generating keypair
-[00:16:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:16:24] [Server thread/INFO]: Using epoll channel type
-[00:16:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:16:24] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:16:26] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[00:16:26] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[00:16:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:16:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:16:28] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[00:16:28] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[00:16:28] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.2.1.jar' in folder 'plugins' (Is it up to date?)
+[22:51:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:51:27] [ServerMain/INFO]: Loaded 1337 recipes
+[22:51:27] [ServerMain/INFO]: Loaded 1448 advancements
+[22:51:27] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:51:27] [Server thread/INFO]: Loading properties
+[22:51:28] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[22:51:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:51:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:51:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:51:32] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:51:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:51:32] [Server thread/INFO]: Default game type: SURVIVAL
+[22:51:32] [Server thread/INFO]: Generating keypair
+[22:51:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:51:33] [Server thread/INFO]: Using epoll channel type
+[22:51:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:51:33] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:51:35] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[22:51:35] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[22:51:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:51:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:51:37] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:51:38] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:51:38] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.2.1.jar' in folder 'plugins' (Is it up to date?)
 java.lang.NoClassDefFoundError: com/viaversion/viaversion/rewriter/text/JsonNBTComponentRewriter
 	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
 	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?]
@@ -59,121 +59,118 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
 	... 25 more
-[00:16:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[00:16:30] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[00:16:32] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[00:16:32] [Server thread/INFO]: [floodgate] Took 2,094ms to boot Floodgate
-[00:16:32] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.2-SNAPSHOT
-[00:16:32] [Server thread/INFO]: [AntiXRay] Loading server plugin AntiXRay v1.9.0
-[00:16:32] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
-[00:16:32] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[00:16:33] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[00:16:33] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[00:16:34] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
-[00:16:34] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[00:16:34] [Server thread/INFO]: [StaffPlus] Loading server plugin StaffPlus v3.3.14.2
-[00:16:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:16:34] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[00:16:35] [Server thread/INFO]:         __    
-[00:16:35] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[00:16:35] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[00:16:35] [Server thread/INFO]: 
-[00:16:35] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[00:16:35] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[00:16:37] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[00:16:37] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[00:16:37] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3747ms)
-[00:16:37] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
-[00:16:37] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[00:16:40] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[00:16:41] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[00:16:42] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[00:16:43] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:16:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:16:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:16:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:16:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:16:43] [Server thread/INFO]: Preparing level "world"
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:16:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:16:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:16:44] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[00:16:46] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 1,195.2ms
-[00:16:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:47] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:48] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:48] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:48] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:48] [Server thread/INFO]: Time elapsed: 4297 ms
-[00:16:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:16:50] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:50] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:50] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:50] [Server thread/INFO]: Preparing spawn area: 12%
-[00:16:50] [Server thread/INFO]: Preparing spawn area: 28%
-[00:16:51] [Server thread/INFO]: Time elapsed: 2157 ms
-[00:16:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:16:51] [Server thread/INFO]: Preparing spawn area: 0%
-[00:16:51] [Server thread/INFO]: Preparing spawn area: 12%
-[00:16:51] [Server thread/INFO]: Time elapsed: 644 ms
-[00:16:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[00:16:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
-[00:16:51] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[00:16:53] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.2-SNAPSHOT
-[00:16:53] [Server thread/INFO]: [AntiXRay] Enabling AntiXRay v1.9.0
-[00:16:53] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
-[00:16:54] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[00:16:55] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[00:16:55] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[00:16:55] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[00:16:56] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[00:16:56] [Server thread/INFO]: [Essentials] Using locale en
-[00:16:57] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[00:16:57] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[00:16:57] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[00:16:57] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[00:16:57] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[00:16:57] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[00:16:58] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.14.2
-[00:16:59] [Server thread/INFO]: [Staff+] This version of Minecraft is not supported! If you have just updated to a brand new server version, check the Spigot plugin page.
-[00:16:59] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.3.14.2
-[00:16:59] [Server thread/INFO]: [Staff+] Staff+ is now disabling!
-[00:16:59] [Server thread/ERROR]: Error occurred while disabling StaffPlus v3.3.14.2
+[22:51:38] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[22:51:38] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[22:51:40] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[22:51:40] [Server thread/INFO]: [floodgate] Took 1,938ms to boot Floodgate
+[22:51:40] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.2-SNAPSHOT
+[22:51:40] [Server thread/INFO]: [AntiXRay] Loading server plugin AntiXRay v1.9.0
+[22:51:40] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
+[22:51:40] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[22:51:42] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[22:51:42] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[22:51:42] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
+[22:51:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[22:51:42] [Server thread/INFO]: [StaffPlus] Loading server plugin StaffPlus v3.3.14.2
+[22:51:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:51:42] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[22:51:42] [Server thread/INFO]:         __    
+[22:51:42] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[22:51:42] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:51:42] [Server thread/INFO]: 
+[22:51:42] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:51:43] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:51:45] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:51:45] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:51:46] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4146ms)
+[22:51:46] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
+[22:51:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[22:51:47] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:51:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[22:51:49] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[22:51:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:51:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:51:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:51:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:51:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:51:50] [Server thread/INFO]: Preparing level "world"
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:51:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:51:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:51:52] [Server thread/INFO]: Preparing spawn area: 0%
+[22:51:52] [Server thread/INFO]: Preparing spawn area: 0%
+[22:51:53] [Server thread/INFO]: Preparing spawn area: 2%
+[22:51:53] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[22:51:53] [Server thread/INFO]: Preparing spawn area: 2%
+[22:51:54] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 1,135.7ms
+[22:51:54] [Server thread/INFO]: Preparing spawn area: 2%
+[22:51:54] [Server thread/INFO]: Preparing spawn area: 2%
+[22:51:54] [Server thread/INFO]: Preparing spawn area: 10%
+[22:51:56] [Server thread/INFO]: Preparing spawn area: 10%
+[22:51:56] [Server thread/INFO]: Preparing spawn area: 10%
+[22:51:56] [Server thread/INFO]: Time elapsed: 4431 ms
+[22:51:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:51:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:51:56] [Server thread/INFO]: Preparing spawn area: 10%
+[22:51:57] [Server thread/INFO]: Preparing spawn area: 42%
+[22:51:57] [Server thread/INFO]: Time elapsed: 1326 ms
+[22:51:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:51:57] [Server thread/INFO]: Preparing spawn area: 0%
+[22:51:58] [Server thread/INFO]: Time elapsed: 457 ms
+[22:51:58] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[22:51:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[22:51:58] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[22:51:59] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.2-SNAPSHOT
+[22:51:59] [Server thread/INFO]: [AntiXRay] Enabling AntiXRay v1.9.0
+[22:51:59] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
+[22:52:00] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[22:52:02] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:52:02] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[22:52:02] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[22:52:03] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[22:52:03] [Server thread/INFO]: [Essentials] Using locale en
+[22:52:03] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:52:04] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:52:04] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[22:52:04] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[22:52:04] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:52:04] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[22:52:05] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.14.2
+[22:52:05] [Server thread/INFO]: [Staff+] This version of Minecraft is not supported! If you have just updated to a brand new server version, check the Spigot plugin page.
+[22:52:05] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.3.14.2
+[22:52:05] [Server thread/INFO]: [Staff+] Staff+ is now disabling!
+[22:52:05] [Server thread/ERROR]: Error occurred while disabling StaffPlus v3.3.14.2
 java.lang.NullPointerException: Cannot invoke "net.shortninja.staffplus.server.hook.HookHandler.disableAll()" because "this.hookHandler" is null
 	at Staff+.jar/net.shortninja.staffplus.StaffPlus.stop(StaffPlus.java:410) ~[Staff+.jar:?]
 	at Staff+.jar/net.shortninja.staffplus.StaffPlus.onDisable(StaffPlus.java:171) ~[Staff+.jar:?]
@@ -195,7 +192,7 @@ java.lang.NullPointerException: Cannot invoke "net.shortninja.staffplus.server.h
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:16:59] [Server thread/ERROR]: Error occurred while enabling StaffPlus v3.3.14.2 (Is it up to date?)
+[22:52:05] [Server thread/ERROR]: Error occurred while enabling StaffPlus v3.3.14.2 (Is it up to date?)
 java.lang.IllegalStateException: zip file closed
 	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:846) ~[?:?]
 	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:338) ~[?:?]
@@ -219,218 +216,28 @@ java.lang.IllegalStateException: zip file closed
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:16:59] [Server thread/INFO]: [spark] Starting background profiler...
-[00:17:02] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:17:02] [Server thread/INFO]: [Geyser-Spigot] 
-[00:17:02] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
-[00:17:02] [Server thread/INFO]: [Geyser-Spigot] 
-[00:17:02] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:17:13] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2337
-[00:17:13] [Server thread/INFO]: [Geyser-Spigot] Done (11.071s)! Run /geyser help for help!
-[00:17:14] [Server thread/INFO]: Done preparing level "world" (31.221s)
-[00:17:14] [Server thread/INFO]: Running delayed init tasks
-[00:17:14] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:17:14] [Craft Scheduler Thread - 7 - Essentials/INFO]: [Essentials] Fetching version information...
-[00:17:14] [Server thread/INFO]: Done (75.565s)! For help, type "help"
-[00:17:15] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] You're 6 EssentialsX dev build(s) out of date!
-[00:17:15] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[00:17:15] [User Authenticator #0/INFO]: UUID of player jhbvkjshberkjhbv is 3a7c8c96-1a0b-3ae1-95c1-b5a155ff22b2
-[00:17:17] [Server thread/INFO]: jhbvkjshberkjhbv joined the game
-[00:17:17] [Server thread/INFO]: jhbvkjshberkjhbv[/127.203.144.232:34465] logged in with entity id 97 at ([world]68.5, 67.0, -55.5)
-[00:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
-[00:18:14] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[00:18:16] [Server thread/INFO]: elguatavo7u7159 joined the game
-[00:18:16] [Server thread/INFO]: elguatavo7u7159[/127.76.90.202:33569] logged in with entity id 249 at ([world]2492.4075886018686, 89.0, 2997.85503902572)
-[00:18:57] [Server thread/INFO]: jhbvkjshberkjhbv lost connection: Disconnected
-[00:18:57] [Server thread/INFO]: jhbvkjshberkjhbv left the game
-[00:19:42] [User Authenticator #1/INFO]: UUID of player JHOSEP123 is f9a21f4a-a1a0-317b-8562-98057ce1f747
-[00:19:44] [Server thread/INFO]: JHOSEP123 joined the game
-[00:19:44] [Server thread/INFO]: JHOSEP123[/127.203.144.232:39219] logged in with entity id 1359 at ([world]60.5, 66.0, -42.5)
-[00:19:57] [Async Chat Thread - #0/INFO]: [Not Secure] <JHOSEP123> buenas gente
-[00:21:32] [Async Chat Thread - #1/INFO]: [Not Secure] <elguatavo7u7159> SIGEME JOSE
-[00:21:42] [Async Chat Thread - #1/INFO]: [Not Secure] <elguatavo7u7159> UN SAGUNDOPE
-[00:22:42] [Async Chat Thread - #1/INFO]: [Not Secure] <elguatavo7u7159> sigeme
-[00:22:52] [Server thread/INFO]: JHOSEP123 has made the advancement [We Need to Go Deeper]
-[00:24:24] [Async Chat Thread - #3/INFO]: [Not Secure] <elguatavo7u7159> alto
-[00:24:37] [Async Chat Thread - #3/INFO]: [Not Secure] <elguatavo7u7159> me confundi este no
-[00:24:41] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> es el camino
-[00:24:55] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> Xd
-[00:24:58] [Async Chat Thread - #4/INFO]: [Not Secure] <JHOSEP123> jajajajaa
-[00:26:14] [Async Chat Thread - #5/INFO]: [Not Secure] <elguatavo7u7159> por aca
-[00:26:32] [User Authenticator #2/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[00:26:33] [Server thread/INFO]: _TaeV_ joined the game
-[00:26:33] [Server thread/INFO]: _TaeV_[/127.157.235.122:48299] logged in with entity id 3657 at ([world]2491.5110463698315, 89.0, 2997.9130803937696)
-[00:26:41] [Async Chat Thread - #5/INFO]: [Not Secure] <_TaeV_> oe
-[00:26:57] [Server thread/INFO]: Villager Villager['Villager'/3724, uuid='9c1325f6-0b58-45d5-bac5-10b5fb4ed0b4', l='ServerLevel[world]', x=2512.62, y=89.00, z=3007.70, cpos=[157, 187], tl=134537, v=true] died, message: 'Villager was squished too much'
-[00:28:01] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> aca
-[00:28:14] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> tven
-[00:28:28] [Async Chat Thread - #7/INFO]: [Not Secure] <_TaeV_> gus las varas
-[00:28:31] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> toma
-[00:28:47] [Async Chat Thread - #7/INFO]: [Not Secure] <JHOSEP123> gracias gracias
-[00:28:48] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> mira
-[00:30:21] [Async Chat Thread - #9/INFO]: [Not Secure] <JHOSEP123> va
-[00:30:25] [Server thread/INFO]: JHOSEP123 has made the advancement [What a Deal!]
-[00:31:04] [Async Chat Thread - #9/INFO]: [Not Secure] <elguatavo7u7159> hose sigame
-[00:31:19] [Async Chat Thread - #9/INFO]: [Not Secure] <JHOSEP123> ya ya {
-[00:31:35] [Async Chat Thread - #9/INFO]: [Not Secure] <JHOSEP123> va va
-[00:32:32] [Server thread/INFO]: Villager Villager['Villager'/3726, uuid='d9ef3ed1-18fe-44a1-88ab-dd2a71b84fe3', l='ServerLevel[world]', x=2512.62, y=89.00, z=3007.70, cpos=[157, 187], tl=117402, v=true] died, message: 'Villager was squished too much'
-[00:33:23] [Server thread/INFO]: JHOSEP123 has made the advancement [Acquire Hardware]
-[00:35:22] [Server thread/INFO]: JHOSEP123 has made the advancement [Cover Me with Diamonds]
-[00:36:06] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[00:36:06] [Server thread/INFO]: elguatavo7u7159 left the game
-[00:36:11] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[00:36:12] [Server thread/INFO]: elguatavo7u7159 joined the game
-[00:36:12] [Server thread/INFO]: elguatavo7u7159[/127.76.90.202:41357] logged in with entity id 7152 at ([world]2503.565479548266, 106.0, 3012.362047824602)
-[00:37:16] [Server thread/INFO]: JHOSEP123 has made the advancement [Monster Hunter]
-[00:39:33] [Async Chat Thread - #11/INFO]: [Not Secure] <JHOSEP123> va
-[00:41:27] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
-[00:41:31] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp _TaeV_
-[00:43:27] [Server thread/INFO]: Villager Villager['Villager'/3720, uuid='8981b2c2-e21d-40d8-bada-bbfd8b4badc1', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.70, cpos=[157, 187], tl=192856, v=true] died, message: 'Villager was squished too much'
-[00:46:50] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
-[00:50:10] [User Authenticator #4/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[00:51:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@365beaf5[id=1b571d94-4aef-3987-a0f4-fd4610a9627f,name=MrCreeper,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczODk3NTgxMDIwMCwKICAicHJvZmlsZUlkIiA6ICI1ZjBiODQxYzJmOGI0MTZjYTFlMGU4ZDMyNTcxMTMxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcmNyZWVwZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQ2M2M1OWI2OTE2ZWFmMDcwOGFmYWM2NjI1NzI2NmE4YTJiNTg5ZjU1OWYwMmIzYjVjYWRjZDY2ZGQzMjA2ZSIKICAgIH0KICB9Cn0=, signature=Au0Sfu6L9UcpoNIl302hPq5pQNfEzlC5AvWADVpa4UfD87MK7wTiOpPs37LRuyE++cAeBb695T3NSV0fkEN3DcmA6IGzgNmAlcRHTlgWejBn1mA0MS+tTRx52++lpVRTGqEc2sRTHR6S3M/HCDXpEqiM5HofLL1+h8rGOfcOtzPcWIN3o0YJ+0luWocPNFSHs1wvwSOjEKQICWPuqyU1rXLT1Fb/5sRULOPq5+oCppDTQ9aLivnaghCedCljYKSEdkOVhFOZT49A1gNY1ZOGyQwqEGtDB0+PyxoNxnkKpyG7KCBM3fU/aEF1B92o8LXkEKA5fjmg1znN4vnm/QpiJV9GB1m9Ph/noK7tvileft4SGrLb6uEddf+MuMHFyakDOssXHnStvDQ+LG9gk09u5/7CmF4zpBAGyPq3tCQ25u1j15HHO5kE4CIe2jGxN0zCnL/95t7MJI6lmUJGR/CkKtmFY6dfgCc40FCPrmjEY5JNEbSZXKg2zKB4AawVXtLhLRTeBWYiC86azVzvLIQvbGjuS8iboZMxW0XRE0gCejx7oFKZdItMS5698CxJ87IvyVM4r1Uet87LJZeihZHqrTd+QY0zpnqBRNSwIjeFVPyjAWZoNs2kbx1aIvmiuPJ5SEoQuJiffsq/JXSApy8ztSl45BBeNr6clz++MntiyII=]]}] lost connection: Timed out
-[00:51:59] [User Authenticator #5/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[00:52:00] [Server thread/INFO]: MrCreeper joined the game
-[00:52:00] [Server thread/INFO]: MrCreeper[/127.71.79.128:41545] logged in with entity id 13176 at ([world]59.5, 65.0, -40.5)
-[00:52:33] [Server thread/INFO]: Villager Villager['Villager'/3715, uuid='20518d2c-cc64-48cf-adc4-35e9d3c8a7a5', l='ServerLevel[world]', x=2512.64, y=89.00, z=3007.50, cpos=[157, 187], tl=221340, v=true] died, message: 'Villager was squished too much'
-[00:54:07] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[00:54:07] [Server thread/INFO]: MrCreeper left the game
-[00:54:31] [User Authenticator #6/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[00:54:32] [Server thread/INFO]: MrCreeper joined the game
-[00:54:32] [Server thread/INFO]: MrCreeper[/127.71.79.128:54203] logged in with entity id 14389 at ([world]64.5410349835201, 65.0, -43.518923794201875)
-[00:55:23] [Server thread/INFO]: JHOSEP123 has made the advancement [Sweet Dreams]
-[00:55:39] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[00:55:39] [Server thread/INFO]: MrCreeper left the game
-[00:55:48] [User Authenticator #7/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[00:55:49] [Server thread/INFO]: MrCreeper joined the game
-[00:55:49] [Server thread/INFO]: MrCreeper[/127.71.79.128:42169] logged in with entity id 15393 at ([world]88.63060680258188, 65.0, -66.98297341479574)
-[00:56:30] [Server thread/INFO]: MrCreeper was slain by elguatavo7u7159
-[00:57:17] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[00:57:17] [Server thread/INFO]: MrCreeper left the game
-[00:57:22] [User Authenticator #8/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[00:57:24] [Server thread/INFO]: MrCreeper joined the game
-[00:57:24] [Server thread/INFO]: MrCreeper[/127.71.79.128:56461] logged in with entity id 16307 at ([world]117.7467412655653, 66.68796799243164, -79.64874636526454)
-[00:59:35] [Server thread/INFO]: _TaeV_ lost connection: Timed out
-[00:59:35] [Server thread/INFO]: _TaeV_ left the game
-[01:00:15] [Server thread/INFO]: MrCreeper has made the advancement [Sweet Dreams]
-[01:00:20] [User Authenticator #9/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[01:00:21] [Server thread/INFO]: _TaeV_ joined the game
-[01:00:21] [Server thread/INFO]: _TaeV_[/127.157.235.122:40083] logged in with entity id 17778 at ([world]2493.137028324637, 103.0, 2995.521951617109)
-[01:00:22] [Async Chat Thread - #13/INFO]: [Not Secure] <MrCreeper> zzz
-[01:00:37] [Server thread/INFO]: MrCreeper has made the advancement [We Need to Go Deeper]
-[01:01:09] [Server thread/INFO]: JHOSEP123 lost connection: Disconnected
-[01:01:09] [Server thread/INFO]: JHOSEP123 left the game
-[01:04:00] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[01:04:00] [Server thread/INFO]: MrCreeper left the game
-[01:04:06] [User Authenticator #10/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:04:08] [Server thread/INFO]: MrCreeper joined the game
-[01:04:08] [Server thread/INFO]: MrCreeper[/127.71.79.128:55487] logged in with entity id 19150 at ([world]2508.9240745312436, 89.0, 3003.1960045448254)
-[01:04:56] [Server thread/INFO]: Villager Villager['Villager'/15630, uuid='a343a401-753c-4bcd-b079-cf967f77e3a3', l='ServerLevel[world]', x=2512.65, y=89.00, z=3007.70, cpos=[157, 187], tl=208751, v=true] died, message: 'Villager was squished too much'
-[01:05:17] [Server thread/INFO]: MrCreeper has made the advancement [Acquire Hardware]
-[01:06:10] [Server thread/INFO]: MrCreeper lost connection: Timed out
-[01:06:10] [Server thread/INFO]: MrCreeper left the game
-[01:06:30] [User Authenticator #11/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:06:32] [Server thread/INFO]: MrCreeper joined the game
-[01:06:32] [Server thread/INFO]: MrCreeper[/127.71.79.128:57717] logged in with entity id 19891 at ([world]2493.6196377048905, 103.0, 3004.750180942926)
-[01:06:57] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[01:06:57] [Server thread/INFO]: MrCreeper left the game
-[01:07:01] [User Authenticator #11/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:07:03] [Server thread/INFO]: MrCreeper joined the game
-[01:07:03] [Server thread/INFO]: MrCreeper[/127.71.79.128:41325] logged in with entity id 20125 at ([world]2492.9418628089084, 103.0, 3004.8115797374935)
-[01:08:36] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[01:08:36] [Server thread/INFO]: MrCreeper left the game
-[01:08:42] [User Authenticator #12/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:08:43] [Server thread/INFO]: MrCreeper joined the game
-[01:08:43] [Server thread/INFO]: MrCreeper[/127.71.79.128:38123] logged in with entity id 20601 at ([world]2495.7557679966562, 103.0, 3010.3601669992026)
-[01:09:29] [Server thread/INFO]: MrCreeper lost connection: Timed out
-[01:09:29] [Server thread/INFO]: MrCreeper left the game
-[01:09:39] [User Authenticator #12/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:09:40] [Server thread/INFO]: MrCreeper joined the game
-[01:09:40] [Server thread/INFO]: MrCreeper[/127.71.79.128:36867] logged in with entity id 20833 at ([world]2487.6557907654797, 103.0, 3008.461408667515)
-[01:10:18] [Async Chat Thread - #15/INFO]: [Not Secure] <MrCreeper> XD
-[01:10:44] [Async Chat Thread - #15/INFO]: [Not Secure] <MrCreeper> .
-[01:10:51] [Async Chat Thread - #15/INFO]: [Not Secure] <MrCreeper> .
-[01:10:57] [Async Chat Thread - #15/INFO]: [Not Secure] <MrCreeper> yhykfuiyu
-[01:11:46] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[01:11:46] [Server thread/INFO]: MrCreeper left the game
-[01:11:52] [User Authenticator #13/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:11:54] [Server thread/INFO]: MrCreeper joined the game
-[01:11:55] [Server thread/INFO]: MrCreeper[/127.71.79.128:50279] logged in with entity id 21326 at ([world]2475.5936546882876, 103.0, 3010.6442195734203)
-[01:13:04] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[01:13:04] [Server thread/INFO]: MrCreeper left the game
-[01:17:56] [User Authenticator #14/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:18:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a0792d0[id=1b571d94-4aef-3987-a0f4-fd4610a9627f,name=MrCreeper,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczODk3Njc5MDE5NCwKICAicHJvZmlsZUlkIiA6ICI1ZjBiODQxYzJmOGI0MTZjYTFlMGU4ZDMyNTcxMTMxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcmNyZWVwZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQ2M2M1OWI2OTE2ZWFmMDcwOGFmYWM2NjI1NzI2NmE4YTJiNTg5ZjU1OWYwMmIzYjVjYWRjZDY2ZGQzMjA2ZSIKICAgIH0KICB9Cn0=, signature=I2+UH5WCmluCKaMJBbl+Qgc/BsjehggcO+zpfotkGduAUaagy/QZiUoEukK+tgyUA4B3usepY2uduFsaUykGgDIR4jYoY8/sDRmzulFZYkTYu0lX4hcJSyGFJaKFBFpJ0khGI+SxbcUr+qvKuiF80NdRoiMjEqwGBGz10ssI+A3SAUpOip150xmkS1nYH/CzH+rF9cecRd/tGeIWzx8RYAf6nrYXgEa9aGhrI+msFJEqSHYbOAh0eIi2oq5W0Bgr7Jg6xlSWe+XBDA5eBeM66xjyV5ZeeNwHhpNNhrK5T6q+uEXHJJWhfEwSpQP3DDWXvR4OCakoRlrNeR7c5A9NcKBxM5cEI+8hCaYHI7scODgsovgtzwdIsQD7+ZZyyfOursEcOxn6nijaYuZmfGFjYuL9Wu5JiJrU9oMDOYxDO8mXigNrjoGVQLfS7jzLNyvD8/kzgIl1wEjg7Z6XX6ya0TubV/2aJQtdreCPchXrIaisVFtR1/8m1q1Bjhr1X49eepXNCGcj/mcSzNYM549IIQ3N6ALIL4vpC7mmweUfxSuro4Qz39pWPPx/orxQJ596hc+c2tjBIfHoiOKAIipStmEgjoj7SnxjdxKsABYKXMhJ1XJ+LX2P9kXt8vsgDF3VZ7jQbvT3snGABBLZNttUeEqkiqXFV6p0t0dZ810uUZM=]]}] lost connection: Timed out
-[01:20:14] [User Authenticator #15/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:20:17] [Server thread/INFO]: MrCreeper joined the game
-[01:20:17] [Server thread/INFO]: MrCreeper[/127.71.79.128:53747] logged in with entity id 22336 at ([world]2473.319396061535, 102.0, 2978.259100113198)
-[01:23:23] [Server thread/INFO]: MrCreeper lost connection: Timed out
-[01:23:23] [Server thread/INFO]: MrCreeper left the game
-[01:24:10] [User Authenticator #16/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:24:12] [Server thread/INFO]: MrCreeper joined the game
-[01:24:12] [Server thread/INFO]: MrCreeper[/127.71.79.128:33801] logged in with entity id 23203 at ([world]2475.746403650757, 102.0, 2981.7547453237103)
-[01:25:34] [Server thread/INFO]: MrCreeper lost connection: Timed out
-[01:25:34] [Server thread/INFO]: MrCreeper left the game
-[01:26:24] [User Authenticator #17/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:26:26] [Server thread/INFO]: MrCreeper joined the game
-[01:26:26] [Server thread/INFO]: MrCreeper[/127.71.79.128:51089] logged in with entity id 23722 at ([world]2475.300000011921, 102.0, 2979.629191087911)
-[01:27:42] [Server thread/INFO]: MrCreeper lost connection: Timed out
-[01:27:42] [Server thread/INFO]: MrCreeper left the game
-[01:28:41] [User Authenticator #18/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:28:42] [User Authenticator #18/INFO]: UUID of player JHOSEP123 is f9a21f4a-a1a0-317b-8562-98057ce1f747
-[01:28:43] [Server thread/INFO]: MrCreeper joined the game
-[01:28:43] [Server thread/INFO]: MrCreeper[/127.71.79.128:56913] logged in with entity id 24173 at ([world]2487.921891101818, 89.0, 2986.6062282252224)
-[01:28:43] [Server thread/INFO]: JHOSEP123 joined the game
-[01:28:43] [Server thread/INFO]: JHOSEP123[/127.203.144.232:56141] logged in with entity id 24174 at ([world]2488.122447381261, 89.0, 2989.198091080934)
-[01:28:48] [Async Chat Thread - #17/INFO]: [Not Secure] <JHOSEP123> buenas
-[01:29:14] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[01:29:14] [Server thread/INFO]: MrCreeper left the game
-[01:29:20] [User Authenticator #18/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:29:22] [Server thread/INFO]: MrCreeper joined the game
-[01:29:22] [Server thread/INFO]: MrCreeper[/127.71.79.128:42255] logged in with entity id 24311 at ([world]2486.337251087513, 90.0, 2994.9759665419206)
-[01:30:34] [Server thread/INFO]: MrCreeper has made the advancement [What a Deal!]
-[01:31:30] [Server thread/INFO]: MrCreeper has made the advancement [Cover Me with Diamonds]
-[01:32:48] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[01:32:48] [Server thread/INFO]: MrCreeper left the game
-[01:32:55] [User Authenticator #19/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:32:56] [Server thread/INFO]: MrCreeper joined the game
-[01:32:56] [Server thread/INFO]: MrCreeper[/127.71.79.128:53027] logged in with entity id 25310 at ([world]2490.4582049874857, 89.0, 2997.4178333190684)
-[01:33:44] [Async Chat Thread - #19/INFO]: [Not Secure] <MrCreeper> zzz
-[01:33:48] [Async Chat Thread - #19/INFO]: [Not Secure] <JHOSEP123> zzz
-[01:33:49] [Async Chat Thread - #19/INFO]: [Not Secure] <JHOSEP123> zz
-[01:33:50] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[01:33:50] [Server thread/INFO]: elguatavo7u7159 left the game
-[01:33:52] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
-[01:33:52] [Server thread/INFO]: _TaeV_ left the game
-[01:34:08] [User Authenticator #20/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[01:34:09] [Server thread/INFO]: elguatavo7u7159 joined the game
-[01:34:09] [Server thread/INFO]: elguatavo7u7159[/127.76.90.202:53163] logged in with entity id 25718 at ([world]2624.1535794062193, 119.0, 2929.4189578636583)
-[01:34:10] [User Authenticator #20/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[01:34:11] [Server thread/INFO]: _TaeV_ joined the game
-[01:34:11] [Server thread/INFO]: _TaeV_[/127.157.235.122:47159] logged in with entity id 25731 at ([world]2625.509724870253, 120.0, 2924.2259754336396)
-[01:34:29] [Server thread/INFO]: MrCreeper lost connection: Timed out
-[01:34:29] [Server thread/INFO]: MrCreeper left the game
-[01:35:06] [User Authenticator #20/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
-[01:35:08] [Server thread/INFO]: MrCreeper joined the game
-[01:35:08] [Server thread/INFO]: MrCreeper[/127.71.79.128:52105] logged in with entity id 25998 at ([world]2471.1978518360725, 89.56904711312373, 2977.350073936894)
-[01:35:32] [Server thread/INFO]: MrCreeper lost connection: Disconnected
-[01:35:32] [Server thread/INFO]: MrCreeper left the game
-[01:44:34] [Async Chat Thread - #21/INFO]: [Not Secure] <JHOSEP123> si is
-[01:44:49] [Async Chat Thread - #21/INFO]: [Not Secure] <JHOSEP123> zzz
-[01:44:49] [Async Chat Thread - #21/INFO]: [Not Secure] <JHOSEP123> zz
-[01:44:54] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[01:44:54] [Server thread/INFO]: elguatavo7u7159 left the game
-[01:45:04] [User Authenticator #21/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[01:45:05] [Server thread/INFO]: elguatavo7u7159 joined the game
-[01:45:05] [Server thread/INFO]: elguatavo7u7159[/127.76.90.202:60245] logged in with entity id 27902 at ([world]2643.357617385264, 119.0, 2914.0051987012084)
-[01:45:06] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
-[01:45:06] [Server thread/INFO]: _TaeV_ left the game
-[01:45:12] [User Authenticator #21/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[01:45:13] [Server thread/INFO]: _TaeV_ joined the game
-[01:45:13] [Server thread/INFO]: _TaeV_[/127.157.235.122:56089] logged in with entity id 27918 at ([world]2643.26944039989, 121.0, 2919.8102863549448)
-[01:45:27] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
-[01:45:27] [Server thread/INFO]: _TaeV_ left the game
-[01:45:30] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[01:45:30] [Server thread/INFO]: elguatavo7u7159 left the game
-[01:45:37] [Async Chat Thread - #21/INFO]: [Not Secure] <JHOSEP123> bye bye
-[01:45:42] [Server thread/INFO]: JHOSEP123 lost connection: Disconnected
-[01:45:42] [Server thread/INFO]: JHOSEP123 left the game
+[22:52:06] [Server thread/INFO]: [spark] Starting background profiler...
+[22:52:07] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:52:07] [Server thread/INFO]: [Geyser-Spigot] 
+[22:52:07] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
+[22:52:07] [Server thread/INFO]: [Geyser-Spigot] 
+[22:52:07] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:52:18] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2337
+[22:52:18] [Server thread/INFO]: [Geyser-Spigot] Done (10.732s)! Run /geyser help for help!
+[22:52:18] [Server thread/INFO]: Done preparing level "world" (28.384s)
+[22:52:18] [Server thread/INFO]: Running delayed init tasks
+[22:52:18] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[22:52:19] [Craft Scheduler Thread - 7 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:52:19] [Server thread/INFO]: Done (74.010s)! For help, type "help"
+[22:52:19] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[22:52:19] [Server thread/INFO]: elguatavo7u7159 (/127.61.35.24:56803) lost connection: Disconnected
+[22:52:19] [User Authenticator #1/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[22:52:19] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] You're 7 EssentialsX dev build(s) out of date!
+[22:52:19] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[22:52:22] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[22:52:22] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:53367] logged in with entity id 29 at ([world]2669.837260324842, 96.0, 2922.184365225443)
+[22:52:23] [User Authenticator #1/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[22:52:24] [Server thread/INFO]: elguatavo7u7159 joined the game
+[22:52:25] [Server thread/INFO]: elguatavo7u7159[/127.61.35.24:58847] logged in with entity id 36 at ([world]2643.6843871131573, 122.0, 2904.7571532637967)
+[22:52:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
+[22:52:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4809ms or 96 ticks behind
