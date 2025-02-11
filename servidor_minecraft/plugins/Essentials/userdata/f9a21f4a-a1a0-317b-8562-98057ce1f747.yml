@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1738979142407
+  logout: 1739316950180
   login: 1739311978518
 money: '0'
 last-account-name: JHOSEP123
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 2491.289963868539
+  x: 2480.5696346871637
   y: 89.0
-  z: 2994.7063717531146
-  yaw: 118.49995422363281
-  pitch: 7.349977493286133
+  z: 2990.40669966393
+  yaw: 137.404541015625
+  pitch: 2.7000088691711426

@@ -594,3 +594,5 @@ java.lang.IllegalStateException: zip file closed
 [23:21:45] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
 [23:21:51] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp _TaeV_
 [23:22:03] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[23:35:50] [Server thread/INFO]: JHOSEP123 lost connection: Disconnected
+[23:35:50] [Server thread/INFO]: JHOSEP123 left the game
