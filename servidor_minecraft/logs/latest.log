@@ -351,3 +351,21 @@ java.lang.IllegalStateException: zip file closed
 [22:37:50] [Server thread/INFO]: JHOSEP123[/127.99.54.245:41679] logged in with entity id 38014 at ([world]2480.5696346871637, 89.0, 2990.40669966393)
 [22:43:45] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
 [22:43:45] [Server thread/INFO]: mechajuan3 left the game
+[22:52:06] [User Authenticator #9/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[22:52:09] [Server thread/INFO]: mechajuan3 joined the game
+[22:52:09] [Server thread/INFO]: mechajuan3[/127.241.198.181:34189] logged in with entity id 48585 at ([world]2141.044339805772, 69.0, 3333.2276086965953)
+[22:55:14] [Server thread/INFO]: elguatavo7u7159 has reached the goal [Hired Help]
+[22:58:00] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [Eye Spy]
+[22:59:53] [Async Chat Thread - #12/INFO]: [Not Secure] <ThiaguitoOwO2021> 1027 -57 1380
+[23:00:31] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> 128 172
+[23:04:08] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [The End?]
+[23:04:11] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:04:11] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[23:06:26] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Eye Spy]
+[23:06:28] [Server thread/INFO]: JHOSEP123 has made the advancement [Eye Spy]
+[23:06:28] [Server thread/INFO]: mechajuan3 has made the advancement [Eye Spy]
+[23:06:33] [Server thread/INFO]: _TaeV_ has made the advancement [Eye Spy]
+[23:07:12] [Server thread/INFO]: _TaeV_ has made the advancement [The End?]
+[23:07:17] [Server thread/INFO]: elguatavo7u7159 has made the advancement [The End?]
+[23:07:18] [Server thread/INFO]: mechajuan3 has made the advancement [The End?]
+[23:07:34] [Server thread/INFO]: JHOSEP123 has made the advancement [The End?]
