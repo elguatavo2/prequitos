@@ -239,3 +239,79 @@ java.lang.IllegalStateException: zip file closed
 [20:33:50] [Server thread/INFO]: mechajuan3 joined the game
 [20:33:50] [Server thread/INFO]: mechajuan3[/127.241.198.181:44243] logged in with entity id 3991 at ([world]2846.315440955751, 37.0, 3035.699999988079)
 [20:39:15] [Async Chat Thread - #1/INFO]: [Not Secure] <ThiaguitoOwO2021> ok pe
+[20:52:50] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[20:52:50] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[20:52:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[20:52:51] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[20:52:51] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 14919 at ([world]207.17537, 68.0, 58.784447)
+[20:53:10] [Async Chat Thread - #2/INFO]: [Not Secure] <ThiaguitoOwO2021> 455 -193
+[20:57:22] [Server thread/INFO]: .ThiagoPro2021 drowned
+[20:59:10] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Sweet Dreams]
+[20:59:16] [Async Chat Thread - #4/INFO]: [Not Secure] <ThiaguitoOwO2021> oing
+[20:59:29] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [We Need to Go Deeper]
+[21:01:01] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[21:01:01] [Server thread/INFO]: elguatavo7u7159 left the game
+[21:01:46] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[21:01:46] [Server thread/INFO]: elguatavo7u7159 joined the game
+[21:01:46] [Server thread/INFO]: elguatavo7u7159[/127.168.128.94:41015] logged in with entity id 21773 at ([world]2473.0708251271712, 89.0, 2980.8526949044576)
+[21:02:11] [Server thread/INFO]: Stopping the server
+[21:02:11] [Server thread/INFO]: Stopping server
+[21:02:11] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[21:02:11] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.4
+[21:02:11] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[21:02:11] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:02:11] [Server thread/INFO]: [Geyser-Spigot] Kicking 1 player(s)
+[21:02:11] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Apagando el proxy de Geyser.
+[21:02:11] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[21:02:11] [Server thread/INFO]: [Geyser-Spigot] Kicked all players!
+[21:02:11] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:02:11] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+160-e2295c1
+[21:02:11] [Server thread/INFO]: [AntiXRay] Disabling AntiXRay v1.9.0
+[21:02:11] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.2-SNAPSHOT
+[21:02:11] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:02:11] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[21:02:11] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:02:11] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:02:11] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:02:11] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[21:02:11] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[21:02:11] [WebSocketConnectReadThread-113/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:02:11] [Server thread/INFO]: Saving players
+[21:02:12] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Server closed
+[21:02:12] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:02:12] [Server thread/INFO]: mechajuan3 lost connection: Server closed
+[21:02:12] [Server thread/INFO]: mechajuan3 left the game
+[21:02:12] [Server thread/INFO]: .ThiagoPro2021 lost connection: Server closed
+[21:02:12] [Server thread/INFO]: .ThiagoPro2021 left the game
+[21:02:12] [Server thread/INFO]: elguatavo7u7159 lost connection: Server closed
+[21:02:12] [Server thread/INFO]: elguatavo7u7159 left the game
+[21:02:12] [Server thread/INFO]: Saving worlds
+[21:02:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:02:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:02:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:02:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:02:16] [Server thread/INFO]: [ChunkHolderManager] Saved 1484 block chunks, 1582 entity chunks, 1 poi chunks in world 'world' in 3.82s
+[21:02:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:02:16] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:02:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:02:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:02:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:02:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:02:18] [Server thread/INFO]: [ChunkHolderManager] Saved 1369 block chunks, 1417 entity chunks, 0 poi chunks in world 'world_nether' in 2.03s
+[21:02:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:02:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:02:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:02:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:02:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:02:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:02:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[21:02:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:02:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:02:18] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[21:02:18] [Server thread/INFO]: All I/O tasks to complete
+[21:02:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:02:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

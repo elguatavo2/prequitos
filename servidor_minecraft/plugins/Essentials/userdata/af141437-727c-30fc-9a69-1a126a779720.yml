@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739324754783
+  logout: 1739394131842
   login: 1739391454612
 money: '0'
 last-account-name: ThiaguitoOwO2021
 logoutlocation:
-  world: 51bde1e6-62c9-46b3-a258-322723ff969b
-  world-name: world
-  x: 2489.699999988079
-  y: 89.0
-  z: 2989.892542410023
-  yaw: -72.1528549194336
-  pitch: 6.0003814697265625
+  world: 326c389f-88fd-4b7b-b445-dfb70f9f275b
+  world-name: world_nether
+  x: 55.30041397949018
+  y: 115.0
+  z: -39.07728783122398
+  yaw: 179.98851013183594
+  pitch: 10.800070762634277

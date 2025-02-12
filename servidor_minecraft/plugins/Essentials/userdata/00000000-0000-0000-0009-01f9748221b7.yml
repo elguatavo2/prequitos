@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739321503482
-  login: 1739321417940
+  logout: 1739394131860
+  login: 1739393571468
 money: '0'
 last-account-name: .ThiagoPro2021
 logoutlocation:
-  world: 51bde1e6-62c9-46b3-a258-322723ff969b
-  world-name: world
-  x: 207.17537
-  y: 68.0
-  z: 58.784447
-  yaw: 79.90667724609375
-  pitch: 70.2171630859375
+  world: 326c389f-88fd-4b7b-b445-dfb70f9f275b
+  world-name: world_nether
+  x: -60.74272
+  y: 114.0
+  z: -541.30005
+  yaw: 89.3902587890625
+  pitch: 6.1721038818359375
