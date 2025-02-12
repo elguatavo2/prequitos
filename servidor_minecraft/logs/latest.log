@@ -284,3 +284,31 @@ java.lang.IllegalStateException: zip file closed
 [21:31:03] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> ire talando madera
 [21:31:06] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> la profe se murio
 [21:31:13] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> ok ok
+[21:41:10] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[21:41:10] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:41:17] [User Authenticator #3/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:41:18] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:41:18] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:50617] logged in with entity id 14544 at ([world]2498.4657000787547, 103.15742543334164, 2985.39709529017)
+[21:41:22] [Server thread/INFO]: mechajuan3 lost connection: Timed out
+[21:41:22] [Server thread/INFO]: mechajuan3 left the game
+[21:41:22] [Server thread/INFO]: elguatavo7u7159 lost connection: Timed out
+[21:41:23] [Server thread/INFO]: elguatavo7u7159 left the game
+[21:41:32] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[21:41:33] [Server thread/INFO]: elguatavo7u7159 joined the game
+[21:41:33] [Server thread/INFO]: elguatavo7u7159[/127.168.128.94:55479] logged in with entity id 14730 at ([world]1603.9169700933573, 62.159191897434184, 1599.5847290282304)
+[21:41:39] [User Authenticator #3/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[21:41:41] [Async Chat Thread - #2/INFO]: [Not Secure] <ThiaguitoOwO2021> xD, que paso
+[21:41:42] [Server thread/INFO]: mechajuan3 joined the game
+[21:41:42] [Server thread/INFO]: mechajuan3[/127.241.198.181:49985] logged in with entity id 14955 at ([world]1591.3861632972964, 60.47888293911481, 1591.7021628266216)
+[21:41:53] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[21:41:55] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[21:53:08] [Async Chat Thread - #4/INFO]: [Not Secure] <ThiaguitoOwO2021> gustavo ya hay enderpearl
+[21:53:22] [Async Chat Thread - #5/INFO]: [Not Secure] <ThiaguitoOwO2021> me alcanzo pa 12
+[21:53:26] [Async Chat Thread - #5/INFO]: [Not Secure] <elguatavo7u7159> lla con 16 la hacemos
+[21:53:31] [Async Chat Thread - #5/INFO]: [Not Secure] <elguatavo7u7159> mas mono
+[21:53:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ThiaguitoOwO2021> tengo 15
+[21:55:36] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[21:55:37] [Server thread/INFO]: mechajuan3 left the game
+[21:56:39] [User Authenticator #4/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[21:56:41] [Server thread/INFO]: mechajuan3 joined the game
+[21:56:41] [Server thread/INFO]: mechajuan3[/127.241.198.181:51615] logged in with entity id 21173 at ([world_nether]107.70552549410733, 94.0, 50.24875379150541)
