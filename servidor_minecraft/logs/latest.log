@@ -338,3 +338,16 @@ java.lang.IllegalStateException: zip file closed
 [22:21:17] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> pase los ojos pe
 [22:25:03] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
 [22:25:03] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[22:27:48] [User Authenticator #6/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[22:27:49] [Server thread/INFO]: _TaeV_ joined the game
+[22:27:49] [Server thread/INFO]: _TaeV_[/127.15.88.22:44511] logged in with entity id 33147 at ([world]2847.8374294730515, 37.0, 3044.81989114147)
+[22:28:36] [Server thread/INFO]: mechajuan3 has made the advancement [Hot Stuff]
+[22:29:32] [User Authenticator #7/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[22:29:33] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[22:29:33] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:39121] logged in with entity id 33727 at ([world]2501.2880479536484, 89.0, 3010.531629943168)
+[22:36:29] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [Into Fire]
+[22:37:49] [User Authenticator #8/INFO]: UUID of player JHOSEP123 is f9a21f4a-a1a0-317b-8562-98057ce1f747
+[22:37:50] [Server thread/INFO]: JHOSEP123 joined the game
+[22:37:50] [Server thread/INFO]: JHOSEP123[/127.99.54.245:41679] logged in with entity id 38014 at ([world]2480.5696346871637, 89.0, 2990.40669966393)
+[22:43:45] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[22:43:45] [Server thread/INFO]: mechajuan3 left the game
