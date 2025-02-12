@@ -9,3 +9,29 @@
 [00:20:22] [Server thread/INFO]: MrCreeper was slain by Zombie
 [00:21:17] [Server thread/INFO]: MrCreeper lost connection: Disconnected
 [00:21:17] [Server thread/INFO]: MrCreeper left the game
+[00:41:21] [Server thread/WARN]: _TaeV_ moved wrongly!
+[00:45:31] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:45:31] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:45:32] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:45:32] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:45:32] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 91242 at ([world]61.5, 67.0, -52.5)
+[00:45:46] [Async Chat Thread - #58/INFO]: [Not Secure] <.ThiagoPro2021> ando en bedrock
+[00:48:03] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Bedrock client disconnected
+[00:48:03] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[00:48:03] [Server thread/INFO]: .ThiagoPro2021 lost connection: Disconnected
+[00:48:03] [Server thread/INFO]: .ThiagoPro2021 left the game
+[00:50:17] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:50:17] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:50:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:50:17] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:50:17] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 92788 at ([world]205.25037, 68.0, 33.885937)
+[00:50:27] [Async Chat Thread - #60/INFO]: [Not Secure] <.ThiagoPro2021> se xo
+[00:50:35] [Async Chat Thread - #60/INFO]: [Not Secure] <elguatavo7u7159> sos tu tiago (
+[00:50:38] [Async Chat Thread - #60/INFO]: [Not Secure] <elguatavo7u7159> ?
+[00:50:39] [Async Chat Thread - #60/INFO]: [Not Secure] <.ThiagoPro2021> si we
+[00:50:44] [Async Chat Thread - #60/INFO]: [Not Secure] <elguatavo7u7159> noooooooo
+[00:50:46] [Async Chat Thread - #61/INFO]: [Not Secure] <elguatavo7u7159> dema en pero
+[00:50:53] [Async Chat Thread - #61/INFO]: [Not Secure] <.ThiagoPro2021> (
+[00:50:55] [Async Chat Thread - #61/INFO]: [Not Secure] <.ThiagoPro2021> ke
+[00:51:03] [Async Chat Thread - #61/INFO]: [Not Secure] <elguatavo7u7159> de mal en peor
+[00:51:09] [Async Chat Thread - #61/INFO]: [Not Secure] <.ThiagoPro2021> a
