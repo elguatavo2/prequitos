@@ -255,3 +255,32 @@ java.lang.IllegalStateException: zip file closed
 [21:08:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
 [21:10:23] [Server thread/INFO]: Villager Villager['Weaponsmith'/194, uuid='1428bafa-f59c-4a3e-ab18-1da4ee7f5397', l='ServerLevel[world]', x=2509.47, y=89.00, z=3004.35, cpos=[156, 187], tl=523064, v=true] died, message: 'Weaponsmith was slain by elguatavo7u7159'
 [21:15:23] [Server thread/INFO]: .ThiagoPro2021 was slain by ThiaguitoOwO2021
+[21:16:55] [Server thread/INFO]: mechajuan3 has made the advancement [Ice Bucket Challenge]
+[21:19:15] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Bedrock client disconnected
+[21:19:15] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[21:19:15] [Server thread/INFO]: .ThiagoPro2021 lost connection: Disconnected
+[21:19:15] [Server thread/INFO]: .ThiagoPro2021 left the game
+[21:19:20] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[21:19:20] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:22:18] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[21:22:23] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp mechajuan3
+[21:24:07] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp elguatavo7u7159 2500 3000
+[21:25:00] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[21:25:46] [Server thread/INFO]: elguatavo7u7159 issued server command: /setblock 2120 69 3240 minecraft:nether_portal
+[21:25:46] [Server thread/INFO]: [elguatavo7u7159: Changed the block at 2120, 69, 3240]
+[21:26:17] [Server thread/INFO]: elguatavo7u7159 issued server command: /setblock 2120 69 3240 minecraft:nether_portal
+[21:26:17] [Server thread/INFO]: [elguatavo7u7159: Changed the block at 2120, 69, 3240]
+[21:26:54] [Server thread/INFO]: elguatavo7u7159 issued server command: /setblock 2120 69 3240 minecraft:nether_portal
+[21:26:54] [Server thread/INFO]: [elguatavo7u7159: Changed the block at 2120, 69, 3240]
+[21:27:41] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[21:27:51] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[21:27:56] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[21:28:06] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[21:28:24] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
+[21:28:48] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
+[21:30:50] [User Authenticator #2/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:30:52] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:30:52] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:40517] logged in with entity id 9607 at ([world]2482.356144908801, 89.0, 2985.9786504332096)
+[21:31:03] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> ire talando madera
+[21:31:06] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> la profe se murio
+[21:31:13] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> ok ok
