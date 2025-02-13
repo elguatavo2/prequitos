@@ -2,3 +2,23 @@
 [00:02:45] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode creative
 [00:03:40] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
 [00:06:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[00:11:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[00:12:12] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:12:12] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:12:12] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:12:12] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:12:12] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 79543 at ([world]2501.3215, 89.0, 3000.7637)
+[00:12:23] [Async Chat Thread - #27/INFO]: [Not Secure] <.ThiagoPro2021> mo
+[00:12:35] [Async Chat Thread - #28/INFO]: [Not Secure] <.ThiagoPro2021> lo siento gustavo p3ro no ando en mi ksa
+[00:12:45] [Async Chat Thread - #28/INFO]: [Not Secure] <.ThiagoPro2021> estoy en bugdrock
+[00:13:01] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Suit Up]
+[00:15:24] [Async Chat Thread - #29/INFO]: [Not Secure] <.ThiagoPro2021> ando en cel krako
+[00:15:33] [Async Chat Thread - #29/INFO]: [Not Secure] <mechajuan3> ok
+[00:16:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[00:20:06] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [What a Deal!]
+[00:21:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[00:22:43] [Server thread/INFO]: Villager Villager['Villager'/70576, uuid='48e99dd0-5794-4a59-9674-ea1d406218c8', l='ServerLevel[world]', x=2513.50, y=92.00, z=3011.30, cpos=[157, 188], tl=626207, v=true] died, message: 'Villager was slain by _TaeV_'
+[00:23:20] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Stone Age]
+[00:23:57] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Getting an Upgrade]
+[00:26:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[00:27:04] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Acquire Hardware]
