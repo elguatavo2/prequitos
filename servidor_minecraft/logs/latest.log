@@ -22,3 +22,71 @@
 [00:23:57] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Getting an Upgrade]
 [00:26:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
 [00:27:04] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Acquire Hardware]
+[00:31:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[00:36:20] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Bedrock client disconnected
+[00:36:20] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[00:36:20] [Server thread/INFO]: .ThiagoPro2021 lost connection: Disconnected
+[00:36:20] [Server thread/INFO]: .ThiagoPro2021 left the game
+[00:36:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[00:40:50] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:40:50] [localSession-7-4/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:40:50] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:40:50] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:40:50] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 89050 at ([world]2485.1208, 124.0, 3008.535)
+[00:40:54] [Server thread/WARN]: .ThiagoPro2021 was kicked for floating too long!
+[00:40:54] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[00:40:54] [localSession-7-4/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of End of stream
+[00:40:54] [Server thread/INFO]: .ThiagoPro2021 lost connection: Flying is not enabled on this server
+[00:40:54] [Server thread/INFO]: .ThiagoPro2021 left the game
+[00:41:16] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:41:16] [localSession-7-1/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:41:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:41:16] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:41:16] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 89163 at ([world]2485.1208, 120.84312755346642, 3008.535)
+[00:41:20] [Server thread/WARN]: .ThiagoPro2021 was kicked for floating too long!
+[00:41:20] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[00:41:20] [Server thread/INFO]: .ThiagoPro2021 lost connection: Flying is not enabled on this server
+[00:41:20] [localSession-7-1/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of End of stream
+[00:41:20] [Server thread/INFO]: .ThiagoPro2021 left the game
+[00:41:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[00:42:53] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:42:53] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:42:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:42:53] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:42:53] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 89589 at ([world]2485.1208, 117.68625510693283, 3008.535)
+[00:42:57] [Server thread/WARN]: .ThiagoPro2021 was kicked for floating too long!
+[00:42:57] [Server thread/INFO]: .ThiagoPro2021 lost connection: Flying is not enabled on this server
+[00:42:57] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Flying is not enabled on this server
+[00:42:57] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[00:42:57] [Server thread/INFO]: .ThiagoPro2021 left the game
+[00:43:16] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:43:16] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:43:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:43:16] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:43:16] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 89686 at ([world]2485.1208, 114.52938266039925, 3008.535)
+[00:43:20] [Server thread/WARN]: .ThiagoPro2021 was kicked for floating too long!
+[00:43:20] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[00:43:20] [Server thread/INFO]: .ThiagoPro2021 lost connection: Flying is not enabled on this server
+[00:43:20] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of End of stream
+[00:43:20] [Server thread/INFO]: .ThiagoPro2021 left the game
+[00:43:36] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:43:36] [localSession-7-4/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:43:37] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:43:37] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:43:37] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 89877 at ([world]2485.1208, 111.37251021386567, 3008.535)
+[00:43:41] [Server thread/WARN]: .ThiagoPro2021 was kicked for floating too long!
+[00:43:41] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[00:43:41] [localSession-7-4/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of End of stream
+[00:43:41] [Server thread/INFO]: .ThiagoPro2021 lost connection: Flying is not enabled on this server
+[00:43:41] [Server thread/INFO]: .ThiagoPro2021 left the game
+[00:46:17] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:46:17] [localSession-7-1/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:46:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:46:18] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:46:18] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 90639 at ([world]2485.1208, 108.21563755346642, 3008.535)
+[00:46:22] [Server thread/WARN]: .ThiagoPro2021 was kicked for floating too long!
+[00:46:22] [Server thread/INFO]: .ThiagoPro2021 lost connection: Flying is not enabled on this server
+[00:46:22] [localSession-7-1/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Flying is not enabled on this server
+[00:46:22] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[00:46:22] [Server thread/INFO]: .ThiagoPro2021 left the game
+[00:46:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
