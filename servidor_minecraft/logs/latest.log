@@ -181,3 +181,25 @@
 [01:25:03] [Server thread/INFO]: .ThiagoPro2021 left the game
 [01:25:52] [Server thread/INFO]: _TaeV_ has made the advancement [Hidden in the Depths]
 [01:26:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[01:31:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[01:36:10] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[01:36:10] [localSession-7-4/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[01:36:10] [User Authenticator #11/INFO]: UUID of player ThiagoPro2021 is 1118df96-873b-3164-bc7b-813f00523033
+[01:36:10] [Server thread/INFO]: ThiagoPro2021 joined the game
+[01:36:10] [Server thread/INFO]: ThiagoPro2021[/127.0.0.1:0] logged in with entity id 111819 at ([world]54.5, 64.0, -40.5)
+[01:36:22] [Async Chat Thread - #39/INFO]: [Not Secure] <ThiagoPro2021> XD, ie
+[01:36:29] [Async Chat Thread - #40/INFO]: [Not Secure] <ThiagoPro2021> volvi al spawnpoint
+[01:36:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[01:36:32] [Async Chat Thread - #40/INFO]: [Not Secure] <ThiagoPro2021> sin nada
+[01:37:05] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:37:05] [Server thread/INFO]: _TaeV_ left the game
+[01:37:10] [User Authenticator #11/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:37:11] [Server thread/INFO]: _TaeV_ joined the game
+[01:37:11] [Server thread/INFO]: _TaeV_[/127.15.88.22:43809] logged in with entity id 112573 at ([world]2500.8915108737865, 89.0, 3011.71204122408)
+[01:38:53] [Server thread/INFO]: ThiagoPro2021 has made the advancement [We Need to Go Deeper]
+[01:39:15] [Async Chat Thread - #41/INFO]: [Not Secure] <ThiagoPro2021> meh zzz, le baño e ire a pc
+[01:39:17] [localSession-7-4/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Bedrock client disconnected
+[01:39:17] [Server thread/INFO]: ThiagoPro2021 lost connection: Disconnected
+[01:39:17] [Server thread/INFO]: ThiagoPro2021 left the game
+[01:41:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[01:41:42] [Server thread/INFO]: mechajuan3 was doomed to fall by elguatavo7u7159
