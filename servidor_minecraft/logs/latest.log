@@ -156,3 +156,28 @@
 [01:10:34] [Server thread/INFO]: .ThiagoPro2021 left the game
 [01:11:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
 [01:16:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[01:21:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[01:22:02] [Server thread/INFO]: Villager Villager['Librarian'/70607, uuid='713d5028-de4b-4771-85f4-0329c4326a6b', l='ServerLevel[world]', x=2471.30, y=89.00, z=2990.70, cpos=[154, 186], tl=1541298, v=true] died, message: 'Librarian was slain by JHOSEP123'
+[01:22:59] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[01:22:59] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[01:22:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[01:22:59] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[01:22:59] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 104736 at ([world]2490.9436, 103.0, 2989.2905)
+[01:23:51] [Async Chat Thread - #37/INFO]: [Not Secure] <.ThiagoPro2021> jose, si quieres talar arboles tsmbien reemplanta las semillas en 2x2
+[01:24:21] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Monster Hunter]
+[01:24:22] [Async Chat Thread - #37/INFO]: [Not Secure] <JHOSEP123> si si
+[01:24:32] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Bedrock client timed out
+[01:24:32] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[01:24:32] [Server thread/INFO]: .ThiagoPro2021 lost connection: Disconnected
+[01:24:32] [Server thread/INFO]: .ThiagoPro2021 left the game
+[01:24:49] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[01:24:49] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[01:24:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[01:24:50] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[01:24:50] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 105665 at ([world]2482.653, 103.13286263108704, 3005.9915)
+[01:25:03] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Bedrock client timed out
+[01:25:03] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
+[01:25:03] [Server thread/INFO]: .ThiagoPro2021 lost connection: Disconnected
+[01:25:03] [Server thread/INFO]: .ThiagoPro2021 left the game
+[01:25:52] [Server thread/INFO]: _TaeV_ has made the advancement [Hidden in the Depths]
+[01:26:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
