@@ -304,3 +304,7 @@ java.lang.IllegalStateException: zip file closed
 [19:40:11] [Async Chat Thread - #20/INFO]: [Not Secure] <elguatavo7u7159> areglado pe
 [20:23:39] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
 [20:23:39] [Server thread/INFO]: elguatavo7u7159 left the game
+[20:40:45] [User Authenticator #2/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[20:40:46] [Server thread/INFO]: elguatavo7u7159 joined the game
+[20:40:46] [Server thread/INFO]: elguatavo7u7159[/127.168.128.94:43069] logged in with entity id 32047 at ([world]2641.300000011921, 90.0, 2909.699999988079)
+[20:43:40] [Async Chat Thread - #22/INFO]: [Not Secure] <elguatavo7u7159> 2500 3000
