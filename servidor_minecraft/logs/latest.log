@@ -309,3 +309,10 @@ java.lang.IllegalStateException: zip file closed
 [20:40:46] [Server thread/INFO]: elguatavo7u7159[/127.168.128.94:43069] logged in with entity id 32047 at ([world]2641.300000011921, 90.0, 2909.699999988079)
 [20:43:40] [Async Chat Thread - #22/INFO]: [Not Secure] <elguatavo7u7159> 2500 3000
 [20:54:01] [Server thread/INFO]: ThiaguitoOwO2021 has made the advancement [Hot Stuff]
+[21:12:39] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[21:12:39] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:13:36] [User Authenticator #3/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:13:37] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:13:37] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:34585] logged in with entity id 45451 at ([world_the_end]141.40635892573573, 57.0, 35.27785093865745)
+[21:13:59] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[21:13:59] [Server thread/INFO]: ThiaguitoOwO2021 left the game
