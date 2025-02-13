@@ -154,3 +154,5 @@
 [01:10:34] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
 [01:10:34] [Server thread/INFO]: .ThiagoPro2021 lost connection: Disconnected
 [01:10:34] [Server thread/INFO]: .ThiagoPro2021 left the game
+[01:11:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
+[01:16:32] [Server thread/WARN]: Trying to save removed ender pearl, skipping
