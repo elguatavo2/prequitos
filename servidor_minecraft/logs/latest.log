@@ -780,3 +780,23 @@ java.lang.IllegalStateException: zip file closed
 [01:25:46] [Server thread/INFO]: kanekasotaku joined the game
 [01:25:46] [Server thread/INFO]: kanekasotaku[/127.153.53.237:51357] logged in with entity id 16958 at ([world]2496.3892927479296, 89.0, 2993.368660907835)
 [01:28:13] [Server thread/INFO]: kanekasotaku has reached the goal [Postmortal]
+[01:42:15] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:42:15] [Server thread/INFO]: _TaeV_ left the game
+[01:42:20] [User Authenticator #5/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:42:21] [Server thread/INFO]: _TaeV_ joined the game
+[01:42:21] [Server thread/INFO]: _TaeV_[/127.15.88.22:47347] logged in with entity id 24301 at ([world]1614.0683561545877, 63.0, 1595.1865013572904)
+[01:43:23] [Async Chat Thread - #10/INFO]: [Not Secure] <_TaeV_> 1612 63 1598
+[01:43:29] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> 2083 1914
+[01:43:32] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> 2083 1914
+[01:43:34] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> 2083 1914
+[01:43:35] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> 2083 1914
+[01:45:44] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> 260 240
+[01:49:07] [Server thread/INFO]: elguatavo7u7159 issued server command: /deop elguatavo7u7159
+[01:49:07] [Server thread/INFO]: [elguatavo7u7159: Made elguatavo7u7159 no longer a server operator]
+[01:49:10] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:49:10] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:50:30] [Server thread/INFO]: _TaeV_ lost connection: Timed out
+[01:50:30] [Server thread/INFO]: _TaeV_ left the game
+[01:50:42] [User Authenticator #6/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:50:43] [Server thread/INFO]: _TaeV_ joined the game
+[01:50:43] [Server thread/INFO]: _TaeV_[/127.15.88.22:52093] logged in with entity id 30683 at ([world_nether]303.36654007346624, 115.0, 335.66182780400703)
