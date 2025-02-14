@@ -257,3 +257,20 @@ java.lang.IllegalStateException: zip file closed
 [00:44:02] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
 [00:44:02] [Server thread/INFO]: .ThiagoPro2021 lost connection: Disconnected
 [00:44:02] [Server thread/INFO]: .ThiagoPro2021 left the game
+[00:55:20] [Server thread/INFO]: kanekasotaku has made the advancement [Cover Me with Diamonds]
+[00:58:32] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
+[00:58:32] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
+[00:58:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
+[00:58:33] [Server thread/INFO]: .ThiagoPro2021 joined the game
+[00:58:33] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 9115 at ([world]2491.219, 91.0, 3008.6448)
+[00:58:44] [Async Chat Thread - #4/INFO]: [Not Secure] <.ThiagoPro2021> krajo
+[00:58:52] [Async Chat Thread - #5/INFO]: [Not Secure] <.ThiagoPro2021> no puedo ir a la ksa
+[00:58:58] [User Authenticator #1/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[00:59:00] [Server thread/INFO]: _TaeV_ joined the game
+[00:59:00] [Server thread/INFO]: _TaeV_[/127.15.88.22:40253] logged in with entity id 9204 at ([world_nether]56.60859753563867, 115.0, 330.3589924818579)
+[00:59:01] [Async Chat Thread - #5/INFO]: [Not Secure] <.ThiagoPro2021> (de la vida real)
+[00:59:07] [Server thread/WARN]: .ThiagoPro2021 moved wrongly!
+[00:59:08] [Server thread/WARN]: .ThiagoPro2021 moved wrongly!
+[00:59:28] [Async Chat Thread - #5/INFO]: [Not Secure] <.ThiagoPro2021> tendre q sufrir bugando bugdrock
+[00:59:38] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> nimodo
+[00:59:41] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> por pobre
