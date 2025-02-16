@@ -1,33 +1,33 @@
-[00:30:05] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[00:30:05] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[00:30:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:30:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[00:30:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+[22:51:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[22:51:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[22:51:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:51:40] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[22:51:40] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
  - AntiXRay (1.9.0), Essentials (2.21.0-dev+160-e2295c1), Geyser-Spigot (2.6.0-SNAPSHOT), LuckPerms (5.4.131), SkinsRestorer (15.5.2), StaffPlus (3.3.14.2), ViaBackwards (5.2.2-SNAPSHOT), ViaRewind (4.0.4), ViaVersion (5.2.1), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[00:30:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:30:23] [ServerMain/INFO]: Loaded 1337 recipes
-[00:30:23] [ServerMain/INFO]: Loaded 1448 advancements
-[00:30:24] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:30:24] [Server thread/INFO]: Loading properties
-[00:30:24] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[00:30:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:30:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:30:25] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:30:27] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:30:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:30:27] [Server thread/INFO]: Default game type: SURVIVAL
-[00:30:27] [Server thread/INFO]: Generating keypair
-[00:30:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:30:28] [Server thread/INFO]: Using epoll channel type
-[00:30:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:30:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:30:30] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[00:30:30] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[00:30:31] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[00:30:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[00:30:32] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[00:30:32] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[00:30:33] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.2.1.jar' in folder 'plugins' (Is it up to date?)
+[22:51:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:51:48] [ServerMain/INFO]: Loaded 1337 recipes
+[22:51:49] [ServerMain/INFO]: Loaded 1448 advancements
+[22:51:49] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:51:49] [Server thread/INFO]: Loading properties
+[22:51:49] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[22:51:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:51:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:51:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:51:51] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:51:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:51:51] [Server thread/INFO]: Default game type: SURVIVAL
+[22:51:51] [Server thread/INFO]: Generating keypair
+[22:51:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:51:52] [Server thread/INFO]: Using epoll channel type
+[22:51:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:51:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:51:53] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[22:51:53] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[22:51:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:51:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:51:55] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:51:55] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:51:55] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.2.1.jar' in folder 'plugins' (Is it up to date?)
 java.lang.NoClassDefFoundError: com/viaversion/viaversion/rewriter/text/JsonNBTComponentRewriter
 	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
 	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?]
@@ -59,117 +59,112 @@ Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.rewriter.
 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
 	... 25 more
-[00:30:33] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[00:30:34] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[00:30:35] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[00:30:35] [Server thread/INFO]: [floodgate] Took 1,566ms to boot Floodgate
-[00:30:35] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.2-SNAPSHOT
-[00:30:35] [Server thread/INFO]: [AntiXRay] Loading server plugin AntiXRay v1.9.0
-[00:30:35] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
-[00:30:35] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[00:30:37] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[00:30:37] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[00:30:37] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
-[00:30:37] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[00:30:37] [Server thread/INFO]: [StaffPlus] Loading server plugin StaffPlus v3.3.14.2
-[00:30:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:30:37] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[00:30:37] [Server thread/INFO]:         __    
-[00:30:37] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[00:30:37] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[00:30:37] [Server thread/INFO]: 
-[00:30:37] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[00:30:38] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[00:30:39] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[00:30:40] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[00:30:40] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3463ms)
-[00:30:40] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
-[00:30:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[00:30:41] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[00:30:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[00:30:42] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[00:30:43] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:30:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:30:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:30:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:30:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:30:43] [Server thread/INFO]: Preparing level "world"
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:30:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:30:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:30:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:30:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:30:46] [Server thread/INFO]: Preparing spawn area: 2%
-[00:30:46] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[00:30:46] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 839.7ms
-[00:30:46] [Server thread/INFO]: Preparing spawn area: 2%
-[00:30:47] [Server thread/INFO]: Preparing spawn area: 2%
-[00:30:48] [Server thread/INFO]: Preparing spawn area: 24%
-[00:30:48] [Server thread/INFO]: Preparing spawn area: 24%
-[00:30:48] [Server thread/INFO]: Time elapsed: 3369 ms
-[00:30:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:30:48] [Server thread/INFO]: Preparing spawn area: 0%
-[00:30:48] [Server thread/INFO]: Preparing spawn area: 2%
-[00:30:49] [Server thread/INFO]: Preparing spawn area: 12%
-[00:30:49] [Server thread/INFO]: Preparing spawn area: 87%
-[00:30:49] [Server thread/INFO]: Time elapsed: 1543 ms
-[00:30:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:30:50] [Server thread/INFO]: Preparing spawn area: 0%
-[00:30:50] [Server thread/INFO]: Time elapsed: 450 ms
-[00:30:50] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[00:30:50] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
-[00:30:50] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[00:30:51] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.2-SNAPSHOT
-[00:30:51] [Server thread/INFO]: [AntiXRay] Enabling AntiXRay v1.9.0
-[00:30:51] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
-[00:30:52] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[00:30:53] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[00:30:53] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[00:30:53] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[00:30:53] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[00:30:54] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[00:30:54] [Server thread/INFO]: [Essentials] Using locale en
-[00:30:54] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[00:30:55] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[00:30:55] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[00:30:55] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[00:30:55] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[00:30:55] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[00:30:56] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.14.2
-[00:30:56] [Server thread/INFO]: [Staff+] This version of Minecraft is not supported! If you have just updated to a brand new server version, check the Spigot plugin page.
-[00:30:56] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.3.14.2
-[00:30:56] [Server thread/INFO]: [Staff+] Staff+ is now disabling!
-[00:30:56] [Server thread/ERROR]: Error occurred while disabling StaffPlus v3.3.14.2
+[22:51:55] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[22:51:55] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[22:51:56] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[22:51:56] [Server thread/INFO]: [floodgate] Took 1,033ms to boot Floodgate
+[22:51:56] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.2-SNAPSHOT
+[22:51:56] [Server thread/INFO]: [AntiXRay] Loading server plugin AntiXRay v1.9.0
+[22:51:56] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+160-e2295c1
+[22:51:56] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[22:51:57] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[22:51:57] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[22:51:57] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
+[22:51:57] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[22:51:57] [Server thread/INFO]: [StaffPlus] Loading server plugin StaffPlus v3.3.14.2
+[22:51:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:51:57] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[22:51:58] [Server thread/INFO]:         __    
+[22:51:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[22:51:58] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:51:58] [Server thread/INFO]: 
+[22:51:58] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:51:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:51:59] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:51:59] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:51:59] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2099ms)
+[22:51:59] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
+[22:51:59] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[22:52:00] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:52:01] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[22:52:01] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[22:52:02] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:52:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:52:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:52:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:52:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:52:02] [Server thread/INFO]: Preparing level "world"
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:52:02] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:52:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:52:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:52:03] [Server thread/INFO]: Preparing spawn area: 2%
+[22:52:04] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[22:52:04] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 629.7ms
+[22:52:04] [Server thread/INFO]: Preparing spawn area: 4%
+[22:52:04] [Server thread/INFO]: Preparing spawn area: 4%
+[22:52:05] [Server thread/INFO]: Preparing spawn area: 24%
+[22:52:05] [Server thread/INFO]: Time elapsed: 2414 ms
+[22:52:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:52:05] [Server thread/INFO]: Preparing spawn area: 0%
+[22:52:06] [Server thread/INFO]: Time elapsed: 434 ms
+[22:52:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:52:06] [Server thread/INFO]: Preparing spawn area: 0%
+[22:52:06] [Server thread/INFO]: Time elapsed: 208 ms
+[22:52:06] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[22:52:06] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[22:52:06] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[22:52:07] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.2-SNAPSHOT
+[22:52:07] [Server thread/INFO]: [AntiXRay] Enabling AntiXRay v1.9.0
+[22:52:07] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+160-e2295c1
+[22:52:07] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[22:52:08] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:52:08] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:52:08] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[22:52:08] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[22:52:08] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[22:52:08] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[22:52:08] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[22:52:08] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[22:52:09] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[22:52:09] [Server thread/INFO]: [Essentials] Using locale en
+[22:52:09] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:52:09] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:52:09] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[22:52:09] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[22:52:09] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:52:09] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[22:52:10] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.14.2
+[22:52:10] [Server thread/INFO]: [Staff+] This version of Minecraft is not supported! If you have just updated to a brand new server version, check the Spigot plugin page.
+[22:52:10] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.3.14.2
+[22:52:10] [Server thread/INFO]: [Staff+] Staff+ is now disabling!
+[22:52:10] [Server thread/ERROR]: Error occurred while disabling StaffPlus v3.3.14.2
 java.lang.NullPointerException: Cannot invoke "net.shortninja.staffplus.server.hook.HookHandler.disableAll()" because "this.hookHandler" is null
 	at Staff+.jar/net.shortninja.staffplus.StaffPlus.stop(StaffPlus.java:410) ~[Staff+.jar:?]
 	at Staff+.jar/net.shortninja.staffplus.StaffPlus.onDisable(StaffPlus.java:171) ~[Staff+.jar:?]
@@ -191,7 +186,7 @@ java.lang.NullPointerException: Cannot invoke "net.shortninja.staffplus.server.h
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:30:56] [Server thread/ERROR]: Error occurred while enabling StaffPlus v3.3.14.2 (Is it up to date?)
+[22:52:10] [Server thread/ERROR]: Error occurred while enabling StaffPlus v3.3.14.2 (Is it up to date?)
 java.lang.IllegalStateException: zip file closed
 	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:846) ~[?:?]
 	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:338) ~[?:?]
@@ -215,599 +210,31 @@ java.lang.IllegalStateException: zip file closed
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:30:57] [Server thread/INFO]: [spark] Starting background profiler...
-[00:30:58] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:30:58] [Server thread/INFO]: [Geyser-Spigot] 
-[00:30:58] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
-[00:30:58] [Server thread/INFO]: [Geyser-Spigot] 
-[00:30:58] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:31:06] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2337
-[00:31:06] [Server thread/INFO]: [Geyser-Spigot] Done (7.589s)! Run /geyser help for help!
-[00:31:06] [Thread-16/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.60. Download it here: https://geysermc.org/download
-[00:31:06] [Server thread/INFO]: Done preparing level "world" (22.860s)
-[00:31:06] [Server thread/INFO]: Running delayed init tasks
-[00:31:06] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[00:31:06] [Craft Scheduler Thread - 7 - Essentials/INFO]: [Essentials] Fetching version information...
-[00:31:06] [Server thread/INFO]: Done (65.204s)! For help, type "help"
-[00:31:07] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] You're 7 EssentialsX dev build(s) out of date!
-[00:31:07] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[00:31:23] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
-[00:31:25] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
-[00:31:25] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
-[00:31:26] [Server thread/INFO]: elguatavo7u7159 joined the game
-[00:31:27] [Server thread/INFO]: elguatavo7u7159[/127.168.128.94:45183] logged in with entity id 16 at ([world]2497.9932284198007, 89.0, 3012.699999988079)
-[00:31:28] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
-[00:31:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
-[00:31:29] [Server thread/INFO]: .ThiagoPro2021 joined the game
-[00:31:29] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 35 at ([world]2482.653, 103.05446262956116, 3005.9915)
-[00:31:40] [Async Chat Thread - #0/INFO]: [Not Secure] <.ThiagoPro2021> s3 xo
-[00:31:44] [User Authenticator #0/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
-[00:31:45] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> paja
-[00:31:47] [Server thread/INFO]: kanekasotaku joined the game
-[00:31:47] [Server thread/INFO]: kanekasotaku[/127.153.53.237:51787] logged in with entity id 358 at ([world]2476.7083868060718, 89.275125, 2984.5153377890515)
-[00:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18291ms or 365 ticks behind
-[00:32:53] [Server thread/INFO]: kanekasotaku has made the advancement [Acquire Hardware]
-[00:32:58] [Server thread/INFO]: kanekasotaku has made the advancement [Suit Up]
-[00:35:23] [Server thread/INFO]: kanekasotaku has made the advancement [Not Today, Thank You]
-[00:40:35] [Server thread/INFO]: kanekasotaku has made the advancement [Voluntary Exile]
-[00:42:20] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Ol' Betsy]
-[00:43:34] [Server thread/INFO]: kanekasotaku has completed the challenge [Hero of the Village]
-[00:44:00] [Async Chat Thread - #2/INFO]: [Not Secure] <.ThiagoPro2021> volvere, pa hacer la granja
-[00:44:02] [localSession-7-2/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Bedrock client disconnected
-[00:44:02] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
-[00:44:02] [Server thread/INFO]: .ThiagoPro2021 lost connection: Disconnected
-[00:44:02] [Server thread/INFO]: .ThiagoPro2021 left the game
-[00:55:20] [Server thread/INFO]: kanekasotaku has made the advancement [Cover Me with Diamonds]
-[00:58:32] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ThiagoPro2021
-[00:58:32] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 (logged in as: ThiagoPro2021) has connected to the Java server
-[00:58:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 joined (UUID: 00000000-0000-0000-0009-01f9748221b7)
-[00:58:33] [Server thread/INFO]: .ThiagoPro2021 joined the game
-[00:58:33] [Server thread/INFO]: .ThiagoPro2021[/127.0.0.1:0] logged in with entity id 9115 at ([world]2491.219, 91.0, 3008.6448)
-[00:58:44] [Async Chat Thread - #4/INFO]: [Not Secure] <.ThiagoPro2021> krajo
-[00:58:52] [Async Chat Thread - #5/INFO]: [Not Secure] <.ThiagoPro2021> no puedo ir a la ksa
-[00:58:58] [User Authenticator #1/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[00:59:00] [Server thread/INFO]: _TaeV_ joined the game
-[00:59:00] [Server thread/INFO]: _TaeV_[/127.15.88.22:40253] logged in with entity id 9204 at ([world_nether]56.60859753563867, 115.0, 330.3589924818579)
-[00:59:01] [Async Chat Thread - #5/INFO]: [Not Secure] <.ThiagoPro2021> (de la vida real)
-[00:59:07] [Server thread/WARN]: .ThiagoPro2021 moved wrongly!
-[00:59:08] [Server thread/WARN]: .ThiagoPro2021 moved wrongly!
-[00:59:28] [Async Chat Thread - #5/INFO]: [Not Secure] <.ThiagoPro2021> tendre q sufrir bugando bugdrock
-[00:59:38] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> nimodo
-[00:59:41] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> por pobre
-[01:01:27] [Server thread/WARN]: .ThiagoPro2021 moved wrongly!
-[01:03:55] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 3.49980000000005,1.1767499999999984,9.529799999999796
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.281000000000404,0.0,5.264099999999871
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:01] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:02] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 10.00480000000016,0.0,5.251099999999951
-[01:04:19] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Cover Me with Diamonds]
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.622100000000046,-0.7539900000000017,-0.8072999999999411
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:32] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -11.60629999999992,-0.4524600000000021,-1.0626999999999498
-[01:04:35] [Server thread/WARN]: .ThiagoPro2021 moved wrongly!
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.14240000000000919,-0.1999969482421875,-33.57918999999998
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:57] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.15276999999997543,-0.07839694824218668,-33.26259999999996
-[01:04:58] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1665800000000104,-0.12160000000000082,-10.170830000000024
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.31616000000002487,0.12160000000000082,-11.521979999999985
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:04] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.29651000000001204,0.1999969482421875,-11.18774000000002
-[01:05:12] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -0.41550000000000864,0.1999969482421875,-10.255809999999997
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11412999999998874,0.12160000000000082,-10.53501
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:17] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.11930000000000973,0.1999969482421875,-10.247209999999995
-[01:05:18] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -0.212600000000009,-0.1999969482421875,-11.93389000000002
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.16602000000000317,-0.12160000000000082,-13.091610000000003
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:22] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! 0.1741999999999848,-0.12160000000000082,-12.616510000000005
-[01:05:25] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -0.18448000000000775,0.07839694824218668,-10.31993
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.82883000000004,0.0,-0.6730000000000018
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:36] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -17.471310000000017,0.12160000000000082,-0.6755300000000091
-[01:05:37] [Server thread/WARN]: .ThiagoPro2021 moved too quickly! -10.67043000000001,0.0,0.7252700000000232
-[01:06:04] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [Eye Spy]
-[01:06:14] [Server thread/INFO]: .ThiagoPro2021 has made the advancement [The End?]
-[01:06:24] [localSession-7-3/INFO]: [Geyser-Spigot] ThiagoPro2021 has disconnected from the Java server because of Bedrock client disconnected
-[01:06:24] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ThiagoPro2021 disconnected
-[01:06:24] [Server thread/INFO]: .ThiagoPro2021 lost connection: Disconnected
-[01:06:25] [Server thread/INFO]: .ThiagoPro2021 left the game
-[01:13:55] [User Authenticator #2/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
-[01:13:56] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
-[01:13:56] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:45501] logged in with entity id 13560 at ([world_the_end]339.280975742893, 1.0, 31.475225623915012)
-[01:16:25] [Async Chat Thread - #6/INFO]: [Not Secure] <ThiaguitoOwO2021> gustavo
-[01:16:28] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> q
-[01:16:33] [Async Chat Thread - #6/INFO]: [Not Secure] <ThiaguitoOwO2021> dime en q granja me quedo afk
-[01:16:39] [Async Chat Thread - #6/INFO]: [Not Secure] <ThiaguitoOwO2021> mientras me hago la paja
-[01:17:06] [Async Chat Thread - #6/INFO]: [Not Secure] <ThiaguitoOwO2021> nah, quiero irme a baniarme pero en q granja voy pe
-[01:17:30] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
-[01:17:30] [Server thread/INFO]: _TaeV_ left the game
-[01:17:35] [User Authenticator #3/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[01:17:36] [Server thread/INFO]: _TaeV_ joined the game
-[01:17:36] [Server thread/INFO]: _TaeV_[/127.15.88.22:50585] logged in with entity id 15073 at ([world]2484.4570210615075, 89.0, 2980.9294171717506)
-[01:17:45] [Async Chat Thread - #6/INFO]: [Not Secure] <ThiaguitoOwO2021> :v
-[01:18:54] [Server thread/INFO]: kanekasotaku has made the advancement [Take Aim]
-[01:20:57] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> no flechas
-[01:21:43] [Async Chat Thread - #9/INFO]: [Not Secure] <ThiaguitoOwO2021> alv
-[01:21:47] [Async Chat Thread - #9/INFO]: [Not Secure] <elguatavo7u7159> lla lla
-[01:21:52] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> ALTOOOOOOOOOOOOOOOOOOOOOOOOOO
-[01:21:53] [Async Chat Thread - #8/INFO]: [Not Secure] <ThiaguitoOwO2021> tu ganas
-[01:21:54] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> YO
-[01:25:43] [Server thread/INFO]: kanekasotaku lost connection: Timed out
-[01:25:44] [Server thread/INFO]: kanekasotaku left the game
-[01:25:45] [User Authenticator #4/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
-[01:25:46] [Server thread/INFO]: kanekasotaku joined the game
-[01:25:46] [Server thread/INFO]: kanekasotaku[/127.153.53.237:51357] logged in with entity id 16958 at ([world]2496.3892927479296, 89.0, 2993.368660907835)
-[01:28:13] [Server thread/INFO]: kanekasotaku has reached the goal [Postmortal]
-[01:42:15] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
-[01:42:15] [Server thread/INFO]: _TaeV_ left the game
-[01:42:20] [User Authenticator #5/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[01:42:21] [Server thread/INFO]: _TaeV_ joined the game
-[01:42:21] [Server thread/INFO]: _TaeV_[/127.15.88.22:47347] logged in with entity id 24301 at ([world]1614.0683561545877, 63.0, 1595.1865013572904)
-[01:43:23] [Async Chat Thread - #10/INFO]: [Not Secure] <_TaeV_> 1612 63 1598
-[01:43:29] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> 2083 1914
-[01:43:32] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> 2083 1914
-[01:43:34] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> 2083 1914
-[01:43:35] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> 2083 1914
-[01:45:44] [Async Chat Thread - #12/INFO]: [Not Secure] <elguatavo7u7159> 260 240
-[01:49:07] [Server thread/INFO]: elguatavo7u7159 issued server command: /deop elguatavo7u7159
-[01:49:07] [Server thread/INFO]: [elguatavo7u7159: Made elguatavo7u7159 no longer a server operator]
-[01:49:10] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[01:49:10] [Server thread/INFO]: elguatavo7u7159 left the game
-[01:50:30] [Server thread/INFO]: _TaeV_ lost connection: Timed out
-[01:50:30] [Server thread/INFO]: _TaeV_ left the game
-[01:50:42] [User Authenticator #6/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
-[01:50:43] [Server thread/INFO]: _TaeV_ joined the game
-[01:50:43] [Server thread/INFO]: _TaeV_[/127.15.88.22:52093] logged in with entity id 30683 at ([world_nether]303.36654007346624, 115.0, 335.66182780400703)
-[01:57:21] [Server thread/INFO]: kanekasotaku has made the advancement [Eye Spy]
-[02:02:07] [Async Chat Thread - #14/INFO]: [Not Secure] <ThiaguitoOwO2021> quien tiene lana?
-[02:02:44] [Async Chat Thread - #14/INFO]: [Not Secure] <ThiaguitoOwO2021> grax
-[02:02:46] [Async Chat Thread - #15/INFO]: [Not Secure] <_TaeV_> solo hay eso
-[02:09:14] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
-[02:09:14] [Server thread/INFO]: _TaeV_ left the game
-[02:13:56] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
-[02:13:56] [Server thread/INFO]: ThiaguitoOwO2021 left the game
-[02:16:31] [User Authenticator #7/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
-[02:16:33] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
-[02:16:33] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:42673] logged in with entity id 40882 at ([world_the_end]340.02884050777664, 22.0, 31.528829668582304)
+[22:52:11] [Server thread/INFO]: [spark] Starting background profiler...
+[22:52:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:52:11] [Server thread/INFO]: [Geyser-Spigot] 
+[22:52:11] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b751 (git-master-5836dab)
+[22:52:11] [Server thread/INFO]: [Geyser-Spigot] 
+[22:52:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:52:18] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2337
+[22:52:18] [Server thread/INFO]: [Geyser-Spigot] Done (6.834s)! Run /geyser help for help!
+[22:52:18] [Thread-16/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.60. Download it here: https://geysermc.org/download
+[22:52:18] [Server thread/INFO]: Done preparing level "world" (16.712s)
+[22:52:18] [Server thread/INFO]: Running delayed init tasks
+[22:52:18] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[22:52:19] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:52:19] [Server thread/INFO]: Done (42.668s)! For help, type "help"
+[22:52:19] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] You're 9 EssentialsX dev build(s) out of date!
+[22:52:19] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[22:56:20] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[22:56:22] [Server thread/INFO]: elguatavo7u7159 joined the game
+[22:56:22] [Server thread/INFO]: elguatavo7u7159[/127.210.210.199:34993] logged in with entity id 16 at ([world]2080.65125987791, 63.0, 1913.5073945082281)
+[22:56:49] [User Authenticator #0/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[22:57:00] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[22:57:00] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:46985] logged in with entity id 201 at ([world_the_end]333.34000918353496, 1.0, 31.49153699448814)
+[22:57:04] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> hola
+[22:57:17] [Async Chat Thread - #1/INFO]: [Not Secure] <ThiaguitoOwO2021> hola pe
+[22:59:14] [User Authenticator #1/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[22:59:17] [Server thread/INFO]: kanekasotaku joined the game
+[22:59:17] [Server thread/INFO]: kanekasotaku[/127.226.126.10:40627] logged in with entity id 643 at ([world]2462.7927462349226, 89.0, 2977.7008380551506)
+[22:59:18] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e0318db0-785f-41e1-b855-4fb98d8eeec2, mapped to Bat['Bat'/767, uuid='e0318db0-785f-41e1-b855-4fb98d8eeec2', l='ServerLevel[world]', x=2432.53, y=67.40, z=2922.43, cpos=[152, 182], tl=689, v=true], can't add Bat['Bat'/783, uuid='e0318db0-785f-41e1-b855-4fb98d8eeec2', l='ServerLevel[world]', x=2431.25, y=67.99, z=2921.57, cpos=[151, 182], tl=699, v=false]
