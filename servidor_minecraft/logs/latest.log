@@ -240,3 +240,7 @@ java.lang.IllegalStateException: zip file closed
 [22:59:18] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e0318db0-785f-41e1-b855-4fb98d8eeec2, mapped to Bat['Bat'/767, uuid='e0318db0-785f-41e1-b855-4fb98d8eeec2', l='ServerLevel[world]', x=2432.53, y=67.40, z=2922.43, cpos=[152, 182], tl=689, v=true], can't add Bat['Bat'/783, uuid='e0318db0-785f-41e1-b855-4fb98d8eeec2', l='ServerLevel[world]', x=2431.25, y=67.99, z=2921.57, cpos=[151, 182], tl=699, v=false]
 [23:05:28] [Server thread/WARN]: ThiaguitoOwO2021 moved too quickly! -11.055086320637315,24.809050537822532,-9.605254821803577
 [23:07:50] [Async Chat Thread - #2/INFO]: [Not Secure] <ThiaguitoOwO2021> toy en el end
+[23:14:38] [Async Chat Thread - #5/INFO]: [Not Secure] <elguatavo7u7159> 2
+[23:16:23] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> 3
+[23:19:13] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> 2
+[23:19:32] [Async Chat Thread - #8/INFO]: [Not Secure] <ThiaguitoOwO2021> tendre q volver al overworld solo por tierra XD
