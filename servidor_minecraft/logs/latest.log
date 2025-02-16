@@ -806,3 +806,8 @@ java.lang.IllegalStateException: zip file closed
 [02:02:46] [Async Chat Thread - #15/INFO]: [Not Secure] <_TaeV_> solo hay eso
 [02:09:14] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
 [02:09:14] [Server thread/INFO]: _TaeV_ left the game
+[02:13:56] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[02:13:56] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[02:16:31] [User Authenticator #7/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[02:16:33] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[02:16:33] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:42673] logged in with entity id 40882 at ([world_the_end]340.02884050777664, 22.0, 31.528829668582304)
