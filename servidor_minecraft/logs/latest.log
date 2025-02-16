@@ -244,3 +244,19 @@ java.lang.IllegalStateException: zip file closed
 [23:16:23] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> 3
 [23:19:13] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> 2
 [23:19:32] [Async Chat Thread - #8/INFO]: [Not Secure] <ThiaguitoOwO2021> tendre q volver al overworld solo por tierra XD
+[23:25:30] [User Authenticator #2/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[23:25:30] [Server thread/INFO]: kanekasotaku lost connection: You logged in from another location
+[23:25:30] [Server thread/INFO]: kanekasotaku left the game
+[23:25:32] [Server thread/INFO]: kanekasotaku joined the game
+[23:25:32] [Server thread/INFO]: kanekasotaku[/127.226.126.10:37501] logged in with entity id 10883 at ([world]2873.3476345464737, 104.0, 3205.300000011921)
+[23:26:36] [Server thread/INFO]: ThiaguitoOwO2021 fell out of the world
+[23:26:41] [Async Chat Thread - #10/INFO]: [Not Secure] <ThiaguitoOwO2021> pta
+[23:26:43] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:26:43] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:31:12] [User Authenticator #3/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:31:15] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:31:15] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:59483] logged in with entity id 12889 at ([world]1031.5, -57.0, 1367.5)
+[23:32:14] [User Authenticator #4/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[23:32:15] [Server thread/INFO]: _TaeV_ joined the game
+[23:32:15] [Server thread/INFO]: _TaeV_[/127.151.148.217:54305] logged in with entity id 13706 at ([world]2500.1565379034555, 89.0, 3009.9556342949077)
+[23:32:25] [Server thread/INFO]: kanekasotaku has made the advancement [Diamonds!]
