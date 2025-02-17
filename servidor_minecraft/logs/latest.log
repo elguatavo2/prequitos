@@ -242,3 +242,9 @@ java.lang.IllegalStateException: zip file closed
 [20:38:06] [User Authenticator #2/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
 [20:38:07] [Server thread/INFO]: elguatavo7u7159 joined the game
 [20:38:07] [Server thread/INFO]: elguatavo7u7159[/127.106.62.204:52333] logged in with entity id 14621 at ([world]2082.115942423422, 121.0, 1889.144293194292)
+[20:42:00] [User Authenticator #3/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[20:42:01] [Server thread/INFO]: elpanajose joined the game
+[20:42:01] [Server thread/INFO]: elpanajose[/127.59.188.251:41563] logged in with entity id 16208 at ([world]65.5, 66.0, -48.5)
+[20:43:32] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> 455 66 -193
+[20:47:53] [Server thread/INFO]: elpanajose has made the advancement [We Need to Go Deeper]
+[20:48:06] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
