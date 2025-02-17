@@ -267,3 +267,21 @@ java.lang.IllegalStateException: zip file closed
 [21:08:16] [Server thread/INFO]: elpanajose drowned
 [21:11:57] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
 [21:11:57] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:12:15] [User Authenticator #6/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:12:19] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:12:19] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:44615] logged in with entity id 34951 at ([world]2493.7666918737154, 103.0, 2998.6561105873684)
+[21:12:20] [Server thread/INFO]: elpanajose fell from a high place
+[21:12:57] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[21:12:57] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:13:30] [User Authenticator #7/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:13:32] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:13:32] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:38821] logged in with entity id 35727 at ([world]2501.7994728320364, 89.0, 3012.4108155790004)
+[21:15:02] [Server thread/INFO]: elpanajose has made the advancement [Sweet Dreams]
+[21:15:03] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[21:15:03] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:16:24] [User Authenticator #8/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:16:25] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:16:25] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:42231] logged in with entity id 36603 at ([world]2502.762499988079, 89.0, 3011.909940092017)
+[21:16:59] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[21:16:59] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:19:54] [Server thread/INFO]: elpanajose has made the advancement [What a Deal!]
