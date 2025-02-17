@@ -248,3 +248,10 @@ java.lang.IllegalStateException: zip file closed
 [20:43:32] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> 455 66 -193
 [20:47:53] [Server thread/INFO]: elpanajose has made the advancement [We Need to Go Deeper]
 [20:48:06] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
+[20:51:33] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[20:51:34] [Server thread/INFO]: elguatavo7u7159 left the game
+[20:51:38] [User Authenticator #4/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[20:51:39] [Server thread/INFO]: elguatavo7u7159 joined the game
+[20:51:39] [Server thread/INFO]: elguatavo7u7159[/127.106.62.204:46119] logged in with entity id 22714 at ([world]2087.8468262325628, 121.0, 1902.577568751497)
+[20:53:28] [Server thread/INFO]: elpanajose has made the advancement [Stone Age]
+[20:54:20] [Server thread/INFO]: elpanajose has made the advancement [Getting an Upgrade]
