@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.226.126.10
+ip-address: 127.243.135.75
 afk: false
 socialspy: false
 npc: false
@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739757389815
-  login: 1739755539766
+  logout: 1739834729278
+  login: 1739834730720
 money: '0'
 last-account-name: kanekasotaku
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 2510.4502324604723
-  y: 89.0
-  z: 3004.477455603889
-  yaw: 109.01460266113281
-  pitch: 17.747756958007812
+  x: 2478.8124324858836
+  y: 89.1212968405392
+  z: 2979.69727183469
+  yaw: -28.4189453125
+  pitch: 22.329864501953125
