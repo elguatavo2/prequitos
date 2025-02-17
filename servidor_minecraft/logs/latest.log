@@ -99,3 +99,31 @@
 [00:23:23] [User Authenticator #11/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
 [00:23:24] [Server thread/INFO]: kanekasotaku joined the game
 [00:23:24] [Server thread/INFO]: kanekasotaku[/127.226.126.10:51061] logged in with entity id 49322 at ([world]2796.2144837280684, 62.0, 3481.870561978934)
+[00:25:34] [User Authenticator #12/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[00:25:34] [Server thread/INFO]: kanekasotaku lost connection: You logged in from another location
+[00:25:34] [Server thread/INFO]: kanekasotaku left the game
+[00:25:36] [Server thread/INFO]: kanekasotaku joined the game
+[00:25:36] [Server thread/INFO]: kanekasotaku[/127.226.126.10:46153] logged in with entity id 50976 at ([world]2565.113536351764, 115.0, 3272.3114168698476)
+[00:26:50] [User Authenticator #13/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[00:26:51] [Server thread/INFO]: _TaeV_ joined the game
+[00:26:51] [Server thread/INFO]: _TaeV_[/127.151.148.217:60857] logged in with entity id 51740 at ([world]2491.2190126569835, 103.0, 2973.1294187403846)
+[00:27:47] [Async Chat Thread - #43/INFO]: [Not Secure] <elguatavo7u7159> 2500 3000
+[00:28:10] [Server thread/INFO]: mechajuan3 lost connection: Timed out
+[00:28:10] [Server thread/INFO]: mechajuan3 left the game
+[00:33:48] [User Authenticator #14/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[00:33:56] [Server thread/INFO]: mechajuan3 joined the game
+[00:33:56] [Server thread/INFO]: mechajuan3[/127.241.198.181:45759] logged in with entity id 55510 at ([world_nether]302.98242295471346, 115.0, 367.5)
+[00:34:45] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:34:45] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:35:06] [User Authenticator #15/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:35:07] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:35:07] [Server thread/INFO]: elguatavo7u7159[/127.210.210.199:54281] logged in with entity id 56163 at ([world]2083.300000011921, 109.0, 1908.5745137530726)
+[00:35:10] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:35:10] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:35:35] [User Authenticator #15/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:35:36] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:35:36] [Server thread/INFO]: elguatavo7u7159[/127.210.210.199:49677] logged in with entity id 56440 at ([world]2083.300000011921, 109.0, 1908.5745137530726)
+[00:36:09] [Async Chat Thread - #45/INFO]: [Not Secure] <mechajuan3> gustavo aca abajo
+[00:38:53] [Server thread/INFO]: mechajuan3 has reached the goal [Sky's the Limit]
+[00:40:23] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[00:40:24] [Server thread/INFO]: mechajuan3 left the game
