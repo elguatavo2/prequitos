@@ -143,3 +143,35 @@
 [01:03:20] [User Authenticator #17/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
 [01:03:21] [Server thread/INFO]: _TaeV_ joined the game
 [01:03:21] [Server thread/INFO]: _TaeV_[/127.151.148.217:35221] logged in with entity id 68495 at ([world]2495.1008670491, 103.0, 3003.159512579421)
+[01:10:56] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:10:56] [Server thread/INFO]: _TaeV_ left the game
+[01:11:00] [User Authenticator #18/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:11:01] [Server thread/INFO]: _TaeV_ joined the game
+[01:11:01] [Server thread/INFO]: _TaeV_[/127.151.148.217:43281] logged in with entity id 72371 at ([world]2498.5173845539507, 89.0, 3011.3556641715672)
+[01:11:38] [Server thread/INFO]: _TaeV_ lost connection: Timed out
+[01:11:38] [Server thread/INFO]: _TaeV_ left the game
+[01:12:02] [User Authenticator #19/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:12:03] [Server thread/INFO]: _TaeV_ joined the game
+[01:12:03] [Server thread/INFO]: _TaeV_[/127.151.148.217:43147] logged in with entity id 73005 at ([world]2500.498087974701, 88.9375, 3009.099378192412)
+[01:12:39] [Server thread/INFO]: _TaeV_ lost connection: Timed out
+[01:12:39] [Server thread/INFO]: _TaeV_ left the game
+[01:12:50] [User Authenticator #19/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:12:51] [Server thread/INFO]: _TaeV_ joined the game
+[01:12:51] [Server thread/INFO]: _TaeV_[/127.151.148.217:45001] logged in with entity id 73416 at ([world]2498.050379882248, 89.0, 3011.761551373015)
+[01:13:25] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:13:25] [Server thread/INFO]: _TaeV_ left the game
+[01:13:30] [User Authenticator #19/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[01:13:31] [Server thread/INFO]: _TaeV_ joined the game
+[01:13:31] [Server thread/INFO]: _TaeV_[/127.151.148.217:54787] logged in with entity id 73805 at ([world]2498.844619978523, 89.0, 3009.9113729240025)
+[01:19:36] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:19:36] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:22:51] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:22:51] [Server thread/INFO]: _TaeV_ left the game
+[01:25:35] [User Authenticator #20/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[01:25:35] [Server thread/INFO]: kanekasotaku lost connection: You logged in from another location
+[01:25:35] [Server thread/INFO]: kanekasotaku left the game
+[01:25:39] [Server thread/INFO]: kanekasotaku joined the game
+[01:25:39] [Server thread/INFO]: kanekasotaku[/127.226.126.10:39481] logged in with entity id 78552 at ([world]1613.2523481881353, 63.0, 1596.1131903155922)
+[01:25:48] [User Authenticator #20/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[01:25:51] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[01:25:51] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:57191] logged in with entity id 78573 at ([world]2491.2735450550726, 103.0, 2982.292088425855)
