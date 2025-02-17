@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1739824921660
+  logout: 1739828754371
+  login: 1739828784026
 money: '0'
 last-account-name: elpanajose
+logoutlocation:
+  world: 51bde1e6-62c9-46b3-a258-322723ff969b
+  world-name: world
+  x: 2497.2948950056193
+  y: 89.0
+  z: 3001.6724245627474
+  yaw: -147.75042724609375
+  pitch: 31.800016403198242

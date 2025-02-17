@@ -293,3 +293,14 @@ java.lang.IllegalStateException: zip file closed
 [21:30:11] [Server thread/INFO]: elpanajose was slain by elguatavo7u7159
 [21:40:23] [Server thread/INFO]: elpanajose has made the advancement [Monster Hunter]
 [21:41:11] [Server thread/INFO]: elpanajose was slain by Zombie
+[21:43:59] [Server thread/INFO]: elpanajose was slain by Zombie
+[21:45:54] [Server thread/INFO]: elpanajose lost connection: Disconnected
+[21:45:54] [Server thread/INFO]: elpanajose left the game
+[21:45:54] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[21:45:54] [Server thread/INFO]: elguatavo7u7159 left the game
+[21:46:04] [User Authenticator #9/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[21:46:05] [Server thread/INFO]: elguatavo7u7159 joined the game
+[21:46:05] [Server thread/INFO]: elguatavo7u7159[/127.106.62.204:40543] logged in with entity id 41847 at ([world]2509.657854755812, 89.0, 2998.699999988079)
+[21:46:23] [User Authenticator #9/INFO]: UUID of player elpanajose is 18a7d61d-1943-315e-bfae-68ac6a9a8bf1
+[21:46:24] [Server thread/INFO]: elpanajose joined the game
+[21:46:24] [Server thread/INFO]: elpanajose[/127.59.188.251:39555] logged in with entity id 42176 at ([world]2497.2948950056193, 89.0, 3001.6724245627474)
