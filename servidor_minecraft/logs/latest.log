@@ -325,3 +325,9 @@ java.lang.IllegalStateException: zip file closed
 [22:18:52] [Server thread/INFO]: elpanajose was shot by elguatavo7u7159
 [22:33:51] [Server thread/INFO]: elpanajose lost connection: Disconnected
 [22:33:51] [Server thread/INFO]: elpanajose left the game
+[22:59:43] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
+[23:02:31] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> asdasd
+[23:02:32] [Async Chat Thread - #8/INFO]: [Not Secure] <elguatavo7u7159> asd
+[23:04:10] [User Authenticator #12/INFO]: UUID of player NAT3333 is fdb66e07-9cc9-31fb-8fe6-a22936d04d0b
+[23:04:14] [Server thread/INFO]: NAT3333 joined the game
+[23:04:14] [Server thread/INFO]: NAT3333[/127.39.189.57:42309] logged in with entity id 64758 at ([world]61.5, 65.0, -41.5)
