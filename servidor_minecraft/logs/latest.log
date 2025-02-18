@@ -254,3 +254,11 @@ java.lang.IllegalStateException: zip file closed
 [23:26:25] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:60991] logged in with entity id 1527 at ([world]2484.4768758043856, 89.0, 2983.502131545049)
 [23:35:44] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
 [23:35:44] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:36:56] [User Authenticator #2/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:36:57] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:36:57] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:35635] logged in with entity id 3570 at ([world]2498.218943328059, 89.0, 3008.374842893553)
+[23:38:05] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:38:05] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:42:56] [User Authenticator #3/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:42:57] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:42:57] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:46945] logged in with entity id 4048 at ([world]2498.9978928348214, 89.0, 3005.2424854757764)
