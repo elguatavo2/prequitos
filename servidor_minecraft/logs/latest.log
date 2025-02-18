@@ -252,3 +252,5 @@ java.lang.IllegalStateException: zip file closed
 [23:26:22] [User Authenticator #1/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
 [23:26:25] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
 [23:26:25] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:60991] logged in with entity id 1527 at ([world]2484.4768758043856, 89.0, 2983.502131545049)
+[23:35:44] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:35:44] [Server thread/INFO]: ThiaguitoOwO2021 left the game
