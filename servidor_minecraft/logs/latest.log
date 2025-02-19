@@ -268,3 +268,17 @@ java.lang.IllegalStateException: zip file closed
 [23:42:30] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> 300 350
 [23:42:34] [Async Chat Thread - #4/INFO]: [Not Secure] <mechajuan3> 29
 [23:44:32] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> 150 550
+[23:45:58] [Server thread/INFO]: mechajuan3 lost connection: Timed out
+[23:45:58] [Server thread/INFO]: mechajuan3 left the game
+[23:46:26] [User Authenticator #6/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[23:46:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bfbd349[id=727da8e3-3bdf-3984-b365-8c5feeeb5d7a,name=mechajuan3,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczNzk0MjY0NDY5NywKICAicHJvZmlsZUlkIiA6ICI3Y2VmNTk2OGE2OGY0YmFjYmI0ZGI1NzhiMDZjMDI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcHJlZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWIyOTNhZTYxM2RjNDMxN2EzNmEzODlmODFiOGVjNjk2Njc5ODczZjU3NTBkOTBkYTA4MGZiMTU5NmI5NTYyYiIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMyOTQxMDA1N2UzMmFiZWMwMmQ4NzBlY2I1MmVjMjVmYjQ1ZWE4MWU3ODVhNzg1NGFlODQyOWQ3MjM2Y2EyNiIKICAgIH0KICB9Cn0=, signature=fm6zqG1g/qOCZb7wOnbQtJxusLWWa1ZJdO5qsQ0Z/xu5Bi00an5+iu3MVzz1A3Vnmzi4FbuuZKJ9rgkW179q8lRp0FnYJeIx8z4d2d0cU8UmTsYdwm0noQPcAC2VdJFrOUZImwGMVwBVomKZwbT2YeAbJLCLHL8f8vUgRbUFe1phWD5ZNGJOoGhn3MgMHGC+ozvgRPW/WG7bvvLbijfoFeCA62FNIM+2w6rXhyeWzIp3bd2HTmn7mFUep9a2IlHGMSVOBL/oktTtemdKJop6EvJHE1JjDjTYNjx9SNIlImdwRZPsmUz4ZEVp0nBZ8rQMj0coEO7Taq/Ks1UR2566zqGnBfwInSVLQ7MyUfeJAtJGQ2qYkKPySrlvvGdEn9vhSKF8b1711UTWJ8xO2SccMtCMlgkE4Uw0okRUKPSmHkPX+GhE+jpU21W0Io46bqblMcrOZIRwljl88IOKaekoNeyRuRdMBkvyHb9zr8NWURBhexypYXdQ09PmNzVClDJNKfLZ5DabSbtLn0Rt6i13EwVeTTMYr6octFj1bBCPnN7hDgKqpu+vwVM2Yn01NkEfJ6VL5c2Ne3lk19jJ61u+U2LNXWNclX9EiR5TJ6M6PMscSvpp2GU5lGq6eOW7qO8mTwFjXB78LZYbuIDiVnsa7tG83hoasSW+1LiC1xXaL1I=]]}] lost connection: Disconnected
+[23:48:47] [User Authenticator #7/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[23:48:54] [Server thread/INFO]: mechajuan3 joined the game
+[23:48:54] [Server thread/INFO]: mechajuan3[/127.241.198.181:41351] logged in with entity id 20329 at ([world_nether]112.30000001192093, 58.0, 550.3531610265137)
+[23:49:43] [Server thread/INFO]: mechajuan3 has reached the goal [Postmortal]
+[23:51:28] [Server thread/INFO]: Named entity Endermite['Jose Orellana'/20780, uuid='b1578c82-81ae-4edb-a515-b0bcc17d6449', l='ServerLevel[world_the_end]', x=341.49, y=47.19, z=33.03, cpos=[21, 2], tl=1181, v=true] died: Jose Orellana was slain by Enderman
+[23:53:11] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[23:53:11] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:53:20] [User Authenticator #8/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:53:21] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:53:21] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:57155] logged in with entity id 21963 at ([world]2482.699999988079, 89.0, 2990.8080363916824)
