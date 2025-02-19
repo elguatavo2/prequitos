@@ -240,3 +240,12 @@ java.lang.IllegalStateException: zip file closed
 [23:03:52] [Server thread/INFO]: kanekasotaku joined the game
 [23:03:52] [Server thread/INFO]: kanekasotaku[/127.243.135.75:46833] logged in with entity id 2334 at ([world]2499.6572075620525, 89.0, 3010.6331598067254)
 [23:08:50] [Server thread/WARN]: kanekasotaku moved wrongly!
+[23:20:16] [Server thread/INFO]: Named entity Endermite['Jose Orellana'/8265, uuid='fbf95f67-8736-4efa-b83d-61acb21df823', l='ServerLevel[world_the_end]', x=341.51, y=47.19, z=31.49, cpos=[21, 1], tl=1157, v=true] died: Jose Orellana was slain by Enderman
+[23:20:22] [Async Chat Thread - #2/INFO]: [Not Secure] <ThiaguitoOwO2021> nooo
+[23:20:28] [Async Chat Thread - #2/INFO]: [Not Secure] <ThiaguitoOwO2021> me mato el ender
+[23:20:31] [Async Chat Thread - #2/INFO]: [Not Secure] <ThiaguitoOwO2021> mite
+[23:21:41] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
+[23:21:41] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:21:54] [User Authenticator #2/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:21:56] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:21:56] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:35081] logged in with entity id 8892 at ([world]2499.5097313183746, 89.0, 3011.141236392485)
