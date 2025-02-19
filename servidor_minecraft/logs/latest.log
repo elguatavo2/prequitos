@@ -260,3 +260,11 @@ java.lang.IllegalStateException: zip file closed
 [23:29:21] [Server thread/INFO]: mechajuan3 joined the game
 [23:29:21] [Server thread/INFO]: mechajuan3[/127.241.198.181:48845] logged in with entity id 12047 at ([world]2501.61376181868, 89.0, 3012.5985545251524)
 [23:32:23] [Server thread/INFO]: Named entity Endermite['Jose Orellana'/12408, uuid='67b752c7-7f88-4580-b2f1-f11a0aacf7a0', l='ServerLevel[world_the_end]', x=341.49, y=47.19, z=33.46, cpos=[21, 2], tl=2752, v=true] died: Jose Orellana was slain by Enderman
+[23:40:52] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[23:40:52] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[23:41:38] [User Authenticator #5/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[23:41:39] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[23:41:39] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:59755] logged in with entity id 17420 at ([world_the_end]35.60300803713649, 62.0, 67.66006447450917)
+[23:42:30] [Async Chat Thread - #4/INFO]: [Not Secure] <elguatavo7u7159> 300 350
+[23:42:34] [Async Chat Thread - #4/INFO]: [Not Secure] <mechajuan3> 29
+[23:44:32] [Async Chat Thread - #6/INFO]: [Not Secure] <elguatavo7u7159> 150 550
