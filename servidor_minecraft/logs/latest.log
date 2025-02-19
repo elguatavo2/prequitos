@@ -237,3 +237,6 @@ java.lang.IllegalStateException: zip file closed
 [22:58:20] [Async Chat Thread - #0/INFO]: [Not Secure] <ThiaguitoOwO2021> come gustavo
 [22:58:31] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> la palta escayler
 [23:03:49] [User Authenticator #1/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[23:03:52] [Server thread/INFO]: kanekasotaku joined the game
+[23:03:52] [Server thread/INFO]: kanekasotaku[/127.243.135.75:46833] logged in with entity id 2334 at ([world]2499.6572075620525, 89.0, 3010.6331598067254)
+[23:08:50] [Server thread/WARN]: kanekasotaku moved wrongly!
