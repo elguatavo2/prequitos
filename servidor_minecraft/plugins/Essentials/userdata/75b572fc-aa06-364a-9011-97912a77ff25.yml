@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740013119079
+  logout: 1740014321175
   login: 1740013125824
 money: '0'
 last-account-name: elguatavo7u7159
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 2083.5572558006475
-  y: 185.0
-  z: 1905.300000011921
-  yaw: 178.07373046875
-  pitch: 39.46270751953125
+  x: 2500.563392048073
+  y: 89.0
+  z: 3006.074603218021
+  yaw: 109.34149169921875
+  pitch: 18.09006118774414
 lastlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
