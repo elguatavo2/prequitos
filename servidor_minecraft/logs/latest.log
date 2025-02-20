@@ -301,3 +301,6 @@ java.lang.IllegalStateException: zip file closed
 [21:50:59] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> sige el camino de railes
 [21:51:06] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> y jiras a la isquierda
 [21:51:19] [Async Chat Thread - #10/INFO]: [Not Secure] <elguatavo7u7159> suves con las alitra al modulo afk
+[22:37:16] [User Authenticator #7/INFO]: UUID of player MrCreeper is 1b571d94-4aef-3987-a0f4-fd4610a9627f
+[22:37:19] [Server thread/INFO]: MrCreeper joined the game
+[22:37:19] [Server thread/INFO]: MrCreeper[/127.71.79.128:48963] logged in with entity id 49232 at ([world]2499.699999988079, 103.0, 2967.699999988079)
