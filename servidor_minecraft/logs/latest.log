@@ -285,3 +285,9 @@ java.lang.IllegalStateException: zip file closed
 [21:32:30] [Async Chat Thread - #7/INFO]: [Not Secure] <ThiaguitoOwO2021> acabe los ejercicios y estoy esperando a q terminen :v
 [21:32:37] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> eso tiago
 [21:32:41] [Async Chat Thread - #7/INFO]: [Not Secure] <elguatavo7u7159> no se vuelva mañoso
+[21:44:05] [Server thread/WARN]: ThiaguitoOwO2021 was kicked for floating too long!
+[21:44:05] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Flying is not enabled on this server
+[21:44:05] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:44:14] [User Authenticator #5/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[21:44:15] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:44:15] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:50265] logged in with entity id 33515 at ([world]2115.305611513754, 69.11274447482063, 3314.581219254896)
