@@ -17,3 +17,19 @@
 [00:35:35] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
 [00:35:35] [Server thread/INFO]: mechajuan3 left the game
 [00:46:35] [Server thread/WARN]: ThiaguitoOwO2021 moved too quickly! 0.051542077231374606,0.0,-13.779286354600458
+[00:49:28] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[00:49:28] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[00:50:12] [Server thread/INFO]: Villager Villager['Weaponsmith'/66, uuid='3075b733-2c18-4fdd-862f-24d7d23b9e8a', l='ServerLevel[world]', x=2509.64, y=89.00, z=3010.55, cpos=[156, 188], tl=2448504, v=true] died, message: 'Weaponsmith was slain by elguatavo7u7159'
+[00:53:50] [Async Chat Thread - #10/INFO]: [Not Secure] <kanekasotaku> Z
+[00:58:16] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:58:16] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:58:19] [User Authenticator #11/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:58:20] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:58:20] [Server thread/INFO]: elguatavo7u7159[/127.163.149.174:59775] logged in with entity id 74246 at ([world]2083.699999988079, 185.0, 1905.699999988079)
+[00:58:39] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:58:39] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:58:45] [User Authenticator #11/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[00:58:45] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:58:45] [Server thread/INFO]: elguatavo7u7159[/127.163.149.174:39631] logged in with entity id 74345 at ([world]2083.5572558006475, 185.0, 1905.300000011921)
+[01:04:43] [Server thread/INFO]: Villager Villager['Librarian'/178, uuid='65a30699-d124-447e-acaa-e31e836f0e24', l='ServerLevel[world]', x=2464.69, y=89.19, z=2981.94, cpos=[154, 186], tl=2408961, v=true] died, message: 'Librarian suffocated in a wall'
+[01:04:44] [Server thread/INFO]: Villager Villager['Fletcher'/97, uuid='6b5959e7-e6f5-4b37-a2ef-7e62a1b516f9', l='ServerLevel[world]', x=2465.04, y=89.19, z=2982.74, cpos=[154, 186], tl=2480330, v=true] died, message: 'Fletcher suffocated in a wall'
