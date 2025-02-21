@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740092453354
+  logout: 1740179144121
   login: 1740178403456
 money: '0'
 last-account-name: _TaeV_
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 2848.4727572870224
-  y: 37.0
-  z: 3044.4335410683675
-  yaw: 77.47479248046875
-  pitch: 1.349956750869751
+  x: 2848.371557522997
+  y: 33.0
+  z: 3059.1748706307317
+  yaw: -179.1765899658203
+  pitch: 17.69995880126953

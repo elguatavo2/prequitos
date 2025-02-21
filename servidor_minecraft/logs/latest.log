@@ -247,3 +247,11 @@ java.lang.IllegalStateException: zip file closed
 [22:53:23] [Server thread/INFO]: _TaeV_ joined the game
 [22:53:23] [Server thread/INFO]: _TaeV_[/127.151.148.217:53395] logged in with entity id 375 at ([world]2848.4727572870224, 37.0, 3044.4335410683675)
 [22:57:58] [Server thread/INFO]: elguatavo7u7159 has completed the challenge [Cover Me in Debris]
+[23:04:01] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> lo los a¡ahcemos aca
+[23:04:06] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> ?
+[23:05:44] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[23:05:44] [Server thread/INFO]: _TaeV_ left the game
+[23:08:12] [User Authenticator #1/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[23:08:15] [Server thread/INFO]: kanekasotaku joined the game
+[23:08:15] [Server thread/INFO]: kanekasotaku[/127.146.202.33:51101] logged in with entity id 2482 at ([world]2466.8707424736476, 89.0, 2980.6084025807527)
+[23:09:28] [Server thread/INFO]: elguatavo7u7159 issued server command: /skin set vejeta777
