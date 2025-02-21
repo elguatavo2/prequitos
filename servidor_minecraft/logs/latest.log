@@ -257,3 +257,9 @@ java.lang.IllegalStateException: zip file closed
 [23:09:28] [Server thread/INFO]: elguatavo7u7159 issued server command: /skin set vejeta777
 [23:14:14] [Server thread/INFO]: kanekasotaku has made the advancement [Minecraft: Trial(s) Edition]
 [23:17:40] [Server thread/INFO]: kanekasotaku has made the advancement [Under Lock and Key]
+[23:25:32] [User Authenticator #2/INFO]: UUID of player kanekasotaku is a5a1ae33-1829-3f1d-b6a1-413808b2dbae
+[23:25:32] [Server thread/INFO]: kanekasotaku lost connection: You logged in from another location
+[23:25:32] [Server thread/INFO]: kanekasotaku left the game
+[23:25:34] [Server thread/INFO]: kanekasotaku joined the game
+[23:25:34] [Server thread/INFO]: kanekasotaku[/127.146.202.33:44825] logged in with entity id 5987 at ([world]2455.4861299690606, -10.0, 2885.3457130472757)
+[23:29:13] [Server thread/INFO]: kanekasotaku has reached the goal [Revaulting]

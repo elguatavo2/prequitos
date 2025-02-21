@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740014324473
-  login: 1740179295291
+  logout: 1740180332683
+  login: 1740180334340
 money: '0'
 last-account-name: kanekasotaku
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 2466.8707424736476
-  y: 89.0
-  z: 2980.6084025807527
-  yaw: 53.489013671875
-  pitch: 12.649357795715332
+  x: 2455.4861299690606
+  y: -10.0
+  z: 2885.3457130472757
+  yaw: -2.0546875
+  pitch: 11.458048820495605
