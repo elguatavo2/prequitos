@@ -374,3 +374,17 @@ java.lang.IllegalStateException: zip file closed
 [16:29:12] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
 [16:29:12] [Server thread/INFO]: ThiaguitoOwO2021 left the game
 [16:34:58] [Server thread/WARN]: mechajuan3 moved wrongly!
+[16:42:48] [Server thread/WARN]: mechajuan3 moved wrongly!
+[16:42:56] [Server thread/WARN]: mechajuan3 moved wrongly!
+[16:42:56] [User Authenticator #9/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[16:42:58] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[16:42:58] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:53455] logged in with entity id 158552 at ([world]2477.4416727149023, 89.0, 2970.8863211396506)
+[16:43:01] [Server thread/WARN]: mechajuan3 moved wrongly!
+[16:48:38] [User Authenticator #10/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[16:48:40] [Server thread/INFO]: _TaeV_ joined the game
+[16:48:40] [Server thread/INFO]: _TaeV_[/127.151.148.217:49303] logged in with entity id 165321 at ([world]2848.087853520157, 33.0, 3059.7723488339884)
+[16:56:30] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[16:56:30] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[16:57:21] [User Authenticator #11/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[16:57:23] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[16:57:23] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:48743] logged in with entity id 175227 at ([world_the_end]1013.8874406745382, 63.200000047683716, -600.3000000119209)
