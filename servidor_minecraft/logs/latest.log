@@ -236,3 +236,18 @@ java.lang.IllegalStateException: zip file closed
 [20:52:34] [Server thread/INFO]: Done (81.905s)! For help, type "help"
 [20:52:34] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] You're 16 EssentialsX dev build(s) out of date!
 [20:52:34] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[21:02:06] [User Authenticator #0/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[21:02:08] [Server thread/INFO]: elguatavo7u7159 joined the game
+[21:02:08] [Server thread/INFO]: elguatavo7u7159[/127.59.170.192:49255] logged in with entity id 15 at ([world]2080.300000011921, 185.0, 1904.699999988079)
+[21:03:18] [User Authenticator #1/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[21:03:19] [Server thread/INFO]: _TaeV_ joined the game
+[21:03:19] [Server thread/INFO]: _TaeV_[/127.151.148.217:37109] logged in with entity id 348 at ([world_the_end]333.80820139770157, 1.0, 35.19556421987687)
+[21:03:19] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: cc283a17-f933-492e-af87-298018bae383, mapped to EnderMan['Enderman'/433, uuid='cc283a17-f933-492e-af87-298018bae383', l='ServerLevel[world_the_end]', x=341.36, y=38.65, z=32.51, cpos=[21, 2], tl=71, v=true], can't add EnderMan['Enderman'/559, uuid='cc283a17-f933-492e-af87-298018bae383', l='ServerLevel[world_the_end]', x=340.65, y=41.92, z=31.68, cpos=[21, 1], tl=63, v=false]
+[21:03:19] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ce6bf59c-e8cf-40d3-be80-bbb72a8d984d, mapped to ExperienceOrb['Experience Orb'/530, uuid='ce6bf59c-e8cf-40d3-be80-bbb72a8d984d', l='ServerLevel[world_the_end]', x=335.87, y=1.00, z=30.96, cpos=[20, 1], tl=0, v=true], can't add ExperienceOrb['Experience Orb'/616, uuid='ce6bf59c-e8cf-40d3-be80-bbb72a8d984d', l='ServerLevel[world_the_end]', x=336.20, y=1.00, z=30.95, cpos=[21, 1], tl=0, v=false]
+[21:03:19] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 40ca360c-26a9-429a-830d-46cafb1d203c, mapped to EnderMan['Enderman'/528, uuid='40ca360c-26a9-429a-830d-46cafb1d203c', l='ServerLevel[world_the_end]', x=335.84, y=42.00, z=28.84, cpos=[20, 1], tl=41, v=true], can't add EnderMan['Enderman'/665, uuid='40ca360c-26a9-429a-830d-46cafb1d203c', l='ServerLevel[world_the_end]', x=337.44, y=42.00, z=30.30, cpos=[21, 1], tl=46, v=false]
+[21:03:44] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
+[21:05:32] [User Authenticator #2/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[21:05:37] [Server thread/INFO]: mechajuan3 joined the game
+[21:05:37] [Server thread/INFO]: mechajuan3[/127.241.198.181:41187] logged in with entity id 2770 at ([world_the_end]343.4880560958012, 1.0, 29.700661996080868)
+[21:11:41] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Local Brewery]
+[21:16:11] [Server thread/INFO]: elguatavo7u7159 has reached the goal [Zombie Doctor]
