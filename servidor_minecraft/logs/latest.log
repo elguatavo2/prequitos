@@ -255,3 +255,9 @@ java.lang.IllegalStateException: zip file closed
 [21:29:51] [Server thread/INFO]: mechajuan3 left the game
 [21:39:01] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Sneak 100]
 [22:11:58] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
+[22:26:38] [Server thread/WARN]: _TaeV_ moved wrongly!
+[22:30:52] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[22:30:53] [Server thread/INFO]: elguatavo7u7159 left the game
+[22:30:55] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
+[22:30:56] [Server thread/INFO]: elguatavo7u7159 joined the game
+[22:30:56] [Server thread/INFO]: elguatavo7u7159[/127.59.170.192:54905] logged in with entity id 47727 at ([world]2862.270612619619, 38.0, 3037.6629723672277)
