@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740324387189
+  logout: 1740328152652
   login: 1740325178196
 money: '0'
 last-account-name: ThiaguitoOwO2021
 logoutlocation:
   world: 51bde1e6-62c9-46b3-a258-322723ff969b
   world-name: world
-  x: 2119.1764041893402
-  y: 69.0
-  z: 3332.7658586403254
-  yaw: 141.0152587890625
-  pitch: 24.680593490600586
+  x: 2477.4416727149023
+  y: 89.0
+  z: 2970.8825708745553
+  yaw: -8.0086669921875
+  pitch: 16.877853393554688
