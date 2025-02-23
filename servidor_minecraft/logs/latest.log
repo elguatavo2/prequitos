@@ -334,3 +334,18 @@ java.lang.IllegalStateException: zip file closed
 [15:41:50] [User Authenticator #7/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
 [15:41:51] [Server thread/INFO]: _TaeV_ joined the game
 [15:41:51] [Server thread/INFO]: _TaeV_[/127.151.148.217:59551] logged in with entity id 107955 at ([world]2849.34098860678, 33.0, 3061.1092779710657)
+[15:46:51] [Server thread/INFO]: Villager Villager['Fletcher'/114422, uuid='428cdc11-4cfa-487c-81ce-47ac9513ef9d', l='ServerLevel[world]', x=2480.69, y=89.00, z=2967.69, cpos=[155, 185], tl=2271834, v=true] died, message: 'Fletcher was slain by Zombie'
+[15:47:01] [Server thread/INFO]: Villager Villager['Cleric'/114425, uuid='088cb059-bc7b-4c5d-a2b1-7e6a862510c9', l='ServerLevel[world]', x=2464.30, y=89.00, z=2970.30, cpos=[154, 185], tl=3294749, v=true] died, message: 'Cleric was slain by Zombie'
+[15:47:13] [Server thread/INFO]: Villager Villager['Fletcher'/114421, uuid='8f0cef21-8cbb-48ea-8384-718bf8d05954', l='ServerLevel[world]', x=2480.69, y=89.00, z=2969.31, cpos=[155, 185], tl=2433726, v=true] died, message: 'Fletcher was slain by Zombie'
+[15:47:23] [Server thread/INFO]: Villager Villager['Cleric'/114426, uuid='8342545c-f79a-44d5-bc65-fbb023b532ef', l='ServerLevel[world]', x=2464.30, y=89.00, z=2972.30, cpos=[154, 185], tl=2233724, v=true] died, message: 'Cleric was slain by Zombie'
+[15:47:36] [Server thread/INFO]: Villager Villager['Fletcher'/114443, uuid='8e1778a0-f05f-4176-9e3c-e226b43392d2', l='ServerLevel[world]', x=2491.70, y=89.00, z=2980.70, cpos=[155, 186], tl=3156307, v=true] died, message: 'Fletcher was slain by Zombie'
+[15:48:09] [Server thread/INFO]: mechajuan3 has made the advancement [Local Brewery]
+[15:51:55] [Server thread/INFO]: Villager Villager['Fletcher'/114444, uuid='d8453fdf-362d-4a73-9489-4767af444ec5', l='ServerLevel[world]', x=2491.70, y=89.00, z=2978.30, cpos=[155, 186], tl=3147421, v=true] died, message: 'Fletcher was slain by Zombie'
+[15:52:43] [Server thread/INFO]: Villager Villager['Librarian'/114448, uuid='89e6f40f-dcb6-4160-b429-a7e53d35b6d7', l='ServerLevel[world]', x=2464.31, y=89.00, z=2981.31, cpos=[154, 186], tl=2568130, v=true] died, message: 'Librarian was slain by Zombie'
+[15:52:55] [Async Chat Thread - #18/INFO]: [Not Secure] <ThiaguitoOwO2021> we gus
+[15:52:57] [Server thread/INFO]: Villager Villager['Librarian'/114449, uuid='8fd10f99-3591-4c83-95b4-878d889cfbfd', l='ServerLevel[world]', x=2467.69, y=89.00, z=2990.69, cpos=[154, 186], tl=2994266, v=true] died, message: 'Librarian was slain by Zombie'
+[15:53:00] [Async Chat Thread - #19/INFO]: [Not Secure] <elguatavo7u7159> diaga
+[15:53:00] [Async Chat Thread - #19/INFO]: [Not Secure] <ThiaguitoOwO2021> cual era el nickname de leo?
+[15:53:04] [Server thread/INFO]: Villager Villager['Librarian'/114447, uuid='82d0d64d-04b7-4d42-b2b9-78e44668a4d0', l='ServerLevel[world]', x=2464.31, y=89.00, z=2987.69, cpos=[154, 186], tl=3050114, v=true] died, message: 'Librarian was slain by Zombie'
+[15:53:21] [Async Chat Thread - #19/INFO]: [Not Secure] <elguatavo7u7159> MC cepe leo o algo si
+[15:53:29] [Async Chat Thread - #19/INFO]: [Not Secure] <elguatavo7u7159> cepe XD
