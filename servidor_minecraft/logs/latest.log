@@ -255,3 +255,5 @@ java.lang.IllegalStateException: zip file closed
 [13:47:26] [Server thread/INFO]: _TaeV_[/127.151.148.217:45607] logged in with entity id 3778 at ([world]2848.7191111533066, 33.0, 3060.0607846206335)
 [13:50:01] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> 6
 [14:07:05] [Server thread/WARN]: mechajuan3 moved wrongly!
+[14:14:36] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode spectator
+[14:14:48] [Server thread/INFO]: elguatavo7u7159 issued server command: /gamemode survival
