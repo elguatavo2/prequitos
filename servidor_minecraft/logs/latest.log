@@ -316,3 +316,21 @@ java.lang.IllegalStateException: zip file closed
 [15:08:25] [Async Chat Thread - #14/INFO]: [Not Secure] <ThiaguitoOwO2021> x2
 [15:24:59] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
 [15:24:59] [Server thread/INFO]: _TaeV_ left the game
+[15:26:27] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[15:26:27] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[15:30:06] [Async Chat Thread - #16/INFO]: [Not Secure] <elguatavo7u7159> un rato
+[15:30:09] [Async Chat Thread - #16/INFO]: [Not Secure] <elguatavo7u7159> un rato pe
+[15:30:28] [Async Chat Thread - #16/INFO]: [Not Secure] <elguatavo7u7159> carajo
+[15:30:30] [Async Chat Thread - #16/INFO]: [Not Secure] <elguatavo7u7159> carajo
+[15:31:19] [User Authenticator #5/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[15:31:21] [Server thread/INFO]: _TaeV_ joined the game
+[15:31:21] [Server thread/INFO]: _TaeV_[/127.151.148.217:50199] logged in with entity id 88688 at ([world]2856.0082510376906, 38.0, 3038.518136410277)
+[15:33:23] [Server thread/INFO]: _TaeV_ has made the advancement [Crafting a New Look]
+[15:39:37] [User Authenticator #6/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[15:39:38] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[15:39:38] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:47901] logged in with entity id 105664 at ([world]2119.1764041893402, 69.0, 3332.7658586403254)
+[15:40:46] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[15:40:46] [Server thread/INFO]: _TaeV_ left the game
+[15:41:50] [User Authenticator #7/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[15:41:51] [Server thread/INFO]: _TaeV_ joined the game
+[15:41:51] [Server thread/INFO]: _TaeV_[/127.151.148.217:59551] logged in with entity id 107955 at ([world]2849.34098860678, 33.0, 3061.1092779710657)
