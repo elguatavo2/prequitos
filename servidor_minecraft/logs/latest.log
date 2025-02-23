@@ -394,3 +394,8 @@ java.lang.IllegalStateException: zip file closed
 [17:06:51] [Server thread/WARN]: _TaeV_ moved wrongly!
 [17:15:41] [Server thread/INFO]: _TaeV_ experienced kinetic energy
 [17:27:29] [Async Chat Thread - #28/INFO]: [Not Secure] <mechajuan3> XD
+[17:48:43] [User Authenticator #12/INFO]: UUID of player ThiaguitoOwO2021 is af141437-727c-30fc-9a69-1a126a779720
+[17:48:44] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[17:48:44] [Server thread/INFO]: ThiaguitoOwO2021[/127.36.229.155:54841] logged in with entity id 198538 at ([world_the_end]987.6959251745161, 130.0, -620.6466163492344)
+[17:49:44] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[17:49:44] [Server thread/INFO]: ThiaguitoOwO2021 left the game
