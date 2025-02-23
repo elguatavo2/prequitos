@@ -237,3 +237,20 @@ java.lang.IllegalStateException: zip file closed
 [13:23:47] [Server thread/INFO]: elguatavo7u7159[/127.225.1.243:48583] logged in with entity id 28 at ([world]2490.6813462187874, 89.0, 3002.1889582601098)
 [13:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
 [13:24:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6145ms or 122 ticks behind
+[13:45:05] [User Authenticator #1/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[13:45:10] [Server thread/INFO]: _TaeV_ joined the game
+[13:45:10] [Server thread/INFO]: _TaeV_[/127.151.148.217:46597] logged in with entity id 3140 at ([world]2848.371557522997, 33.0, 3059.1748706307317)
+[13:45:54] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[13:45:54] [Server thread/INFO]: _TaeV_ left the game
+[13:45:56] [User Authenticator #1/INFO]: UUID of player mechajuan3 is 727da8e3-3bdf-3984-b365-8c5feeeb5d7a
+[13:46:02] [Server thread/INFO]: mechajuan3 joined the game
+[13:46:02] [Server thread/INFO]: mechajuan3[/127.241.198.181:56959] logged in with entity id 3250 at ([world]2486.366891335074, 89.0, 2998.7137908363657)
+[13:46:04] [User Authenticator #1/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[13:46:05] [Server thread/INFO]: _TaeV_ joined the game
+[13:46:05] [Server thread/INFO]: _TaeV_[/127.151.148.217:35553] logged in with entity id 3424 at ([world]2848.668906258923, 33.0, 3059.7679596688745)
+[13:47:18] [Server thread/INFO]: _TaeV_ lost connection: Timed out
+[13:47:18] [Server thread/INFO]: _TaeV_ left the game
+[13:47:25] [User Authenticator #2/INFO]: UUID of player _TaeV_ is 895f9bd5-5573-3693-a081-493db59ea955
+[13:47:26] [Server thread/INFO]: _TaeV_ joined the game
+[13:47:26] [Server thread/INFO]: _TaeV_[/127.151.148.217:45607] logged in with entity id 3778 at ([world]2848.7191111533066, 33.0, 3060.0607846206335)
+[13:50:01] [Async Chat Thread - #0/INFO]: [Not Secure] <elguatavo7u7159> 6
