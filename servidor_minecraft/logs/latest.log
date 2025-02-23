@@ -261,3 +261,5 @@ java.lang.IllegalStateException: zip file closed
 [22:30:55] [User Authenticator #3/INFO]: UUID of player elguatavo7u7159 is 75b572fc-aa06-364a-9011-97912a77ff25
 [22:30:56] [Server thread/INFO]: elguatavo7u7159 joined the game
 [22:30:56] [Server thread/INFO]: elguatavo7u7159[/127.59.170.192:54905] logged in with entity id 47727 at ([world]2862.270612619619, 38.0, 3037.6629723672277)
+[23:08:14] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[23:08:14] [Server thread/INFO]: _TaeV_ left the game
